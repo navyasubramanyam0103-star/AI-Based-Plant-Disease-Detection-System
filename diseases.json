@@ -1,0 +1,2765 @@
+{
+  "Apple___Apple_scab": {
+    "id": "Apple___Apple_scab",
+    "crop": {
+      "en": "Apple",
+      "hi": "सेब",
+      "te": "యాపిల్"
+    },
+    "disease_name": {
+      "en": "Apple scab",
+      "hi": "Apple scab",
+      "te": "Apple scab"
+    },
+    "pathogen_type": "fungal",
+    "scientific_name": "Fungal Pathogen",
+    "is_healthy": false,
+    "summary": {
+      "en": "Disease lesions identified on Apple leaf consistent with Apple scab. Affects leaf vigor and photosynthetic efficiency.",
+      "hi": "सेब की पत्ती पर Apple scab के लक्षण पाए गए हैं। इससे पत्ती की प्रकाश संश्लेषण क्षमता और पौधे का स्वास्थ्य प्रभावित होता है।",
+      "te": "యాపిల్ ఆకుపై Apple scab తెగులు లక్షణాలు గుర్తించబడ్డాయి. ఇది ఆకుల పచ్చదనాన్ని మరియు పంట దిగుబడిని తగ్గిస్తుంది."
+    },
+    "symptoms": {
+      "en": [
+        "Visible spots or discoloration typical of Apple scab on foliage",
+        "Gradual chlorosis spreading outward from infection centers",
+        "Reduced plant vigor if left unchecked"
+      ],
+      "hi": [
+        "पत्तियों पर Apple scab के विशिष्ट धब्बे या विकृति",
+        "संक्रमित भाग के आसपास पीलापन फैलना",
+        "समय पर ध्यान न देने पर पौधे की कमजोरी"
+      ],
+      "te": [
+        "ఆకులపై Apple scab తెగులు మచ్చలు లేదా మార్పులు",
+        "మచ్చల చుట్టూ పసుపు రంగు వ్యాపించడం",
+        "నివారించకపోతే పంట బలహీనపడటం"
+      ]
+    },
+    "favorable_conditions": {
+      "en": [
+        "High humidity, wet canopy, or dense foliage",
+        "Unfavorable temperature extremes weakening plant defense",
+        "Improper spacing"
+      ],
+      "hi": [
+        "अधिक आर्द्रता, पत्तियों पर पानी का ठहराव या घना फैलाव",
+        "प्रतिकूल तापमान जिससे पौधा कमजोर होता है",
+        "उचित दूरी का अभाव"
+      ],
+      "te": [
+        "అధిక తేమ లేదా ఆకులపై ఎక్కువ సమయం నీరు నిల్వ ఉండటం",
+        "వాతావరణంలో ఆకస్మిక మార్పులు",
+        "మొక్కల మధ్య సరైన దూరం లేకపోవడం"
+      ]
+    },
+    "immediate_actions": {
+      "en": [
+        "Isolate and remove diseased leaves",
+        "Stop overhead irrigation to avoid splashing spores",
+        "Sterilize pruning tools after handling"
+      ],
+      "hi": [
+        "संक्रमित पत्तियों को तोड़कर नष्ट करें",
+        "ऊपर से पानी देना बंद करें ताकि रोग न फैले",
+        "उपकरणों को साफ रखें"
+      ],
+      "te": [
+        "తెగులు సోకిన ఆకులను తుంచి నాశనం చేయండి",
+        "పైనుండి నీరు చల్లడం ఆపండి",
+        "పనిముట్లను శుభ్రపరచండి"
+      ]
+    }
+  },
+  "Apple___Black_rot": {
+    "id": "Apple___Black_rot",
+    "crop": {
+      "en": "Apple",
+      "hi": "सेब",
+      "te": "యాపిల్"
+    },
+    "disease_name": {
+      "en": "Black rot",
+      "hi": "Black rot",
+      "te": "Black rot"
+    },
+    "pathogen_type": "fungal",
+    "scientific_name": "Fungal Pathogen",
+    "is_healthy": false,
+    "summary": {
+      "en": "Disease lesions identified on Apple leaf consistent with Black rot. Affects leaf vigor and photosynthetic efficiency.",
+      "hi": "सेब की पत्ती पर Black rot के लक्षण पाए गए हैं। इससे पत्ती की प्रकाश संश्लेषण क्षमता और पौधे का स्वास्थ्य प्रभावित होता है।",
+      "te": "యాపిల్ ఆకుపై Black rot తెగులు లక్షణాలు గుర్తించబడ్డాయి. ఇది ఆకుల పచ్చదనాన్ని మరియు పంట దిగుబడిని తగ్గిస్తుంది."
+    },
+    "symptoms": {
+      "en": [
+        "Visible spots or discoloration typical of Black rot on foliage",
+        "Gradual chlorosis spreading outward from infection centers",
+        "Reduced plant vigor if left unchecked"
+      ],
+      "hi": [
+        "पत्तियों पर Black rot के विशिष्ट धब्बे या विकृति",
+        "संक्रमित भाग के आसपास पीलापन फैलना",
+        "समय पर ध्यान न देने पर पौधे की कमजोरी"
+      ],
+      "te": [
+        "ఆకులపై Black rot తెగులు మచ్చలు లేదా మార్పులు",
+        "మచ్చల చుట్టూ పసుపు రంగు వ్యాపించడం",
+        "నివారించకపోతే పంట బలహీనపడటం"
+      ]
+    },
+    "favorable_conditions": {
+      "en": [
+        "High humidity, wet canopy, or dense foliage",
+        "Unfavorable temperature extremes weakening plant defense",
+        "Improper spacing"
+      ],
+      "hi": [
+        "अधिक आर्द्रता, पत्तियों पर पानी का ठहराव या घना फैलाव",
+        "प्रतिकूल तापमान जिससे पौधा कमजोर होता है",
+        "उचित दूरी का अभाव"
+      ],
+      "te": [
+        "అధిక తేమ లేదా ఆకులపై ఎక్కువ సమయం నీరు నిల్వ ఉండటం",
+        "వాతావరణంలో ఆకస్మిక మార్పులు",
+        "మొక్కల మధ్య సరైన దూరం లేకపోవడం"
+      ]
+    },
+    "immediate_actions": {
+      "en": [
+        "Isolate and remove diseased leaves",
+        "Stop overhead irrigation to avoid splashing spores",
+        "Sterilize pruning tools after handling"
+      ],
+      "hi": [
+        "संक्रमित पत्तियों को तोड़कर नष्ट करें",
+        "ऊपर से पानी देना बंद करें ताकि रोग न फैले",
+        "उपकरणों को साफ रखें"
+      ],
+      "te": [
+        "తెగులు సోకిన ఆకులను తుంచి నాశనం చేయండి",
+        "పైనుండి నీరు చల్లడం ఆపండి",
+        "పనిముట్లను శుభ్రపరచండి"
+      ]
+    }
+  },
+  "Apple___Cedar_apple_rust": {
+    "id": "Apple___Cedar_apple_rust",
+    "crop": {
+      "en": "Apple",
+      "hi": "सेब",
+      "te": "యాపిల్"
+    },
+    "disease_name": {
+      "en": "Cedar apple rust",
+      "hi": "Cedar apple rust",
+      "te": "Cedar apple rust"
+    },
+    "pathogen_type": "fungal",
+    "scientific_name": "Fungal Pathogen",
+    "is_healthy": false,
+    "summary": {
+      "en": "Disease lesions identified on Apple leaf consistent with Cedar apple rust. Affects leaf vigor and photosynthetic efficiency.",
+      "hi": "सेब की पत्ती पर Cedar apple rust के लक्षण पाए गए हैं। इससे पत्ती की प्रकाश संश्लेषण क्षमता और पौधे का स्वास्थ्य प्रभावित होता है।",
+      "te": "యాపిల్ ఆకుపై Cedar apple rust తెగులు లక్షణాలు గుర్తించబడ్డాయి. ఇది ఆకుల పచ్చదనాన్ని మరియు పంట దిగుబడిని తగ్గిస్తుంది."
+    },
+    "symptoms": {
+      "en": [
+        "Visible spots or discoloration typical of Cedar apple rust on foliage",
+        "Gradual chlorosis spreading outward from infection centers",
+        "Reduced plant vigor if left unchecked"
+      ],
+      "hi": [
+        "पत्तियों पर Cedar apple rust के विशिष्ट धब्बे या विकृति",
+        "संक्रमित भाग के आसपास पीलापन फैलना",
+        "समय पर ध्यान न देने पर पौधे की कमजोरी"
+      ],
+      "te": [
+        "ఆకులపై Cedar apple rust తెగులు మచ్చలు లేదా మార్పులు",
+        "మచ్చల చుట్టూ పసుపు రంగు వ్యాపించడం",
+        "నివారించకపోతే పంట బలహీనపడటం"
+      ]
+    },
+    "favorable_conditions": {
+      "en": [
+        "High humidity, wet canopy, or dense foliage",
+        "Unfavorable temperature extremes weakening plant defense",
+        "Improper spacing"
+      ],
+      "hi": [
+        "अधिक आर्द्रता, पत्तियों पर पानी का ठहराव या घना फैलाव",
+        "प्रतिकूल तापमान जिससे पौधा कमजोर होता है",
+        "उचित दूरी का अभाव"
+      ],
+      "te": [
+        "అధిక తేమ లేదా ఆకులపై ఎక్కువ సమయం నీరు నిల్వ ఉండటం",
+        "వాతావరణంలో ఆకస్మిక మార్పులు",
+        "మొక్కల మధ్య సరైన దూరం లేకపోవడం"
+      ]
+    },
+    "immediate_actions": {
+      "en": [
+        "Isolate and remove diseased leaves",
+        "Stop overhead irrigation to avoid splashing spores",
+        "Sterilize pruning tools after handling"
+      ],
+      "hi": [
+        "संक्रमित पत्तियों को तोड़कर नष्ट करें",
+        "ऊपर से पानी देना बंद करें ताकि रोग न फैले",
+        "उपकरणों को साफ रखें"
+      ],
+      "te": [
+        "తెగులు సోకిన ఆకులను తుంచి నాశనం చేయండి",
+        "పైనుండి నీరు చల్లడం ఆపండి",
+        "పనిముట్లను శుభ్రపరచండి"
+      ]
+    }
+  },
+  "Apple___healthy": {
+    "id": "Apple___healthy",
+    "crop": {
+      "en": "Apple",
+      "hi": "सेब",
+      "te": "యాపిల్"
+    },
+    "disease_name": {
+      "en": "healthy",
+      "hi": "healthy",
+      "te": "healthy"
+    },
+    "pathogen_type": "none",
+    "scientific_name": "None (Healthy tissue)",
+    "is_healthy": true,
+    "summary": {
+      "en": "The Apple leaf appears healthy with normal chlorophyll pigmentation, smooth margins, and no obvious disease symptoms.",
+      "hi": "सेब की यह पत्ती सामान्य क्लोरोफिल, स्वस्थ बनावट और बिना किसी बीमारी के लक्षणों के पूरी तरह स्वस्थ दिखती है।",
+      "te": "యాపిల్ ఆకు సాధారణ క్లోరోఫిల్, సహజమైన ఆకృతితో ఎటువంటి వ్యాధి లక్షణాలు లేకుండా ఆరోగ్యంగా ఉంది."
+    },
+    "symptoms": {
+      "en": [
+        "Vibrant green foliage with uniform coloration",
+        "Absence of lesions, spots, yellowing, or deformities",
+        "Intact leaf veins and margins"
+      ],
+      "hi": [
+        "एकसमान हरा रंग और प्राकृतिक चमक",
+        "किसी भी प्रकार के धब्बे, झुलसा या विकृति का अभाव",
+        "स्वस्थ नसें और किनारे"
+      ],
+      "te": [
+        "సహజమైన ఆకుపచ్చ రంగు",
+        "మచ్చలు, పసుపుదనం లేదా ముడతలు లేకపోవడం",
+        "ఆరోగ్యకరమైన ఈనెలు"
+      ]
+    },
+    "favorable_conditions": {
+      "en": [
+        "Good soil drainage and optimal balanced nutrition",
+        "Adequate aeration and sunlight",
+        "Routine preventive scouting"
+      ],
+      "hi": [
+        "उत्तम जल निकासी और संतुलित पोषण",
+        "पर्याप्त धूप और हवा",
+        "नियमित देखभाल"
+      ],
+      "te": [
+        "మంచి నీటి పారుదల మరియు సమతుల్య పోషకాలు",
+        "సరిపడా ఎండ మరియు గాలి",
+        "నిరంతర సంరక్షణ"
+      ]
+    },
+    "immediate_actions": {
+      "en": [
+        "No chemical treatment required",
+        "Maintain balanced irrigation schedule (avoid over-watering)",
+        "Continue routine field monitoring for early pest/disease detection"
+      ],
+      "hi": [
+        "किसी भी रासायनिक दवा की आवश्यकता नहीं है",
+        "उचित सिंचाई जारी रखें (अत्यधिक पानी से बचें)",
+        "नियमित रूप से फसल का निरीक्षण करते रहें"
+      ],
+      "te": [
+        "ఎటువంటి రసాయన మందులు అవసరం లేదు",
+        "సమయానుకూలంగా నీటి తడులు ఇవ్వండి",
+        "తెగుళ్లు రాకుండా ఎప్పటికప్పుడు పంటను పరిశీలిస్తూ ఉండండి"
+      ]
+    }
+  },
+  "Blueberry___healthy": {
+    "id": "Blueberry___healthy",
+    "crop": {
+      "en": "Blueberry",
+      "hi": "ब्लूबेरी",
+      "te": "బ్లూబెర్రీ"
+    },
+    "disease_name": {
+      "en": "healthy",
+      "hi": "healthy",
+      "te": "healthy"
+    },
+    "pathogen_type": "none",
+    "scientific_name": "None (Healthy tissue)",
+    "is_healthy": true,
+    "summary": {
+      "en": "The Blueberry leaf appears healthy with normal chlorophyll pigmentation, smooth margins, and no obvious disease symptoms.",
+      "hi": "ब्लूबेरी की यह पत्ती सामान्य क्लोरोफिल, स्वस्थ बनावट और बिना किसी बीमारी के लक्षणों के पूरी तरह स्वस्थ दिखती है।",
+      "te": "బ్లూబెర్రీ ఆకు సాధారణ క్లోరోఫిల్, సహజమైన ఆకృతితో ఎటువంటి వ్యాధి లక్షణాలు లేకుండా ఆరోగ్యంగా ఉంది."
+    },
+    "symptoms": {
+      "en": [
+        "Vibrant green foliage with uniform coloration",
+        "Absence of lesions, spots, yellowing, or deformities",
+        "Intact leaf veins and margins"
+      ],
+      "hi": [
+        "एकसमान हरा रंग और प्राकृतिक चमक",
+        "किसी भी प्रकार के धब्बे, झुलसा या विकृति का अभाव",
+        "स्वस्थ नसें और किनारे"
+      ],
+      "te": [
+        "సహజమైన ఆకుపచ్చ రంగు",
+        "మచ్చలు, పసుపుదనం లేదా ముడతలు లేకపోవడం",
+        "ఆరోగ్యకరమైన ఈనెలు"
+      ]
+    },
+    "favorable_conditions": {
+      "en": [
+        "Good soil drainage and optimal balanced nutrition",
+        "Adequate aeration and sunlight",
+        "Routine preventive scouting"
+      ],
+      "hi": [
+        "उत्तम जल निकासी और संतुलित पोषण",
+        "पर्याप्त धूप और हवा",
+        "नियमित देखभाल"
+      ],
+      "te": [
+        "మంచి నీటి పారుదల మరియు సమతుల్య పోషకాలు",
+        "సరిపడా ఎండ మరియు గాలి",
+        "నిరంతర సంరక్షణ"
+      ]
+    },
+    "immediate_actions": {
+      "en": [
+        "No chemical treatment required",
+        "Maintain balanced irrigation schedule (avoid over-watering)",
+        "Continue routine field monitoring for early pest/disease detection"
+      ],
+      "hi": [
+        "किसी भी रासायनिक दवा की आवश्यकता नहीं है",
+        "उचित सिंचाई जारी रखें (अत्यधिक पानी से बचें)",
+        "नियमित रूप से फसल का निरीक्षण करते रहें"
+      ],
+      "te": [
+        "ఎటువంటి రసాయన మందులు అవసరం లేదు",
+        "సమయానుకూలంగా నీటి తడులు ఇవ్వండి",
+        "తెగుళ్లు రాకుండా ఎప్పటికప్పుడు పంటను పరిశీలిస్తూ ఉండండి"
+      ]
+    }
+  },
+  "Cherry_(including_sour)___Powdery_mildew": {
+    "id": "Cherry_(including_sour)___Powdery_mildew",
+    "crop": {
+      "en": "Cherry",
+      "hi": "चेरी",
+      "te": "చెర్రీ"
+    },
+    "disease_name": {
+      "en": "Powdery mildew",
+      "hi": "Powdery mildew",
+      "te": "Powdery mildew"
+    },
+    "pathogen_type": "fungal",
+    "scientific_name": "Fungal Pathogen",
+    "is_healthy": false,
+    "summary": {
+      "en": "Disease lesions identified on Cherry leaf consistent with Powdery mildew. Affects leaf vigor and photosynthetic efficiency.",
+      "hi": "चेरी की पत्ती पर Powdery mildew के लक्षण पाए गए हैं। इससे पत्ती की प्रकाश संश्लेषण क्षमता और पौधे का स्वास्थ्य प्रभावित होता है।",
+      "te": "చెర్రీ ఆకుపై Powdery mildew తెగులు లక్షణాలు గుర్తించబడ్డాయి. ఇది ఆకుల పచ్చదనాన్ని మరియు పంట దిగుబడిని తగ్గిస్తుంది."
+    },
+    "symptoms": {
+      "en": [
+        "Visible spots or discoloration typical of Powdery mildew on foliage",
+        "Gradual chlorosis spreading outward from infection centers",
+        "Reduced plant vigor if left unchecked"
+      ],
+      "hi": [
+        "पत्तियों पर Powdery mildew के विशिष्ट धब्बे या विकृति",
+        "संक्रमित भाग के आसपास पीलापन फैलना",
+        "समय पर ध्यान न देने पर पौधे की कमजोरी"
+      ],
+      "te": [
+        "ఆకులపై Powdery mildew తెగులు మచ్చలు లేదా మార్పులు",
+        "మచ్చల చుట్టూ పసుపు రంగు వ్యాపించడం",
+        "నివారించకపోతే పంట బలహీనపడటం"
+      ]
+    },
+    "favorable_conditions": {
+      "en": [
+        "High humidity, wet canopy, or dense foliage",
+        "Unfavorable temperature extremes weakening plant defense",
+        "Improper spacing"
+      ],
+      "hi": [
+        "अधिक आर्द्रता, पत्तियों पर पानी का ठहराव या घना फैलाव",
+        "प्रतिकूल तापमान जिससे पौधा कमजोर होता है",
+        "उचित दूरी का अभाव"
+      ],
+      "te": [
+        "అధిక తేమ లేదా ఆకులపై ఎక్కువ సమయం నీరు నిల్వ ఉండటం",
+        "వాతావరణంలో ఆకస్మిక మార్పులు",
+        "మొక్కల మధ్య సరైన దూరం లేకపోవడం"
+      ]
+    },
+    "immediate_actions": {
+      "en": [
+        "Isolate and remove diseased leaves",
+        "Stop overhead irrigation to avoid splashing spores",
+        "Sterilize pruning tools after handling"
+      ],
+      "hi": [
+        "संक्रमित पत्तियों को तोड़कर नष्ट करें",
+        "ऊपर से पानी देना बंद करें ताकि रोग न फैले",
+        "उपकरणों को साफ रखें"
+      ],
+      "te": [
+        "తెగులు సోకిన ఆకులను తుంచి నాశనం చేయండి",
+        "పైనుండి నీరు చల్లడం ఆపండి",
+        "పనిముట్లను శుభ్రపరచండి"
+      ]
+    }
+  },
+  "Cherry_(including_sour)___healthy": {
+    "id": "Cherry_(including_sour)___healthy",
+    "crop": {
+      "en": "Cherry",
+      "hi": "चेरी",
+      "te": "చెర్రీ"
+    },
+    "disease_name": {
+      "en": "healthy",
+      "hi": "healthy",
+      "te": "healthy"
+    },
+    "pathogen_type": "none",
+    "scientific_name": "None (Healthy tissue)",
+    "is_healthy": true,
+    "summary": {
+      "en": "The Cherry leaf appears healthy with normal chlorophyll pigmentation, smooth margins, and no obvious disease symptoms.",
+      "hi": "चेरी की यह पत्ती सामान्य क्लोरोफिल, स्वस्थ बनावट और बिना किसी बीमारी के लक्षणों के पूरी तरह स्वस्थ दिखती है।",
+      "te": "చెర్రీ ఆకు సాధారణ క్లోరోఫిల్, సహజమైన ఆకృతితో ఎటువంటి వ్యాధి లక్షణాలు లేకుండా ఆరోగ్యంగా ఉంది."
+    },
+    "symptoms": {
+      "en": [
+        "Vibrant green foliage with uniform coloration",
+        "Absence of lesions, spots, yellowing, or deformities",
+        "Intact leaf veins and margins"
+      ],
+      "hi": [
+        "एकसमान हरा रंग और प्राकृतिक चमक",
+        "किसी भी प्रकार के धब्बे, झुलसा या विकृति का अभाव",
+        "स्वस्थ नसें और किनारे"
+      ],
+      "te": [
+        "సహజమైన ఆకుపచ్చ రంగు",
+        "మచ్చలు, పసుపుదనం లేదా ముడతలు లేకపోవడం",
+        "ఆరోగ్యకరమైన ఈనెలు"
+      ]
+    },
+    "favorable_conditions": {
+      "en": [
+        "Good soil drainage and optimal balanced nutrition",
+        "Adequate aeration and sunlight",
+        "Routine preventive scouting"
+      ],
+      "hi": [
+        "उत्तम जल निकासी और संतुलित पोषण",
+        "पर्याप्त धूप और हवा",
+        "नियमित देखभाल"
+      ],
+      "te": [
+        "మంచి నీటి పారుదల మరియు సమతుల్య పోషకాలు",
+        "సరిపడా ఎండ మరియు గాలి",
+        "నిరంతర సంరక్షణ"
+      ]
+    },
+    "immediate_actions": {
+      "en": [
+        "No chemical treatment required",
+        "Maintain balanced irrigation schedule (avoid over-watering)",
+        "Continue routine field monitoring for early pest/disease detection"
+      ],
+      "hi": [
+        "किसी भी रासायनिक दवा की आवश्यकता नहीं है",
+        "उचित सिंचाई जारी रखें (अत्यधिक पानी से बचें)",
+        "नियमित रूप से फसल का निरीक्षण करते रहें"
+      ],
+      "te": [
+        "ఎటువంటి రసాయన మందులు అవసరం లేదు",
+        "సమయానుకూలంగా నీటి తడులు ఇవ్వండి",
+        "తెగుళ్లు రాకుండా ఎప్పటికప్పుడు పంటను పరిశీలిస్తూ ఉండండి"
+      ]
+    }
+  },
+  "Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot": {
+    "id": "Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot",
+    "crop": {
+      "en": "Corn (Maize)",
+      "hi": "मक्का",
+      "te": "మొక్కజొన్న"
+    },
+    "disease_name": {
+      "en": "Cercospora leaf spot Gray leaf spot",
+      "hi": "Cercospora leaf spot Gray leaf spot",
+      "te": "Cercospora leaf spot Gray leaf spot"
+    },
+    "pathogen_type": "fungal",
+    "scientific_name": "Fungal Pathogen",
+    "is_healthy": false,
+    "summary": {
+      "en": "Disease lesions identified on Corn (Maize) leaf consistent with Cercospora leaf spot Gray leaf spot. Affects leaf vigor and photosynthetic efficiency.",
+      "hi": "मक्का की पत्ती पर Cercospora leaf spot Gray leaf spot के लक्षण पाए गए हैं। इससे पत्ती की प्रकाश संश्लेषण क्षमता और पौधे का स्वास्थ्य प्रभावित होता है।",
+      "te": "మొక్కజొన్న ఆకుపై Cercospora leaf spot Gray leaf spot తెగులు లక్షణాలు గుర్తించబడ్డాయి. ఇది ఆకుల పచ్చదనాన్ని మరియు పంట దిగుబడిని తగ్గిస్తుంది."
+    },
+    "symptoms": {
+      "en": [
+        "Visible spots or discoloration typical of Cercospora leaf spot Gray leaf spot on foliage",
+        "Gradual chlorosis spreading outward from infection centers",
+        "Reduced plant vigor if left unchecked"
+      ],
+      "hi": [
+        "पत्तियों पर Cercospora leaf spot Gray leaf spot के विशिष्ट धब्बे या विकृति",
+        "संक्रमित भाग के आसपास पीलापन फैलना",
+        "समय पर ध्यान न देने पर पौधे की कमजोरी"
+      ],
+      "te": [
+        "ఆకులపై Cercospora leaf spot Gray leaf spot తెగులు మచ్చలు లేదా మార్పులు",
+        "మచ్చల చుట్టూ పసుపు రంగు వ్యాపించడం",
+        "నివారించకపోతే పంట బలహీనపడటం"
+      ]
+    },
+    "favorable_conditions": {
+      "en": [
+        "High humidity, wet canopy, or dense foliage",
+        "Unfavorable temperature extremes weakening plant defense",
+        "Improper spacing"
+      ],
+      "hi": [
+        "अधिक आर्द्रता, पत्तियों पर पानी का ठहराव या घना फैलाव",
+        "प्रतिकूल तापमान जिससे पौधा कमजोर होता है",
+        "उचित दूरी का अभाव"
+      ],
+      "te": [
+        "అధిక తేమ లేదా ఆకులపై ఎక్కువ సమయం నీరు నిల్వ ఉండటం",
+        "వాతావరణంలో ఆకస్మిక మార్పులు",
+        "మొక్కల మధ్య సరైన దూరం లేకపోవడం"
+      ]
+    },
+    "immediate_actions": {
+      "en": [
+        "Isolate and remove diseased leaves",
+        "Stop overhead irrigation to avoid splashing spores",
+        "Sterilize pruning tools after handling"
+      ],
+      "hi": [
+        "संक्रमित पत्तियों को तोड़कर नष्ट करें",
+        "ऊपर से पानी देना बंद करें ताकि रोग न फैले",
+        "उपकरणों को साफ रखें"
+      ],
+      "te": [
+        "తెగులు సోకిన ఆకులను తుంచి నాశనం చేయండి",
+        "పైనుండి నీరు చల్లడం ఆపండి",
+        "పనిముట్లను శుభ్రపరచండి"
+      ]
+    }
+  },
+  "Corn_(maize)___Common_rust_": {
+    "id": "Corn_(maize)___Common_rust_",
+    "crop": {
+      "en": "Corn (Maize)",
+      "hi": "मक्का",
+      "te": "మొక్కజొన్న"
+    },
+    "disease_name": {
+      "en": "Corn Common Rust",
+      "hi": "मक्के का सामान्य रतुआ",
+      "te": "మొక్కజొన్న సాధారణ తుప్పు తెగులు"
+    },
+    "pathogen_type": "fungal",
+    "scientific_name": "Puccinia sorghi",
+    "is_healthy": false,
+    "summary": {
+      "en": "Common rust produces golden-brown to cinnamon-brown pustules on both upper and lower leaf surfaces of maize plants.",
+      "hi": "मक्के का रतुआ रोग पत्तियों की दोनों सतहों पर सुनहरे-भूरे रंग के दानेदार फफोले (पुस्त्यूल्स) बनाता है।",
+      "te": "మొక్కజొన్నలో తుప్పు తెగులు ఆకుల రెండు వైపులా ఇటుక రంగు లేదా గోధుమ రంగు పొక్కులను కలిగిస్తుంది."
+    },
+    "symptoms": {
+      "en": [
+        "Small, elongated cinnamon-brown pustules scattered over leaves",
+        "Pustules rupture the leaf epidermis exposing powdery brown spores",
+        "Chlorosis and blighting of heavily rusted leaves"
+      ],
+      "hi": [
+        "पत्तियों पर उभरे हुए भूरे-लाल रंग के फफोले",
+        "फफोलों के फटने से भूरा पाउडर (बीजाणु) बाहर निकलना",
+        "गंभीर स्थिति में पत्तियों का सूख जाना"
+      ],
+      "te": [
+        "ఆకులపై చిన్న ఎర్రటి-గోధుమ రంగు పొక్కులు",
+        "పొక్కులు పగిలి తుప్పు లాంటి పొడి బయటకు రావడం",
+        "ఆకులు పసుపు రంగులోకి మారి ఎండిపోవడం"
+      ]
+    },
+    "favorable_conditions": {
+      "en": [
+        "Moderate temperatures (16°C - 25°C) and high relative humidity (>95%)",
+        "Frequent heavy night dew and cloudy mornings",
+        "Susceptible maize varieties"
+      ],
+      "hi": [
+        "16°C से 25°C का मध्यम तापमान और अधिक नमी",
+        "रात की भारी ओस और बादल",
+        "संवेदनशील किस्में"
+      ],
+      "te": [
+        "మితమైన ఉష్ణోగ్రత (16°C - 25°C) మరియు అధిక తేమ",
+        "రాత్రి వేళల్లో అధిక మంచు",
+        "రోగనిరోధక శక్తి లేని రకాలు"
+      ]
+    },
+    "immediate_actions": {
+      "en": [
+        "Scout fields regularly during whorl to silking stage",
+        "If pustules appear on upper leaves before silking, plan fungicide application",
+        "Avoid excess irrigation"
+      ],
+      "hi": [
+        "सिल्किंग से पहले खेत का नियमित निरीक्षण करें",
+        "यदि ऊपरी पत्तियों पर फफोले दिखें तो फफूंदनाशक का विचार करें",
+        "अतिरिक्त पानी न दें"
+      ],
+      "te": [
+        "కంకి వచ్చే దశలో పొలాన్ని నిశితంగా పరిశీలించండి",
+        "పై ఆకులపై తెగులు కనిపిస్తే వెంటనే మందు పిచికారీ చేయండి",
+        "అధిక నీటి తడులు ఇవ్వకండి"
+      ]
+    }
+  },
+  "Corn_(maize)___Northern_Leaf_Blight": {
+    "id": "Corn_(maize)___Northern_Leaf_Blight",
+    "crop": {
+      "en": "Corn (Maize)",
+      "hi": "मक्का",
+      "te": "మొక్కజొన్న"
+    },
+    "disease_name": {
+      "en": "Northern Leaf Blight",
+      "hi": "Northern Leaf Blight",
+      "te": "Northern Leaf Blight"
+    },
+    "pathogen_type": "fungal",
+    "scientific_name": "Fungal Pathogen",
+    "is_healthy": false,
+    "summary": {
+      "en": "Disease lesions identified on Corn (Maize) leaf consistent with Northern Leaf Blight. Affects leaf vigor and photosynthetic efficiency.",
+      "hi": "मक्का की पत्ती पर Northern Leaf Blight के लक्षण पाए गए हैं। इससे पत्ती की प्रकाश संश्लेषण क्षमता और पौधे का स्वास्थ्य प्रभावित होता है।",
+      "te": "మొక్కజొన్న ఆకుపై Northern Leaf Blight తెగులు లక్షణాలు గుర్తించబడ్డాయి. ఇది ఆకుల పచ్చదనాన్ని మరియు పంట దిగుబడిని తగ్గిస్తుంది."
+    },
+    "symptoms": {
+      "en": [
+        "Visible spots or discoloration typical of Northern Leaf Blight on foliage",
+        "Gradual chlorosis spreading outward from infection centers",
+        "Reduced plant vigor if left unchecked"
+      ],
+      "hi": [
+        "पत्तियों पर Northern Leaf Blight के विशिष्ट धब्बे या विकृति",
+        "संक्रमित भाग के आसपास पीलापन फैलना",
+        "समय पर ध्यान न देने पर पौधे की कमजोरी"
+      ],
+      "te": [
+        "ఆకులపై Northern Leaf Blight తెగులు మచ్చలు లేదా మార్పులు",
+        "మచ్చల చుట్టూ పసుపు రంగు వ్యాపించడం",
+        "నివారించకపోతే పంట బలహీనపడటం"
+      ]
+    },
+    "favorable_conditions": {
+      "en": [
+        "High humidity, wet canopy, or dense foliage",
+        "Unfavorable temperature extremes weakening plant defense",
+        "Improper spacing"
+      ],
+      "hi": [
+        "अधिक आर्द्रता, पत्तियों पर पानी का ठहराव या घना फैलाव",
+        "प्रतिकूल तापमान जिससे पौधा कमजोर होता है",
+        "उचित दूरी का अभाव"
+      ],
+      "te": [
+        "అధిక తేమ లేదా ఆకులపై ఎక్కువ సమయం నీరు నిల్వ ఉండటం",
+        "వాతావరణంలో ఆకస్మిక మార్పులు",
+        "మొక్కల మధ్య సరైన దూరం లేకపోవడం"
+      ]
+    },
+    "immediate_actions": {
+      "en": [
+        "Isolate and remove diseased leaves",
+        "Stop overhead irrigation to avoid splashing spores",
+        "Sterilize pruning tools after handling"
+      ],
+      "hi": [
+        "संक्रमित पत्तियों को तोड़कर नष्ट करें",
+        "ऊपर से पानी देना बंद करें ताकि रोग न फैले",
+        "उपकरणों को साफ रखें"
+      ],
+      "te": [
+        "తెగులు సోకిన ఆకులను తుంచి నాశనం చేయండి",
+        "పైనుండి నీరు చల్లడం ఆపండి",
+        "పనిముట్లను శుభ్రపరచండి"
+      ]
+    }
+  },
+  "Corn_(maize)___healthy": {
+    "id": "Corn_(maize)___healthy",
+    "crop": {
+      "en": "Corn (Maize)",
+      "hi": "मक्का",
+      "te": "మొక్కజొన్న"
+    },
+    "disease_name": {
+      "en": "healthy",
+      "hi": "healthy",
+      "te": "healthy"
+    },
+    "pathogen_type": "none",
+    "scientific_name": "None (Healthy tissue)",
+    "is_healthy": true,
+    "summary": {
+      "en": "The Corn (Maize) leaf appears healthy with normal chlorophyll pigmentation, smooth margins, and no obvious disease symptoms.",
+      "hi": "मक्का की यह पत्ती सामान्य क्लोरोफिल, स्वस्थ बनावट और बिना किसी बीमारी के लक्षणों के पूरी तरह स्वस्थ दिखती है।",
+      "te": "మొక్కజొన్న ఆకు సాధారణ క్లోరోఫిల్, సహజమైన ఆకృతితో ఎటువంటి వ్యాధి లక్షణాలు లేకుండా ఆరోగ్యంగా ఉంది."
+    },
+    "symptoms": {
+      "en": [
+        "Vibrant green foliage with uniform coloration",
+        "Absence of lesions, spots, yellowing, or deformities",
+        "Intact leaf veins and margins"
+      ],
+      "hi": [
+        "एकसमान हरा रंग और प्राकृतिक चमक",
+        "किसी भी प्रकार के धब्बे, झुलसा या विकृति का अभाव",
+        "स्वस्थ नसें और किनारे"
+      ],
+      "te": [
+        "సహజమైన ఆకుపచ్చ రంగు",
+        "మచ్చలు, పసుపుదనం లేదా ముడతలు లేకపోవడం",
+        "ఆరోగ్యకరమైన ఈనెలు"
+      ]
+    },
+    "favorable_conditions": {
+      "en": [
+        "Good soil drainage and optimal balanced nutrition",
+        "Adequate aeration and sunlight",
+        "Routine preventive scouting"
+      ],
+      "hi": [
+        "उत्तम जल निकासी और संतुलित पोषण",
+        "पर्याप्त धूप और हवा",
+        "नियमित देखभाल"
+      ],
+      "te": [
+        "మంచి నీటి పారుదల మరియు సమతుల్య పోషకాలు",
+        "సరిపడా ఎండ మరియు గాలి",
+        "నిరంతర సంరక్షణ"
+      ]
+    },
+    "immediate_actions": {
+      "en": [
+        "No chemical treatment required",
+        "Maintain balanced irrigation schedule (avoid over-watering)",
+        "Continue routine field monitoring for early pest/disease detection"
+      ],
+      "hi": [
+        "किसी भी रासायनिक दवा की आवश्यकता नहीं है",
+        "उचित सिंचाई जारी रखें (अत्यधिक पानी से बचें)",
+        "नियमित रूप से फसल का निरीक्षण करते रहें"
+      ],
+      "te": [
+        "ఎటువంటి రసాయన మందులు అవసరం లేదు",
+        "సమయానుకూలంగా నీటి తడులు ఇవ్వండి",
+        "తెగుళ్లు రాకుండా ఎప్పటికప్పుడు పంటను పరిశీలిస్తూ ఉండండి"
+      ]
+    }
+  },
+  "Grape___Black_rot": {
+    "id": "Grape___Black_rot",
+    "crop": {
+      "en": "Grape",
+      "hi": "अंगूर",
+      "te": "ద్రాక్ష"
+    },
+    "disease_name": {
+      "en": "Black rot",
+      "hi": "Black rot",
+      "te": "Black rot"
+    },
+    "pathogen_type": "fungal",
+    "scientific_name": "Fungal Pathogen",
+    "is_healthy": false,
+    "summary": {
+      "en": "Disease lesions identified on Grape leaf consistent with Black rot. Affects leaf vigor and photosynthetic efficiency.",
+      "hi": "अंगूर की पत्ती पर Black rot के लक्षण पाए गए हैं। इससे पत्ती की प्रकाश संश्लेषण क्षमता और पौधे का स्वास्थ्य प्रभावित होता है।",
+      "te": "ద్రాక్ష ఆకుపై Black rot తెగులు లక్షణాలు గుర్తించబడ్డాయి. ఇది ఆకుల పచ్చదనాన్ని మరియు పంట దిగుబడిని తగ్గిస్తుంది."
+    },
+    "symptoms": {
+      "en": [
+        "Visible spots or discoloration typical of Black rot on foliage",
+        "Gradual chlorosis spreading outward from infection centers",
+        "Reduced plant vigor if left unchecked"
+      ],
+      "hi": [
+        "पत्तियों पर Black rot के विशिष्ट धब्बे या विकृति",
+        "संक्रमित भाग के आसपास पीलापन फैलना",
+        "समय पर ध्यान न देने पर पौधे की कमजोरी"
+      ],
+      "te": [
+        "ఆకులపై Black rot తెగులు మచ్చలు లేదా మార్పులు",
+        "మచ్చల చుట్టూ పసుపు రంగు వ్యాపించడం",
+        "నివారించకపోతే పంట బలహీనపడటం"
+      ]
+    },
+    "favorable_conditions": {
+      "en": [
+        "High humidity, wet canopy, or dense foliage",
+        "Unfavorable temperature extremes weakening plant defense",
+        "Improper spacing"
+      ],
+      "hi": [
+        "अधिक आर्द्रता, पत्तियों पर पानी का ठहराव या घना फैलाव",
+        "प्रतिकूल तापमान जिससे पौधा कमजोर होता है",
+        "उचित दूरी का अभाव"
+      ],
+      "te": [
+        "అధిక తేమ లేదా ఆకులపై ఎక్కువ సమయం నీరు నిల్వ ఉండటం",
+        "వాతావరణంలో ఆకస్మిక మార్పులు",
+        "మొక్కల మధ్య సరైన దూరం లేకపోవడం"
+      ]
+    },
+    "immediate_actions": {
+      "en": [
+        "Isolate and remove diseased leaves",
+        "Stop overhead irrigation to avoid splashing spores",
+        "Sterilize pruning tools after handling"
+      ],
+      "hi": [
+        "संक्रमित पत्तियों को तोड़कर नष्ट करें",
+        "ऊपर से पानी देना बंद करें ताकि रोग न फैले",
+        "उपकरणों को साफ रखें"
+      ],
+      "te": [
+        "తెగులు సోకిన ఆకులను తుంచి నాశనం చేయండి",
+        "పైనుండి నీరు చల్లడం ఆపండి",
+        "పనిముట్లను శుభ్రపరచండి"
+      ]
+    }
+  },
+  "Grape___Esca_(Black_Measles)": {
+    "id": "Grape___Esca_(Black_Measles)",
+    "crop": {
+      "en": "Grape",
+      "hi": "अंगूर",
+      "te": "ద్రాక్ష"
+    },
+    "disease_name": {
+      "en": "Esca (Black Measles)",
+      "hi": "Esca (Black Measles)",
+      "te": "Esca (Black Measles)"
+    },
+    "pathogen_type": "fungal",
+    "scientific_name": "Fungal Pathogen",
+    "is_healthy": false,
+    "summary": {
+      "en": "Disease lesions identified on Grape leaf consistent with Esca (Black Measles). Affects leaf vigor and photosynthetic efficiency.",
+      "hi": "अंगूर की पत्ती पर Esca (Black Measles) के लक्षण पाए गए हैं। इससे पत्ती की प्रकाश संश्लेषण क्षमता और पौधे का स्वास्थ्य प्रभावित होता है।",
+      "te": "ద్రాక్ష ఆకుపై Esca (Black Measles) తెగులు లక్షణాలు గుర్తించబడ్డాయి. ఇది ఆకుల పచ్చదనాన్ని మరియు పంట దిగుబడిని తగ్గిస్తుంది."
+    },
+    "symptoms": {
+      "en": [
+        "Visible spots or discoloration typical of Esca (Black Measles) on foliage",
+        "Gradual chlorosis spreading outward from infection centers",
+        "Reduced plant vigor if left unchecked"
+      ],
+      "hi": [
+        "पत्तियों पर Esca (Black Measles) के विशिष्ट धब्बे या विकृति",
+        "संक्रमित भाग के आसपास पीलापन फैलना",
+        "समय पर ध्यान न देने पर पौधे की कमजोरी"
+      ],
+      "te": [
+        "ఆకులపై Esca (Black Measles) తెగులు మచ్చలు లేదా మార్పులు",
+        "మచ్చల చుట్టూ పసుపు రంగు వ్యాపించడం",
+        "నివారించకపోతే పంట బలహీనపడటం"
+      ]
+    },
+    "favorable_conditions": {
+      "en": [
+        "High humidity, wet canopy, or dense foliage",
+        "Unfavorable temperature extremes weakening plant defense",
+        "Improper spacing"
+      ],
+      "hi": [
+        "अधिक आर्द्रता, पत्तियों पर पानी का ठहराव या घना फैलाव",
+        "प्रतिकूल तापमान जिससे पौधा कमजोर होता है",
+        "उचित दूरी का अभाव"
+      ],
+      "te": [
+        "అధిక తేమ లేదా ఆకులపై ఎక్కువ సమయం నీరు నిల్వ ఉండటం",
+        "వాతావరణంలో ఆకస్మిక మార్పులు",
+        "మొక్కల మధ్య సరైన దూరం లేకపోవడం"
+      ]
+    },
+    "immediate_actions": {
+      "en": [
+        "Isolate and remove diseased leaves",
+        "Stop overhead irrigation to avoid splashing spores",
+        "Sterilize pruning tools after handling"
+      ],
+      "hi": [
+        "संक्रमित पत्तियों को तोड़कर नष्ट करें",
+        "ऊपर से पानी देना बंद करें ताकि रोग न फैले",
+        "उपकरणों को साफ रखें"
+      ],
+      "te": [
+        "తెగులు సోకిన ఆకులను తుంచి నాశనం చేయండి",
+        "పైనుండి నీరు చల్లడం ఆపండి",
+        "పనిముట్లను శుభ్రపరచండి"
+      ]
+    }
+  },
+  "Grape___Leaf_blight_(Isariopsis_Leaf_Spot)": {
+    "id": "Grape___Leaf_blight_(Isariopsis_Leaf_Spot)",
+    "crop": {
+      "en": "Grape",
+      "hi": "अंगूर",
+      "te": "ద్రాక్ష"
+    },
+    "disease_name": {
+      "en": "Leaf blight (Isariopsis Leaf Spot)",
+      "hi": "Leaf blight (Isariopsis Leaf Spot)",
+      "te": "Leaf blight (Isariopsis Leaf Spot)"
+    },
+    "pathogen_type": "fungal",
+    "scientific_name": "Fungal Pathogen",
+    "is_healthy": false,
+    "summary": {
+      "en": "Disease lesions identified on Grape leaf consistent with Leaf blight (Isariopsis Leaf Spot). Affects leaf vigor and photosynthetic efficiency.",
+      "hi": "अंगूर की पत्ती पर Leaf blight (Isariopsis Leaf Spot) के लक्षण पाए गए हैं। इससे पत्ती की प्रकाश संश्लेषण क्षमता और पौधे का स्वास्थ्य प्रभावित होता है।",
+      "te": "ద్రాక్ష ఆకుపై Leaf blight (Isariopsis Leaf Spot) తెగులు లక్షణాలు గుర్తించబడ్డాయి. ఇది ఆకుల పచ్చదనాన్ని మరియు పంట దిగుబడిని తగ్గిస్తుంది."
+    },
+    "symptoms": {
+      "en": [
+        "Visible spots or discoloration typical of Leaf blight (Isariopsis Leaf Spot) on foliage",
+        "Gradual chlorosis spreading outward from infection centers",
+        "Reduced plant vigor if left unchecked"
+      ],
+      "hi": [
+        "पत्तियों पर Leaf blight (Isariopsis Leaf Spot) के विशिष्ट धब्बे या विकृति",
+        "संक्रमित भाग के आसपास पीलापन फैलना",
+        "समय पर ध्यान न देने पर पौधे की कमजोरी"
+      ],
+      "te": [
+        "ఆకులపై Leaf blight (Isariopsis Leaf Spot) తెగులు మచ్చలు లేదా మార్పులు",
+        "మచ్చల చుట్టూ పసుపు రంగు వ్యాపించడం",
+        "నివారించకపోతే పంట బలహీనపడటం"
+      ]
+    },
+    "favorable_conditions": {
+      "en": [
+        "High humidity, wet canopy, or dense foliage",
+        "Unfavorable temperature extremes weakening plant defense",
+        "Improper spacing"
+      ],
+      "hi": [
+        "अधिक आर्द्रता, पत्तियों पर पानी का ठहराव या घना फैलाव",
+        "प्रतिकूल तापमान जिससे पौधा कमजोर होता है",
+        "उचित दूरी का अभाव"
+      ],
+      "te": [
+        "అధిక తేమ లేదా ఆకులపై ఎక్కువ సమయం నీరు నిల్వ ఉండటం",
+        "వాతావరణంలో ఆకస్మిక మార్పులు",
+        "మొక్కల మధ్య సరైన దూరం లేకపోవడం"
+      ]
+    },
+    "immediate_actions": {
+      "en": [
+        "Isolate and remove diseased leaves",
+        "Stop overhead irrigation to avoid splashing spores",
+        "Sterilize pruning tools after handling"
+      ],
+      "hi": [
+        "संक्रमित पत्तियों को तोड़कर नष्ट करें",
+        "ऊपर से पानी देना बंद करें ताकि रोग न फैले",
+        "उपकरणों को साफ रखें"
+      ],
+      "te": [
+        "తెగులు సోకిన ఆకులను తుంచి నాశనం చేయండి",
+        "పైనుండి నీరు చల్లడం ఆపండి",
+        "పనిముట్లను శుభ్రపరచండి"
+      ]
+    }
+  },
+  "Grape___healthy": {
+    "id": "Grape___healthy",
+    "crop": {
+      "en": "Grape",
+      "hi": "अंगूर",
+      "te": "ద్రాక్ష"
+    },
+    "disease_name": {
+      "en": "healthy",
+      "hi": "healthy",
+      "te": "healthy"
+    },
+    "pathogen_type": "none",
+    "scientific_name": "None (Healthy tissue)",
+    "is_healthy": true,
+    "summary": {
+      "en": "The Grape leaf appears healthy with normal chlorophyll pigmentation, smooth margins, and no obvious disease symptoms.",
+      "hi": "अंगूर की यह पत्ती सामान्य क्लोरोफिल, स्वस्थ बनावट और बिना किसी बीमारी के लक्षणों के पूरी तरह स्वस्थ दिखती है।",
+      "te": "ద్రాక్ష ఆకు సాధారణ క్లోరోఫిల్, సహజమైన ఆకృతితో ఎటువంటి వ్యాధి లక్షణాలు లేకుండా ఆరోగ్యంగా ఉంది."
+    },
+    "symptoms": {
+      "en": [
+        "Vibrant green foliage with uniform coloration",
+        "Absence of lesions, spots, yellowing, or deformities",
+        "Intact leaf veins and margins"
+      ],
+      "hi": [
+        "एकसमान हरा रंग और प्राकृतिक चमक",
+        "किसी भी प्रकार के धब्बे, झुलसा या विकृति का अभाव",
+        "स्वस्थ नसें और किनारे"
+      ],
+      "te": [
+        "సహజమైన ఆకుపచ్చ రంగు",
+        "మచ్చలు, పసుపుదనం లేదా ముడతలు లేకపోవడం",
+        "ఆరోగ్యకరమైన ఈనెలు"
+      ]
+    },
+    "favorable_conditions": {
+      "en": [
+        "Good soil drainage and optimal balanced nutrition",
+        "Adequate aeration and sunlight",
+        "Routine preventive scouting"
+      ],
+      "hi": [
+        "उत्तम जल निकासी और संतुलित पोषण",
+        "पर्याप्त धूप और हवा",
+        "नियमित देखभाल"
+      ],
+      "te": [
+        "మంచి నీటి పారుదల మరియు సమతుల్య పోషకాలు",
+        "సరిపడా ఎండ మరియు గాలి",
+        "నిరంతర సంరక్షణ"
+      ]
+    },
+    "immediate_actions": {
+      "en": [
+        "No chemical treatment required",
+        "Maintain balanced irrigation schedule (avoid over-watering)",
+        "Continue routine field monitoring for early pest/disease detection"
+      ],
+      "hi": [
+        "किसी भी रासायनिक दवा की आवश्यकता नहीं है",
+        "उचित सिंचाई जारी रखें (अत्यधिक पानी से बचें)",
+        "नियमित रूप से फसल का निरीक्षण करते रहें"
+      ],
+      "te": [
+        "ఎటువంటి రసాయన మందులు అవసరం లేదు",
+        "సమయానుకూలంగా నీటి తడులు ఇవ్వండి",
+        "తెగుళ్లు రాకుండా ఎప్పటికప్పుడు పంటను పరిశీలిస్తూ ఉండండి"
+      ]
+    }
+  },
+  "Orange___Haunglongbing_(Citrus_greening)": {
+    "id": "Orange___Haunglongbing_(Citrus_greening)",
+    "crop": {
+      "en": "Orange (Citrus)",
+      "hi": "संतरा (नींबू वर्गीय)",
+      "te": "నారింజ (నిమ్మ జాతి)"
+    },
+    "disease_name": {
+      "en": "Haunglongbing (Citrus greening)",
+      "hi": "Haunglongbing (Citrus greening)",
+      "te": "Haunglongbing (Citrus greening)"
+    },
+    "pathogen_type": "fungal",
+    "scientific_name": "Fungal Pathogen",
+    "is_healthy": false,
+    "summary": {
+      "en": "Disease lesions identified on Orange (Citrus) leaf consistent with Haunglongbing (Citrus greening). Affects leaf vigor and photosynthetic efficiency.",
+      "hi": "संतरा (नींबू वर्गीय) की पत्ती पर Haunglongbing (Citrus greening) के लक्षण पाए गए हैं। इससे पत्ती की प्रकाश संश्लेषण क्षमता और पौधे का स्वास्थ्य प्रभावित होता है।",
+      "te": "నారింజ (నిమ్మ జాతి) ఆకుపై Haunglongbing (Citrus greening) తెగులు లక్షణాలు గుర్తించబడ్డాయి. ఇది ఆకుల పచ్చదనాన్ని మరియు పంట దిగుబడిని తగ్గిస్తుంది."
+    },
+    "symptoms": {
+      "en": [
+        "Visible spots or discoloration typical of Haunglongbing (Citrus greening) on foliage",
+        "Gradual chlorosis spreading outward from infection centers",
+        "Reduced plant vigor if left unchecked"
+      ],
+      "hi": [
+        "पत्तियों पर Haunglongbing (Citrus greening) के विशिष्ट धब्बे या विकृति",
+        "संक्रमित भाग के आसपास पीलापन फैलना",
+        "समय पर ध्यान न देने पर पौधे की कमजोरी"
+      ],
+      "te": [
+        "ఆకులపై Haunglongbing (Citrus greening) తెగులు మచ్చలు లేదా మార్పులు",
+        "మచ్చల చుట్టూ పసుపు రంగు వ్యాపించడం",
+        "నివారించకపోతే పంట బలహీనపడటం"
+      ]
+    },
+    "favorable_conditions": {
+      "en": [
+        "High humidity, wet canopy, or dense foliage",
+        "Unfavorable temperature extremes weakening plant defense",
+        "Improper spacing"
+      ],
+      "hi": [
+        "अधिक आर्द्रता, पत्तियों पर पानी का ठहराव या घना फैलाव",
+        "प्रतिकूल तापमान जिससे पौधा कमजोर होता है",
+        "उचित दूरी का अभाव"
+      ],
+      "te": [
+        "అధిక తేమ లేదా ఆకులపై ఎక్కువ సమయం నీరు నిల్వ ఉండటం",
+        "వాతావరణంలో ఆకస్మిక మార్పులు",
+        "మొక్కల మధ్య సరైన దూరం లేకపోవడం"
+      ]
+    },
+    "immediate_actions": {
+      "en": [
+        "Isolate and remove diseased leaves",
+        "Stop overhead irrigation to avoid splashing spores",
+        "Sterilize pruning tools after handling"
+      ],
+      "hi": [
+        "संक्रमित पत्तियों को तोड़कर नष्ट करें",
+        "ऊपर से पानी देना बंद करें ताकि रोग न फैले",
+        "उपकरणों को साफ रखें"
+      ],
+      "te": [
+        "తెగులు సోకిన ఆకులను తుంచి నాశనం చేయండి",
+        "పైనుండి నీరు చల్లడం ఆపండి",
+        "పనిముట్లను శుభ్రపరచండి"
+      ]
+    }
+  },
+  "Peach___Bacterial_spot": {
+    "id": "Peach___Bacterial_spot",
+    "crop": {
+      "en": "Peach",
+      "hi": "आड़ू",
+      "te": "పీచ్"
+    },
+    "disease_name": {
+      "en": "Bacterial spot",
+      "hi": "Bacterial spot",
+      "te": "Bacterial spot"
+    },
+    "pathogen_type": "bacterial",
+    "scientific_name": "Xanthomonas / Pseudomonas species",
+    "is_healthy": false,
+    "summary": {
+      "en": "Disease lesions identified on Peach leaf consistent with Bacterial spot. Affects leaf vigor and photosynthetic efficiency.",
+      "hi": "आड़ू की पत्ती पर Bacterial spot के लक्षण पाए गए हैं। इससे पत्ती की प्रकाश संश्लेषण क्षमता और पौधे का स्वास्थ्य प्रभावित होता है।",
+      "te": "పీచ్ ఆకుపై Bacterial spot తెగులు లక్షణాలు గుర్తించబడ్డాయి. ఇది ఆకుల పచ్చదనాన్ని మరియు పంట దిగుబడిని తగ్గిస్తుంది."
+    },
+    "symptoms": {
+      "en": [
+        "Visible spots or discoloration typical of Bacterial spot on foliage",
+        "Gradual chlorosis spreading outward from infection centers",
+        "Reduced plant vigor if left unchecked"
+      ],
+      "hi": [
+        "पत्तियों पर Bacterial spot के विशिष्ट धब्बे या विकृति",
+        "संक्रमित भाग के आसपास पीलापन फैलना",
+        "समय पर ध्यान न देने पर पौधे की कमजोरी"
+      ],
+      "te": [
+        "ఆకులపై Bacterial spot తెగులు మచ్చలు లేదా మార్పులు",
+        "మచ్చల చుట్టూ పసుపు రంగు వ్యాపించడం",
+        "నివారించకపోతే పంట బలహీనపడటం"
+      ]
+    },
+    "favorable_conditions": {
+      "en": [
+        "High humidity, wet canopy, or dense foliage",
+        "Unfavorable temperature extremes weakening plant defense",
+        "Improper spacing"
+      ],
+      "hi": [
+        "अधिक आर्द्रता, पत्तियों पर पानी का ठहराव या घना फैलाव",
+        "प्रतिकूल तापमान जिससे पौधा कमजोर होता है",
+        "उचित दूरी का अभाव"
+      ],
+      "te": [
+        "అధిక తేమ లేదా ఆకులపై ఎక్కువ సమయం నీరు నిల్వ ఉండటం",
+        "వాతావరణంలో ఆకస్మిక మార్పులు",
+        "మొక్కల మధ్య సరైన దూరం లేకపోవడం"
+      ]
+    },
+    "immediate_actions": {
+      "en": [
+        "Isolate and remove diseased leaves",
+        "Stop overhead irrigation to avoid splashing spores",
+        "Sterilize pruning tools after handling"
+      ],
+      "hi": [
+        "संक्रमित पत्तियों को तोड़कर नष्ट करें",
+        "ऊपर से पानी देना बंद करें ताकि रोग न फैले",
+        "उपकरणों को साफ रखें"
+      ],
+      "te": [
+        "తెగులు సోకిన ఆకులను తుంచి నాశనం చేయండి",
+        "పైనుండి నీరు చల్లడం ఆపండి",
+        "పనిముట్లను శుభ్రపరచండి"
+      ]
+    }
+  },
+  "Peach___healthy": {
+    "id": "Peach___healthy",
+    "crop": {
+      "en": "Peach",
+      "hi": "आड़ू",
+      "te": "పీచ్"
+    },
+    "disease_name": {
+      "en": "healthy",
+      "hi": "healthy",
+      "te": "healthy"
+    },
+    "pathogen_type": "none",
+    "scientific_name": "None (Healthy tissue)",
+    "is_healthy": true,
+    "summary": {
+      "en": "The Peach leaf appears healthy with normal chlorophyll pigmentation, smooth margins, and no obvious disease symptoms.",
+      "hi": "आड़ू की यह पत्ती सामान्य क्लोरोफिल, स्वस्थ बनावट और बिना किसी बीमारी के लक्षणों के पूरी तरह स्वस्थ दिखती है।",
+      "te": "పీచ్ ఆకు సాధారణ క్లోరోఫిల్, సహజమైన ఆకృతితో ఎటువంటి వ్యాధి లక్షణాలు లేకుండా ఆరోగ్యంగా ఉంది."
+    },
+    "symptoms": {
+      "en": [
+        "Vibrant green foliage with uniform coloration",
+        "Absence of lesions, spots, yellowing, or deformities",
+        "Intact leaf veins and margins"
+      ],
+      "hi": [
+        "एकसमान हरा रंग और प्राकृतिक चमक",
+        "किसी भी प्रकार के धब्बे, झुलसा या विकृति का अभाव",
+        "स्वस्थ नसें और किनारे"
+      ],
+      "te": [
+        "సహజమైన ఆకుపచ్చ రంగు",
+        "మచ్చలు, పసుపుదనం లేదా ముడతలు లేకపోవడం",
+        "ఆరోగ్యకరమైన ఈనెలు"
+      ]
+    },
+    "favorable_conditions": {
+      "en": [
+        "Good soil drainage and optimal balanced nutrition",
+        "Adequate aeration and sunlight",
+        "Routine preventive scouting"
+      ],
+      "hi": [
+        "उत्तम जल निकासी और संतुलित पोषण",
+        "पर्याप्त धूप और हवा",
+        "नियमित देखभाल"
+      ],
+      "te": [
+        "మంచి నీటి పారుదల మరియు సమతుల్య పోషకాలు",
+        "సరిపడా ఎండ మరియు గాలి",
+        "నిరంతర సంరక్షణ"
+      ]
+    },
+    "immediate_actions": {
+      "en": [
+        "No chemical treatment required",
+        "Maintain balanced irrigation schedule (avoid over-watering)",
+        "Continue routine field monitoring for early pest/disease detection"
+      ],
+      "hi": [
+        "किसी भी रासायनिक दवा की आवश्यकता नहीं है",
+        "उचित सिंचाई जारी रखें (अत्यधिक पानी से बचें)",
+        "नियमित रूप से फसल का निरीक्षण करते रहें"
+      ],
+      "te": [
+        "ఎటువంటి రసాయన మందులు అవసరం లేదు",
+        "సమయానుకూలంగా నీటి తడులు ఇవ్వండి",
+        "తెగుళ్లు రాకుండా ఎప్పటికప్పుడు పంటను పరిశీలిస్తూ ఉండండి"
+      ]
+    }
+  },
+  "Pepper,_bell___Bacterial_spot": {
+    "id": "Pepper,_bell___Bacterial_spot",
+    "crop": {
+      "en": "Bell Pepper / Chilli",
+      "hi": "शिमला मिर्च",
+      "te": "బెల్ పెప్పర్ (మిరప)"
+    },
+    "disease_name": {
+      "en": "Bell Pepper Bacterial Spot",
+      "hi": "शिमला मिर्च जीवाणु धब्बा रोग",
+      "te": "మిరప బాక్టీరియల్ మచ్చ తెగులు"
+    },
+    "pathogen_type": "bacterial",
+    "scientific_name": "Xanthomonas campestris pv. vesicatoria",
+    "is_healthy": false,
+    "summary": {
+      "en": "Bacterial spot on bell peppers causes small, circular to irregular water-soaked spots on leaves and raised wart-like scabs on fruits.",
+      "hi": "शिमला मिर्च का जीवाणु धब्बा रोग पत्तियों पर पानीदार धब्बे और फलों पर खुरदरे मस्से जैसे उभार पैदा करता है।",
+      "te": "మిరపలో బాక్టీరియల్ మచ్చ తెగులు ఆకులపై చిన్న చిన్న నీటి మచ్చలను, కాయలపై గరుకైన బొబ్బలను కలిగిస్తుంది."
+    },
+    "symptoms": {
+      "en": [
+        "Small yellowish-green lesions turning brown with water-soaked borders",
+        "Severe defoliation causing sunscald on exposed fruits",
+        "Rough raised corky spots on pepper pods"
+      ],
+      "hi": [
+        "पत्तियों पर पीले-हरे पानीदार धब्बे जो बाद में भूरे हो जाते हैं",
+        "पत्तियों का अत्यधिक गिरना जिससे फल धूप से झुलस जाते हैं",
+        "मिर्च के फलों पर खुरदुरे धब्बे"
+      ],
+      "te": [
+        "ఆకులపై చిన్న పసుపు-ఆకుపచ్చ నీటి మచ్చలు",
+        "ఆకులు విపరీతంగా రాలిపోయి కాయలు ఎండకు కమిలిపోవడం",
+        "కాయలపై గరుకైన బొబ్బలు"
+      ]
+    },
+    "favorable_conditions": {
+      "en": [
+        "High temperature (25°C - 35°C) with frequent rainstorms",
+        "Wind-driven rain splashing bacteria from soil or weeds",
+        "Contaminated seed lots"
+      ],
+      "hi": [
+        "25°C से 35°C तापमान और लगातार बारिश",
+        "हवा के साथ बारिश के छींटों से जीवाणु का फैलना",
+        "संक्रमित बीज"
+      ],
+      "te": [
+        "25°C - 35°C ఉష్ణోగ్రత మరియు వర్షాలు",
+        "గాలితో కూడిన వర్షపు చినుకుల వల్ల బాక్టీరియా వ్యాప్తి",
+        "తెగులు సోకిన విత్తనాలు"
+      ]
+    },
+    "immediate_actions": {
+      "en": [
+        "Do not work in wet fields as bacteria spread easily on wet hands and tools",
+        "Prune out diseased leaves during dry afternoons",
+        "Avoid overhead watering"
+      ],
+      "hi": [
+        "गीले खेत में काम न करें क्योंकि गीले हाथों और औजारों से बैक्टीरिया फैलता है",
+        "सूखे मौसम में रोगग्रस्त पत्तियां हटाएं",
+        "ऊपर से पानी देना बंद करें"
+      ],
+      "te": [
+        "పొలం తడిగా ఉన్నప్పుడు పనులు చేయవద్దు, తేమ వల్ల బాక్టీరియా త్వరగా వ్యాపిస్తుంది",
+        "మధ్యాహ్నం వేళల్లో తెగులు సోకిన ఆకులను తొలగించండి",
+        "పైనుండి నీరు చల్లవద్దు"
+      ]
+    }
+  },
+  "Pepper,_bell___healthy": {
+    "id": "Pepper,_bell___healthy",
+    "crop": {
+      "en": "Bell Pepper / Chilli",
+      "hi": "शिमला मिर्च",
+      "te": "బెల్ పెప్పర్ (మిరప)"
+    },
+    "disease_name": {
+      "en": "healthy",
+      "hi": "healthy",
+      "te": "healthy"
+    },
+    "pathogen_type": "none",
+    "scientific_name": "None (Healthy tissue)",
+    "is_healthy": true,
+    "summary": {
+      "en": "The Bell Pepper / Chilli leaf appears healthy with normal chlorophyll pigmentation, smooth margins, and no obvious disease symptoms.",
+      "hi": "शिमला मिर्च की यह पत्ती सामान्य क्लोरोफिल, स्वस्थ बनावट और बिना किसी बीमारी के लक्षणों के पूरी तरह स्वस्थ दिखती है।",
+      "te": "బెల్ పెప్పర్ (మిరప) ఆకు సాధారణ క్లోరోఫిల్, సహజమైన ఆకృతితో ఎటువంటి వ్యాధి లక్షణాలు లేకుండా ఆరోగ్యంగా ఉంది."
+    },
+    "symptoms": {
+      "en": [
+        "Vibrant green foliage with uniform coloration",
+        "Absence of lesions, spots, yellowing, or deformities",
+        "Intact leaf veins and margins"
+      ],
+      "hi": [
+        "एकसमान हरा रंग और प्राकृतिक चमक",
+        "किसी भी प्रकार के धब्बे, झुलसा या विकृति का अभाव",
+        "स्वस्थ नसें और किनारे"
+      ],
+      "te": [
+        "సహజమైన ఆకుపచ్చ రంగు",
+        "మచ్చలు, పసుపుదనం లేదా ముడతలు లేకపోవడం",
+        "ఆరోగ్యకరమైన ఈనెలు"
+      ]
+    },
+    "favorable_conditions": {
+      "en": [
+        "Good soil drainage and optimal balanced nutrition",
+        "Adequate aeration and sunlight",
+        "Routine preventive scouting"
+      ],
+      "hi": [
+        "उत्तम जल निकासी और संतुलित पोषण",
+        "पर्याप्त धूप और हवा",
+        "नियमित देखभाल"
+      ],
+      "te": [
+        "మంచి నీటి పారుదల మరియు సమతుల్య పోషకాలు",
+        "సరిపడా ఎండ మరియు గాలి",
+        "నిరంతర సంరక్షణ"
+      ]
+    },
+    "immediate_actions": {
+      "en": [
+        "No chemical treatment required",
+        "Maintain balanced irrigation schedule (avoid over-watering)",
+        "Continue routine field monitoring for early pest/disease detection"
+      ],
+      "hi": [
+        "किसी भी रासायनिक दवा की आवश्यकता नहीं है",
+        "उचित सिंचाई जारी रखें (अत्यधिक पानी से बचें)",
+        "नियमित रूप से फसल का निरीक्षण करते रहें"
+      ],
+      "te": [
+        "ఎటువంటి రసాయన మందులు అవసరం లేదు",
+        "సమయానుకూలంగా నీటి తడులు ఇవ్వండి",
+        "తెగుళ్లు రాకుండా ఎప్పటికప్పుడు పంటను పరిశీలిస్తూ ఉండండి"
+      ]
+    }
+  },
+  "Potato___Early_blight": {
+    "id": "Potato___Early_blight",
+    "crop": {
+      "en": "Potato",
+      "hi": "आलू",
+      "te": "బంగాళాదుంప"
+    },
+    "disease_name": {
+      "en": "Potato Early Blight",
+      "hi": "आलू की अगेती झुलसा",
+      "te": "బంగాళాదుంప ఎర్లీ బ్లైట్ (అగేతి ముడత)"
+    },
+    "pathogen_type": "fungal",
+    "scientific_name": "Alternaria solani",
+    "is_healthy": false,
+    "summary": {
+      "en": "Early blight in potato produces dark brown concentric lesions on foliage and sunken dark corky lesions on tubers, reducing tuber bulking.",
+      "hi": "आलू का अगेती झुलसा रोग पत्तियों पर गहरे भूरे रंग के छल्लेदार धब्बे बनाता है जिससे कंद का आकार छोटा रह जाता है।",
+      "te": "బంగాళాదుంపలో ఎర్లీ బ్లైట్ ఆకులపై వలయాకారపు గోధుమ మచ్చలను కలిగిస్తుంది, దీనివల్ల దుంపల సైజు పెరగదు."
+    },
+    "symptoms": {
+      "en": [
+        "Target-like concentric brown spots on lower mature leaves",
+        "Leaves turn chlorotic yellow and curl up before dying",
+        "Sunken dry corky rot spots on harvested potato tubers"
+      ],
+      "hi": [
+        "निचली पत्तियों पर गोल संकेंद्री भूरे धब्बे",
+        "पत्तियां पीली पड़कर सूखने लगती हैं",
+        "आलू के कंदों पर गहरे धंसे हुए सूखे धब्बे"
+      ],
+      "te": [
+        "క్రింది ఆకులపై వలయాల వంటి గోధుమ రంగు మచ్చలు",
+        "ఆకులు పసుపు రంగులోకి మారి ఎండిపోవడం",
+        "దుంపలపై గుంటలు పడిన నల్లటి మచ్చలు"
+      ]
+    },
+    "favorable_conditions": {
+      "en": [
+        "Warm temperatures alternating with humid rainy or dew periods",
+        "Stressed plants deficient in potassium or moisture",
+        "Overhead irrigation"
+      ],
+      "hi": [
+        "गर्म और नम मौसम का उतार-चढ़ाव",
+        "कमजोर पौधे जिनमें पोटाश की कमी हो",
+        "ऊपर से फव्वारा सिंचाई"
+      ],
+      "te": [
+        "వేడి మరియు తేమతో కూడిన వాతావరణం",
+        "పొటాష్ లోపం లేదా నీటి ఎద్దడి ఉన్న మొక్కలు",
+        "స్ప్రింక్లర్ల ద్వారా నీరు ఇవ్వడం"
+      ]
+    },
+    "immediate_actions": {
+      "en": [
+        "Remove severely spotted lower leaves",
+        "Switch to furrow irrigation avoiding foliage wetting",
+        "Apply protectant spray before fungal spores multiply"
+      ],
+      "hi": [
+        "संक्रमित निचली पत्तियों को तोड़कर हटाएं",
+        "पत्तियों को गीला किए बिना केवल नालियों में पानी दें",
+        "सुरक्षात्मक फफूंदनाशक का छिड़काव करें"
+      ],
+      "te": [
+        "తెగులు సోకిన కింది ఆకులను తుంచివేయండి",
+        "ఆకులపై నీరు పడకుండా బోదెల ద్వారా మాత్రమే నీరు పెట్టండి",
+        "రక్షక మందును పిచికారీ చేయండి"
+      ]
+    }
+  },
+  "Potato___Late_blight": {
+    "id": "Potato___Late_blight",
+    "crop": {
+      "en": "Potato",
+      "hi": "आलू",
+      "te": "బంగాళాదుంప"
+    },
+    "disease_name": {
+      "en": "Potato Late Blight",
+      "hi": "आलू की पछेती झुलसा",
+      "te": "బంగాళాదుంప లేట్ బ్లైట్ (పచేతి ముడత)"
+    },
+    "pathogen_type": "fungal",
+    "scientific_name": "Phytophthora infestans (Oomycete)",
+    "is_healthy": false,
+    "summary": {
+      "en": "Late blight is the historical cause of the Irish potato famine. It rots foliage and tubers with astonishing speed during humid foggy conditions.",
+      "hi": "पछेती झुलसा आलू का सबसे घातक रोग है जो कोहरे और नमी में पूरी फसल और आलू के कंदों को सड़ा देता है।",
+      "te": "బంగాళాదుంపలో లేట్ బ్లైట్ అత్యంత ప్రమాదకరమైన తెగులు. పొగమంచు మరియు చల్లని తేమలో ఆకులను, దుంపలను కుళ్ళిపోయేలా చేస్తుంది."
+    },
+    "symptoms": {
+      "en": [
+        "Water-soaked dark lesions on leaf tips and margins",
+        "White powdery mildew-like fuzz on leaf underside during mornings",
+        "Rotting tubers with brown-red granular discoloration"
+      ],
+      "hi": [
+        "पत्तियों के किनारों पर पानीदार काले-भूरे धब्बे",
+        "पत्ती के नीचे सफेद रोयेंदार फफूंद",
+        "आलू के कंदों का अंदर से लाल-भूरा होकर सड़ना"
+      ],
+      "te": [
+        "ఆకుల అంచులపై నీరు పట్టినట్లుగా నల్లటి మచ్చలు",
+        "ఆకు అడుగున తెల్లటి బూజు వంటి పొర",
+        "దుంపలు లోపల ఎర్రగా మారి కుళ్ళిపోవడం"
+      ]
+    },
+    "favorable_conditions": {
+      "en": [
+        "Temperature between 12°C and 22°C with RH > 90%",
+        "Overcast skies with fog or rain",
+        "Infected seed tubers"
+      ],
+      "hi": [
+        "12°C से 22°C तापमान और 90% से अधिक आर्द्रता",
+        "घना कोहरा या लगातार रिमझिम बारिश",
+        "संक्रमित बीज"
+      ],
+      "te": [
+        "12°C - 22°C ఉష్ణోగ్రత మరియు విపరీతమైన పొగమంచు",
+        "సూర్యరశ్మి లేకపోవడం",
+        "తెగులు సోకిన విత్తన దుంపలు"
+      ]
+    },
+    "immediate_actions": {
+      "en": [
+        "Apply emergency protectant/systemic fungicide before widespread spore release",
+        "Stop all irrigation immediately",
+        "Dehaulm (cut foliage) 10-14 days before harvest if tubers are at risk"
+      ],
+      "hi": [
+        "लक्षण दिखते ही तुरंत फफूंदनाशक का छिड़काव करें",
+        "सिंचाई पूरी तरह बंद करें",
+        "कंदों को बचाने के लिए खुदाई से 10 दिन पहले पौधों की कटाई (डिटॉपिंग) करें"
+      ],
+      "te": [
+        "వ్యాధి లక్షణాలు కనిపించగానే వెంటనే మందులను పిచికారీ చేయండి",
+        "నీరు పెట్టడం వెంటనే ఆపివేయండి",
+        "దుంపలు కుళ్ళకుండా ఉండటానికి తవ్వడానికి 10 రోజుల ముందే పైభాగం ఆకులను కోసివేయండి (డిహాల్మింగ్)"
+      ]
+    }
+  },
+  "Potato___healthy": {
+    "id": "Potato___healthy",
+    "crop": {
+      "en": "Potato",
+      "hi": "आलू",
+      "te": "బంగాళాదుంప"
+    },
+    "disease_name": {
+      "en": "healthy",
+      "hi": "healthy",
+      "te": "healthy"
+    },
+    "pathogen_type": "none",
+    "scientific_name": "None (Healthy tissue)",
+    "is_healthy": true,
+    "summary": {
+      "en": "The Potato leaf appears healthy with normal chlorophyll pigmentation, smooth margins, and no obvious disease symptoms.",
+      "hi": "आलू की यह पत्ती सामान्य क्लोरोफिल, स्वस्थ बनावट और बिना किसी बीमारी के लक्षणों के पूरी तरह स्वस्थ दिखती है।",
+      "te": "బంగాళాదుంప ఆకు సాధారణ క్లోరోఫిల్, సహజమైన ఆకృతితో ఎటువంటి వ్యాధి లక్షణాలు లేకుండా ఆరోగ్యంగా ఉంది."
+    },
+    "symptoms": {
+      "en": [
+        "Vibrant green foliage with uniform coloration",
+        "Absence of lesions, spots, yellowing, or deformities",
+        "Intact leaf veins and margins"
+      ],
+      "hi": [
+        "एकसमान हरा रंग और प्राकृतिक चमक",
+        "किसी भी प्रकार के धब्बे, झुलसा या विकृति का अभाव",
+        "स्वस्थ नसें और किनारे"
+      ],
+      "te": [
+        "సహజమైన ఆకుపచ్చ రంగు",
+        "మచ్చలు, పసుపుదనం లేదా ముడతలు లేకపోవడం",
+        "ఆరోగ్యకరమైన ఈనెలు"
+      ]
+    },
+    "favorable_conditions": {
+      "en": [
+        "Good soil drainage and optimal balanced nutrition",
+        "Adequate aeration and sunlight",
+        "Routine preventive scouting"
+      ],
+      "hi": [
+        "उत्तम जल निकासी और संतुलित पोषण",
+        "पर्याप्त धूप और हवा",
+        "नियमित देखभाल"
+      ],
+      "te": [
+        "మంచి నీటి పారుదల మరియు సమతుల్య పోషకాలు",
+        "సరిపడా ఎండ మరియు గాలి",
+        "నిరంతర సంరక్షణ"
+      ]
+    },
+    "immediate_actions": {
+      "en": [
+        "No chemical treatment required",
+        "Maintain balanced irrigation schedule (avoid over-watering)",
+        "Continue routine field monitoring for early pest/disease detection"
+      ],
+      "hi": [
+        "किसी भी रासायनिक दवा की आवश्यकता नहीं है",
+        "उचित सिंचाई जारी रखें (अत्यधिक पानी से बचें)",
+        "नियमित रूप से फसल का निरीक्षण करते रहें"
+      ],
+      "te": [
+        "ఎటువంటి రసాయన మందులు అవసరం లేదు",
+        "సమయానుకూలంగా నీటి తడులు ఇవ్వండి",
+        "తెగుళ్లు రాకుండా ఎప్పటికప్పుడు పంటను పరిశీలిస్తూ ఉండండి"
+      ]
+    }
+  },
+  "Raspberry___healthy": {
+    "id": "Raspberry___healthy",
+    "crop": {
+      "en": "Raspberry",
+      "hi": "रसभरी",
+      "te": "రాస్ప్‌బెర్రీ"
+    },
+    "disease_name": {
+      "en": "healthy",
+      "hi": "healthy",
+      "te": "healthy"
+    },
+    "pathogen_type": "none",
+    "scientific_name": "None (Healthy tissue)",
+    "is_healthy": true,
+    "summary": {
+      "en": "The Raspberry leaf appears healthy with normal chlorophyll pigmentation, smooth margins, and no obvious disease symptoms.",
+      "hi": "रसभरी की यह पत्ती सामान्य क्लोरोफिल, स्वस्थ बनावट और बिना किसी बीमारी के लक्षणों के पूरी तरह स्वस्थ दिखती है।",
+      "te": "రాస్ప్‌బెర్రీ ఆకు సాధారణ క్లోరోఫిల్, సహజమైన ఆకృతితో ఎటువంటి వ్యాధి లక్షణాలు లేకుండా ఆరోగ్యంగా ఉంది."
+    },
+    "symptoms": {
+      "en": [
+        "Vibrant green foliage with uniform coloration",
+        "Absence of lesions, spots, yellowing, or deformities",
+        "Intact leaf veins and margins"
+      ],
+      "hi": [
+        "एकसमान हरा रंग और प्राकृतिक चमक",
+        "किसी भी प्रकार के धब्बे, झुलसा या विकृति का अभाव",
+        "स्वस्थ नसें और किनारे"
+      ],
+      "te": [
+        "సహజమైన ఆకుపచ్చ రంగు",
+        "మచ్చలు, పసుపుదనం లేదా ముడతలు లేకపోవడం",
+        "ఆరోగ్యకరమైన ఈనెలు"
+      ]
+    },
+    "favorable_conditions": {
+      "en": [
+        "Good soil drainage and optimal balanced nutrition",
+        "Adequate aeration and sunlight",
+        "Routine preventive scouting"
+      ],
+      "hi": [
+        "उत्तम जल निकासी और संतुलित पोषण",
+        "पर्याप्त धूप और हवा",
+        "नियमित देखभाल"
+      ],
+      "te": [
+        "మంచి నీటి పారుదల మరియు సమతుల్య పోషకాలు",
+        "సరిపడా ఎండ మరియు గాలి",
+        "నిరంతర సంరక్షణ"
+      ]
+    },
+    "immediate_actions": {
+      "en": [
+        "No chemical treatment required",
+        "Maintain balanced irrigation schedule (avoid over-watering)",
+        "Continue routine field monitoring for early pest/disease detection"
+      ],
+      "hi": [
+        "किसी भी रासायनिक दवा की आवश्यकता नहीं है",
+        "उचित सिंचाई जारी रखें (अत्यधिक पानी से बचें)",
+        "नियमित रूप से फसल का निरीक्षण करते रहें"
+      ],
+      "te": [
+        "ఎటువంటి రసాయన మందులు అవసరం లేదు",
+        "సమయానుకూలంగా నీటి తడులు ఇవ్వండి",
+        "తెగుళ్లు రాకుండా ఎప్పటికప్పుడు పంటను పరిశీలిస్తూ ఉండండి"
+      ]
+    }
+  },
+  "Soybean___healthy": {
+    "id": "Soybean___healthy",
+    "crop": {
+      "en": "Soybean",
+      "hi": "सोयाबीन",
+      "te": "సోయాబీన్"
+    },
+    "disease_name": {
+      "en": "healthy",
+      "hi": "healthy",
+      "te": "healthy"
+    },
+    "pathogen_type": "none",
+    "scientific_name": "None (Healthy tissue)",
+    "is_healthy": true,
+    "summary": {
+      "en": "The Soybean leaf appears healthy with normal chlorophyll pigmentation, smooth margins, and no obvious disease symptoms.",
+      "hi": "सोयाबीन की यह पत्ती सामान्य क्लोरोफिल, स्वस्थ बनावट और बिना किसी बीमारी के लक्षणों के पूरी तरह स्वस्थ दिखती है।",
+      "te": "సోయాబీన్ ఆకు సాధారణ క్లోరోఫిల్, సహజమైన ఆకృతితో ఎటువంటి వ్యాధి లక్షణాలు లేకుండా ఆరోగ్యంగా ఉంది."
+    },
+    "symptoms": {
+      "en": [
+        "Vibrant green foliage with uniform coloration",
+        "Absence of lesions, spots, yellowing, or deformities",
+        "Intact leaf veins and margins"
+      ],
+      "hi": [
+        "एकसमान हरा रंग और प्राकृतिक चमक",
+        "किसी भी प्रकार के धब्बे, झुलसा या विकृति का अभाव",
+        "स्वस्थ नसें और किनारे"
+      ],
+      "te": [
+        "సహజమైన ఆకుపచ్చ రంగు",
+        "మచ్చలు, పసుపుదనం లేదా ముడతలు లేకపోవడం",
+        "ఆరోగ్యకరమైన ఈనెలు"
+      ]
+    },
+    "favorable_conditions": {
+      "en": [
+        "Good soil drainage and optimal balanced nutrition",
+        "Adequate aeration and sunlight",
+        "Routine preventive scouting"
+      ],
+      "hi": [
+        "उत्तम जल निकासी और संतुलित पोषण",
+        "पर्याप्त धूप और हवा",
+        "नियमित देखभाल"
+      ],
+      "te": [
+        "మంచి నీటి పారుదల మరియు సమతుల్య పోషకాలు",
+        "సరిపడా ఎండ మరియు గాలి",
+        "నిరంతర సంరక్షణ"
+      ]
+    },
+    "immediate_actions": {
+      "en": [
+        "No chemical treatment required",
+        "Maintain balanced irrigation schedule (avoid over-watering)",
+        "Continue routine field monitoring for early pest/disease detection"
+      ],
+      "hi": [
+        "किसी भी रासायनिक दवा की आवश्यकता नहीं है",
+        "उचित सिंचाई जारी रखें (अत्यधिक पानी से बचें)",
+        "नियमित रूप से फसल का निरीक्षण करते रहें"
+      ],
+      "te": [
+        "ఎటువంటి రసాయన మందులు అవసరం లేదు",
+        "సమయానుకూలంగా నీటి తడులు ఇవ్వండి",
+        "తెగుళ్లు రాకుండా ఎప్పటికప్పుడు పంటను పరిశీలిస్తూ ఉండండి"
+      ]
+    }
+  },
+  "Squash___Powdery_mildew": {
+    "id": "Squash___Powdery_mildew",
+    "crop": {
+      "en": "Squash / Pumpkin",
+      "hi": "कद्दू / स्क्वैश",
+      "te": "గుమ్మడి"
+    },
+    "disease_name": {
+      "en": "Powdery mildew",
+      "hi": "Powdery mildew",
+      "te": "Powdery mildew"
+    },
+    "pathogen_type": "fungal",
+    "scientific_name": "Fungal Pathogen",
+    "is_healthy": false,
+    "summary": {
+      "en": "Disease lesions identified on Squash / Pumpkin leaf consistent with Powdery mildew. Affects leaf vigor and photosynthetic efficiency.",
+      "hi": "कद्दू / स्क्वैश की पत्ती पर Powdery mildew के लक्षण पाए गए हैं। इससे पत्ती की प्रकाश संश्लेषण क्षमता और पौधे का स्वास्थ्य प्रभावित होता है।",
+      "te": "గుమ్మడి ఆకుపై Powdery mildew తెగులు లక్షణాలు గుర్తించబడ్డాయి. ఇది ఆకుల పచ్చదనాన్ని మరియు పంట దిగుబడిని తగ్గిస్తుంది."
+    },
+    "symptoms": {
+      "en": [
+        "Visible spots or discoloration typical of Powdery mildew on foliage",
+        "Gradual chlorosis spreading outward from infection centers",
+        "Reduced plant vigor if left unchecked"
+      ],
+      "hi": [
+        "पत्तियों पर Powdery mildew के विशिष्ट धब्बे या विकृति",
+        "संक्रमित भाग के आसपास पीलापन फैलना",
+        "समय पर ध्यान न देने पर पौधे की कमजोरी"
+      ],
+      "te": [
+        "ఆకులపై Powdery mildew తెగులు మచ్చలు లేదా మార్పులు",
+        "మచ్చల చుట్టూ పసుపు రంగు వ్యాపించడం",
+        "నివారించకపోతే పంట బలహీనపడటం"
+      ]
+    },
+    "favorable_conditions": {
+      "en": [
+        "High humidity, wet canopy, or dense foliage",
+        "Unfavorable temperature extremes weakening plant defense",
+        "Improper spacing"
+      ],
+      "hi": [
+        "अधिक आर्द्रता, पत्तियों पर पानी का ठहराव या घना फैलाव",
+        "प्रतिकूल तापमान जिससे पौधा कमजोर होता है",
+        "उचित दूरी का अभाव"
+      ],
+      "te": [
+        "అధిక తేమ లేదా ఆకులపై ఎక్కువ సమయం నీరు నిల్వ ఉండటం",
+        "వాతావరణంలో ఆకస్మిక మార్పులు",
+        "మొక్కల మధ్య సరైన దూరం లేకపోవడం"
+      ]
+    },
+    "immediate_actions": {
+      "en": [
+        "Isolate and remove diseased leaves",
+        "Stop overhead irrigation to avoid splashing spores",
+        "Sterilize pruning tools after handling"
+      ],
+      "hi": [
+        "संक्रमित पत्तियों को तोड़कर नष्ट करें",
+        "ऊपर से पानी देना बंद करें ताकि रोग न फैले",
+        "उपकरणों को साफ रखें"
+      ],
+      "te": [
+        "తెగులు సోకిన ఆకులను తుంచి నాశనం చేయండి",
+        "పైనుండి నీరు చల్లడం ఆపండి",
+        "పనిముట్లను శుభ్రపరచండి"
+      ]
+    }
+  },
+  "Strawberry___Leaf_scorch": {
+    "id": "Strawberry___Leaf_scorch",
+    "crop": {
+      "en": "Strawberry",
+      "hi": "स्ट्रॉबेरी",
+      "te": "స్ట్రాబెర్రీ"
+    },
+    "disease_name": {
+      "en": "Leaf scorch",
+      "hi": "Leaf scorch",
+      "te": "Leaf scorch"
+    },
+    "pathogen_type": "fungal",
+    "scientific_name": "Fungal Pathogen",
+    "is_healthy": false,
+    "summary": {
+      "en": "Disease lesions identified on Strawberry leaf consistent with Leaf scorch. Affects leaf vigor and photosynthetic efficiency.",
+      "hi": "स्ट्रॉबेरी की पत्ती पर Leaf scorch के लक्षण पाए गए हैं। इससे पत्ती की प्रकाश संश्लेषण क्षमता और पौधे का स्वास्थ्य प्रभावित होता है।",
+      "te": "స్ట్రాబెర్రీ ఆకుపై Leaf scorch తెగులు లక్షణాలు గుర్తించబడ్డాయి. ఇది ఆకుల పచ్చదనాన్ని మరియు పంట దిగుబడిని తగ్గిస్తుంది."
+    },
+    "symptoms": {
+      "en": [
+        "Visible spots or discoloration typical of Leaf scorch on foliage",
+        "Gradual chlorosis spreading outward from infection centers",
+        "Reduced plant vigor if left unchecked"
+      ],
+      "hi": [
+        "पत्तियों पर Leaf scorch के विशिष्ट धब्बे या विकृति",
+        "संक्रमित भाग के आसपास पीलापन फैलना",
+        "समय पर ध्यान न देने पर पौधे की कमजोरी"
+      ],
+      "te": [
+        "ఆకులపై Leaf scorch తెగులు మచ్చలు లేదా మార్పులు",
+        "మచ్చల చుట్టూ పసుపు రంగు వ్యాపించడం",
+        "నివారించకపోతే పంట బలహీనపడటం"
+      ]
+    },
+    "favorable_conditions": {
+      "en": [
+        "High humidity, wet canopy, or dense foliage",
+        "Unfavorable temperature extremes weakening plant defense",
+        "Improper spacing"
+      ],
+      "hi": [
+        "अधिक आर्द्रता, पत्तियों पर पानी का ठहराव या घना फैलाव",
+        "प्रतिकूल तापमान जिससे पौधा कमजोर होता है",
+        "उचित दूरी का अभाव"
+      ],
+      "te": [
+        "అధిక తేమ లేదా ఆకులపై ఎక్కువ సమయం నీరు నిల్వ ఉండటం",
+        "వాతావరణంలో ఆకస్మిక మార్పులు",
+        "మొక్కల మధ్య సరైన దూరం లేకపోవడం"
+      ]
+    },
+    "immediate_actions": {
+      "en": [
+        "Isolate and remove diseased leaves",
+        "Stop overhead irrigation to avoid splashing spores",
+        "Sterilize pruning tools after handling"
+      ],
+      "hi": [
+        "संक्रमित पत्तियों को तोड़कर नष्ट करें",
+        "ऊपर से पानी देना बंद करें ताकि रोग न फैले",
+        "उपकरणों को साफ रखें"
+      ],
+      "te": [
+        "తెగులు సోకిన ఆకులను తుంచి నాశనం చేయండి",
+        "పైనుండి నీరు చల్లడం ఆపండి",
+        "పనిముట్లను శుభ్రపరచండి"
+      ]
+    }
+  },
+  "Strawberry___healthy": {
+    "id": "Strawberry___healthy",
+    "crop": {
+      "en": "Strawberry",
+      "hi": "स्ट्रॉबेरी",
+      "te": "స్ట్రాబెర్రీ"
+    },
+    "disease_name": {
+      "en": "healthy",
+      "hi": "healthy",
+      "te": "healthy"
+    },
+    "pathogen_type": "none",
+    "scientific_name": "None (Healthy tissue)",
+    "is_healthy": true,
+    "summary": {
+      "en": "The Strawberry leaf appears healthy with normal chlorophyll pigmentation, smooth margins, and no obvious disease symptoms.",
+      "hi": "स्ट्रॉबेरी की यह पत्ती सामान्य क्लोरोफिल, स्वस्थ बनावट और बिना किसी बीमारी के लक्षणों के पूरी तरह स्वस्थ दिखती है।",
+      "te": "స్ట్రాబెర్రీ ఆకు సాధారణ క్లోరోఫిల్, సహజమైన ఆకృతితో ఎటువంటి వ్యాధి లక్షణాలు లేకుండా ఆరోగ్యంగా ఉంది."
+    },
+    "symptoms": {
+      "en": [
+        "Vibrant green foliage with uniform coloration",
+        "Absence of lesions, spots, yellowing, or deformities",
+        "Intact leaf veins and margins"
+      ],
+      "hi": [
+        "एकसमान हरा रंग और प्राकृतिक चमक",
+        "किसी भी प्रकार के धब्बे, झुलसा या विकृति का अभाव",
+        "स्वस्थ नसें और किनारे"
+      ],
+      "te": [
+        "సహజమైన ఆకుపచ్చ రంగు",
+        "మచ్చలు, పసుపుదనం లేదా ముడతలు లేకపోవడం",
+        "ఆరోగ్యకరమైన ఈనెలు"
+      ]
+    },
+    "favorable_conditions": {
+      "en": [
+        "Good soil drainage and optimal balanced nutrition",
+        "Adequate aeration and sunlight",
+        "Routine preventive scouting"
+      ],
+      "hi": [
+        "उत्तम जल निकासी और संतुलित पोषण",
+        "पर्याप्त धूप और हवा",
+        "नियमित देखभाल"
+      ],
+      "te": [
+        "మంచి నీటి పారుదల మరియు సమతుల్య పోషకాలు",
+        "సరిపడా ఎండ మరియు గాలి",
+        "నిరంతర సంరక్షణ"
+      ]
+    },
+    "immediate_actions": {
+      "en": [
+        "No chemical treatment required",
+        "Maintain balanced irrigation schedule (avoid over-watering)",
+        "Continue routine field monitoring for early pest/disease detection"
+      ],
+      "hi": [
+        "किसी भी रासायनिक दवा की आवश्यकता नहीं है",
+        "उचित सिंचाई जारी रखें (अत्यधिक पानी से बचें)",
+        "नियमित रूप से फसल का निरीक्षण करते रहें"
+      ],
+      "te": [
+        "ఎటువంటి రసాయన మందులు అవసరం లేదు",
+        "సమయానుకూలంగా నీటి తడులు ఇవ్వండి",
+        "తెగుళ్లు రాకుండా ఎప్పటికప్పుడు పంటను పరిశీలిస్తూ ఉండండి"
+      ]
+    }
+  },
+  "Tomato___Bacterial_spot": {
+    "id": "Tomato___Bacterial_spot",
+    "crop": {
+      "en": "Tomato",
+      "hi": "टमाटर",
+      "te": "టమోటా"
+    },
+    "disease_name": {
+      "en": "Bacterial spot",
+      "hi": "Bacterial spot",
+      "te": "Bacterial spot"
+    },
+    "pathogen_type": "bacterial",
+    "scientific_name": "Xanthomonas / Pseudomonas species",
+    "is_healthy": false,
+    "summary": {
+      "en": "Disease lesions identified on Tomato leaf consistent with Bacterial spot. Affects leaf vigor and photosynthetic efficiency.",
+      "hi": "टमाटर की पत्ती पर Bacterial spot के लक्षण पाए गए हैं। इससे पत्ती की प्रकाश संश्लेषण क्षमता और पौधे का स्वास्थ्य प्रभावित होता है।",
+      "te": "టమోటా ఆకుపై Bacterial spot తెగులు లక్షణాలు గుర్తించబడ్డాయి. ఇది ఆకుల పచ్చదనాన్ని మరియు పంట దిగుబడిని తగ్గిస్తుంది."
+    },
+    "symptoms": {
+      "en": [
+        "Visible spots or discoloration typical of Bacterial spot on foliage",
+        "Gradual chlorosis spreading outward from infection centers",
+        "Reduced plant vigor if left unchecked"
+      ],
+      "hi": [
+        "पत्तियों पर Bacterial spot के विशिष्ट धब्बे या विकृति",
+        "संक्रमित भाग के आसपास पीलापन फैलना",
+        "समय पर ध्यान न देने पर पौधे की कमजोरी"
+      ],
+      "te": [
+        "ఆకులపై Bacterial spot తెగులు మచ్చలు లేదా మార్పులు",
+        "మచ్చల చుట్టూ పసుపు రంగు వ్యాపించడం",
+        "నివారించకపోతే పంట బలహీనపడటం"
+      ]
+    },
+    "favorable_conditions": {
+      "en": [
+        "High humidity, wet canopy, or dense foliage",
+        "Unfavorable temperature extremes weakening plant defense",
+        "Improper spacing"
+      ],
+      "hi": [
+        "अधिक आर्द्रता, पत्तियों पर पानी का ठहराव या घना फैलाव",
+        "प्रतिकूल तापमान जिससे पौधा कमजोर होता है",
+        "उचित दूरी का अभाव"
+      ],
+      "te": [
+        "అధిక తేమ లేదా ఆకులపై ఎక్కువ సమయం నీరు నిల్వ ఉండటం",
+        "వాతావరణంలో ఆకస్మిక మార్పులు",
+        "మొక్కల మధ్య సరైన దూరం లేకపోవడం"
+      ]
+    },
+    "immediate_actions": {
+      "en": [
+        "Isolate and remove diseased leaves",
+        "Stop overhead irrigation to avoid splashing spores",
+        "Sterilize pruning tools after handling"
+      ],
+      "hi": [
+        "संक्रमित पत्तियों को तोड़कर नष्ट करें",
+        "ऊपर से पानी देना बंद करें ताकि रोग न फैले",
+        "उपकरणों को साफ रखें"
+      ],
+      "te": [
+        "తెగులు సోకిన ఆకులను తుంచి నాశనం చేయండి",
+        "పైనుండి నీరు చల్లడం ఆపండి",
+        "పనిముట్లను శుభ్రపరచండి"
+      ]
+    }
+  },
+  "Tomato___Early_blight": {
+    "id": "Tomato___Early_blight",
+    "crop": {
+      "en": "Tomato",
+      "hi": "टमाटर",
+      "te": "టమోటా"
+    },
+    "disease_name": {
+      "en": "Early Blight",
+      "hi": "अगेती झुलसा",
+      "te": "ఎర్లీ బ్లైట్ (ముందస్తు ముడత)"
+    },
+    "pathogen_type": "fungal",
+    "scientific_name": "Alternaria solani",
+    "is_healthy": false,
+    "summary": {
+      "en": "Early blight is a prevalent fungal disease that begins on older bottom leaves with characteristic 'bullseye' target concentric rings.",
+      "hi": "अगेती झुलसा एक सामान्य फफूंद रोग है जो पुरानी निचली पत्तियों पर संकेंद్రీय छल्लों (टारगेट बोर्ड जैसे) के रूप में शुरू होता है।",
+      "te": "ఎర్లీ బ్లైట్ అనేది శిలీంద్రం వల్ల వచ్చే వ్యాధి. ఇది మొదట క్రింది పాత ఆకులపై వలయాల వంటి (బుల్‌సై) మచ్చలతో మొదలవుతుంది."
+    },
+    "symptoms": {
+      "en": [
+        "Brown-black circular spots with concentric rings resembling a target board",
+        "Yellow halos surrounding the necrotic spots",
+        "Premature yellowing and dropping of lower leaves",
+        "Collar rot lesions at the soil level on young stems"
+      ],
+      "hi": [
+        "पत्तियों पर संकेंद्री छल्लों वाले भूरे-काले धब्बे",
+        "धब्बों के चारों ओर पीला घेरा (हेलो)",
+        "निचली पत्तियों का समय से पहले पीला पड़कर सूखना और गिरना",
+        "तने पर जमीन के पास काले धब्बे या सड़ांध"
+      ],
+      "te": [
+        "ఆకులపై వలయాకారపు నల్లటి లేదా గోధుమ రంగు మచ్చలు",
+        "మచ్చల చుట్టూ పసుపు రంగు వలయం ఏర్పడటం",
+        "కింది ఆకులు పసుపు రంగులోకి మారి ఎండి రాలిపోవడం",
+        "కాండం క్రింది భాగంలో నల్లటి మచ్చలు"
+      ]
+    },
+    "favorable_conditions": {
+      "en": [
+        "Warm temperatures (24°C - 30°C) with frequent rainfall or heavy dew",
+        "High relative humidity (>80%) and wet foliage",
+        "Overhead sprinkler irrigation splashing fungal spores from soil",
+        "Poor crop spacing restricting airflow"
+      ],
+      "hi": [
+        "गर्म तापमान (24°C से 30°C) और उच्च आर्द्रता",
+        "पत्तियों पर अधिक देर तक नमी या ओस रहना",
+        "ऊपर से फव्वारा सिंचाई जिससे मिट्टी के बीजाणु पत्तों पर उछलते हैं",
+        "घने पौधे और हवा का अपर्याप्त संचार"
+      ],
+      "te": [
+        "వెచ్చని వాతావరణం (24°C - 30°C) మరియు అధిక తేమ",
+        "ఆకులపై ఎక్కువ సమయం తేమ లేదా మంచు నిలిచి ఉండటం",
+        "పైనుండి నీరు చిలకరించడం వల్ల మట్టిలోని శిలీంద్ర బీజాలు ఆకులపై పడటం",
+        "మొక్కల మధ్య సరైన గాలి వెలుతురు లేకపోవడం"
+      ]
+    },
+    "immediate_actions": {
+      "en": [
+        "Prune and safely destroy heavily infected lower leaves using clean disinfected shears",
+        "Stop overhead watering immediately; switch to drip or ground furrow irrigation",
+        "Apply clean organic mulch (straw or plastic) around the plant base to stop soil splash",
+        "Wash hands and sterilize tools with 70% alcohol or bleach solution after handling infected plants"
+      ],
+      "hi": [
+        "संक्रमित निचली पत्तियों को काटकर खेत से दूर जलाएं या नष्ट करें",
+        "ऊपर से पानी देना बंद करें; केवल ड्रिप या जड़ के पास पानी दें",
+        "मिट्टी के छींटों को रोकने के लिए तने के चारों ओर पुआल की मल्चिंग करें",
+        "रोगग्रस्त पौधों को छूने के बाद औजारों और हाथों को विसंक्रमित करें"
+      ],
+      "te": [
+        "తెగులు సోకిన కింది ఆకులను వెంటనే తుంచి నాశనం చేయండి లేదా పూడ్చిపెట్టండి",
+        "పైనుండి నీరు చల్లడం ఆపి, బిందు సేద్యం (డ్రిప్) ద్వారా మాత్రమే నీరు ఇవ్వండి",
+        "మట్టి ఆకులపై ఎగరకూడకుండా మొక్క మొదట్లో ఎండుగడ్డితో మల్చింగ్ చేయండి",
+        "తెగులు సోకిన మొక్కలను తాకిన తర్వాత పనిముట్లను శానిటైజ్ చేయండి"
+      ]
+    }
+  },
+  "Tomato___Late_blight": {
+    "id": "Tomato___Late_blight",
+    "crop": {
+      "en": "Tomato",
+      "hi": "टमाटर",
+      "te": "టమోటా"
+    },
+    "disease_name": {
+      "en": "Late Blight",
+      "hi": "पछेती झुलसा",
+      "te": "లేట్ బ్లైట్ (ఆలస్యపు ముడత)"
+    },
+    "pathogen_type": "fungal",
+    "scientific_name": "Phytophthora infestans (Oomycete)",
+    "is_healthy": false,
+    "summary": {
+      "en": "Late blight is a catastrophic, fast-spreading water mold disease capable of destroying entire tomato and potato fields within a few days under cool, wet conditions.",
+      "hi": "पछेती झुलसा एक अत्यंत विनाशकारी रोग है जो नम और ठंडे मौसम में कुछ ही दिनों में टमाटर और आलू की पूरी फसल नष्ट कर सकता है।",
+      "te": "లేట్ బ్లైట్ అనేది చాలా తీవ్రమైన మరియు వేగంగా వ్యాపించే తెగులు. చల్లని, తేమతో కూడిన వాతావరణంలో కొన్ని రోజుల్లోనే మొత్తం పంటను నాశనం చేయగలదు."
+    },
+    "symptoms": {
+      "en": [
+        "Large, irregular water-soaked pale green or dark brown lesions on leaves",
+        "Delicate white cottony fungal growth on the underside of leaves during high humidity",
+        "Rapidly expanding blackened stem lesions causing vine collapse",
+        "Firm, greasy dark brown blotches on green and ripe fruits"
+      ],
+      "hi": [
+        "पत्तियों पर बड़े, पानीदार भूरे-काले धब्बे जो तेजी से फैलते हैं",
+        "पत्ती के निचले भाग में सफेद फफूंद की रूई जैसी परत दिखना",
+        "तने पर काले धब्बे जिससे पूरा पौधा झुककर मर जाता है",
+        "टमाटर के फलों पर कठोर, भूरे-काले सड़े हुए धब्बे"
+      ],
+      "te": [
+        "ఆకులపై నీరు పట్టినట్లుగా ఉండే పెద్ద నల్లటి లేదా ముదురు గోధుమ రంగు మచ్చలు",
+        "అధిక తేమ ఉన్నప్పుడు ఆకు అడుగు భాగంలో తెల్లటి బూజు పొర కనిపించడం",
+        "కాండం నల్లబడి మొక్క విరిగి పడిపోవడం",
+        "కాయలపై నల్లటి, గట్టి మచ్చలు ఏర్పడటం"
+      ]
+    },
+    "favorable_conditions": {
+      "en": [
+        "Cool temperatures (10°C to 20°C) combined with high humidity (>90%)",
+        "Prolonged leaf wetness from rain, fog, or heavy dew lasting over 8 hours",
+        "Continuous cloudy, overcast daylight",
+        "Planting infected seed tubers or contaminated transplants"
+      ],
+      "hi": [
+        "ठंडा मौसम (10°C से 20°C) और अत्यधिक नमी (90% से अधिक)",
+        "लगातार बारिश, कोहरा या ओस जो पत्तों पर 8 घंटे से अधिक रहे",
+        "बादल छाए रहना और धूप की कमी",
+        "संक्रमित पौधों या कंदों का उपयोग"
+      ],
+      "te": [
+        "చల్లని ఉష్ణోగ్రతలు (10°C - 20°C) మరియు విపరీతమైన తేమ (90% పైగా)",
+        "ఎడతెరిపి లేని వర్షాలు, పొగమంచు లేదా ఆకులపై నీరు నిలిచి ఉండటం",
+        "సూర్యరశ్మి లేక నిరంతరం ఆకాశం మేఘావృతమై ఉండటం",
+        "తెగులు సోకిన నారు లేదా విత్తనాలు వాడటం"
+      ]
+    },
+    "immediate_actions": {
+      "en": [
+        "Bag and remove infected tomato plants immediately; do not compost them",
+        "Cease all sprinkler or overhead irrigation",
+        "Alert neighboring farmers immediately as airborne sporangia travel miles in the wind",
+        "Apply an emergency protective fungicide immediately if cool wet conditions are forecasted"
+      ],
+      "hi": [
+        "संक्रमित पौधों को तुरंत उखाड़कर प्लास्टिक बैग में बंद करें और दूर नष्ट करें",
+        "खेत में पानी का ठहराव और ऊपर से सिंचाई तुरंत बंद करें",
+        "पड़ोसी किसानों को सचेत करें क्योंकि यह रोग हवा के साथ तेजी से फैलता है",
+        "मौसम खराब होने पर तुरंत निवारक फफूंदनाशक का छिड़काव करें"
+      ],
+      "te": [
+        "తెగులు సోకిన మొక్కలను పీకి ప్లాస్టిక్ కవర్‌లో పెట్టి దూరంగా కాల్చివేయండి",
+        "పంటపై నీరు చిలకరించడం తక్షణమే ఆపండి",
+        "గాలి ద్వారా ఇది వేగంగా వ్యాపిస్తుంది కాబట్టి పక్క రైతులకు సమాచారం ఇవ్వండి",
+        "వాతావరణం చల్లగా, వర్షంగా ఉంటే వెంటనే రక్షక మందులను పిచికారీ చేయండి"
+      ]
+    }
+  },
+  "Tomato___Leaf_Mold": {
+    "id": "Tomato___Leaf_Mold",
+    "crop": {
+      "en": "Tomato",
+      "hi": "टमाटर",
+      "te": "టమోటా"
+    },
+    "disease_name": {
+      "en": "Leaf Mold",
+      "hi": "Leaf Mold",
+      "te": "Leaf Mold"
+    },
+    "pathogen_type": "fungal",
+    "scientific_name": "Fungal Pathogen",
+    "is_healthy": false,
+    "summary": {
+      "en": "Disease lesions identified on Tomato leaf consistent with Leaf Mold. Affects leaf vigor and photosynthetic efficiency.",
+      "hi": "टमाटर की पत्ती पर Leaf Mold के लक्षण पाए गए हैं। इससे पत्ती की प्रकाश संश्लेषण क्षमता और पौधे का स्वास्थ्य प्रभावित होता है।",
+      "te": "టమోటా ఆకుపై Leaf Mold తెగులు లక్షణాలు గుర్తించబడ్డాయి. ఇది ఆకుల పచ్చదనాన్ని మరియు పంట దిగుబడిని తగ్గిస్తుంది."
+    },
+    "symptoms": {
+      "en": [
+        "Visible spots or discoloration typical of Leaf Mold on foliage",
+        "Gradual chlorosis spreading outward from infection centers",
+        "Reduced plant vigor if left unchecked"
+      ],
+      "hi": [
+        "पत्तियों पर Leaf Mold के विशिष्ट धब्बे या विकृति",
+        "संक्रमित भाग के आसपास पीलापन फैलना",
+        "समय पर ध्यान न देने पर पौधे की कमजोरी"
+      ],
+      "te": [
+        "ఆకులపై Leaf Mold తెగులు మచ్చలు లేదా మార్పులు",
+        "మచ్చల చుట్టూ పసుపు రంగు వ్యాపించడం",
+        "నివారించకపోతే పంట బలహీనపడటం"
+      ]
+    },
+    "favorable_conditions": {
+      "en": [
+        "High humidity, wet canopy, or dense foliage",
+        "Unfavorable temperature extremes weakening plant defense",
+        "Improper spacing"
+      ],
+      "hi": [
+        "अधिक आर्द्रता, पत्तियों पर पानी का ठहराव या घना फैलाव",
+        "प्रतिकूल तापमान जिससे पौधा कमजोर होता है",
+        "उचित दूरी का अभाव"
+      ],
+      "te": [
+        "అధిక తేమ లేదా ఆకులపై ఎక్కువ సమయం నీరు నిల్వ ఉండటం",
+        "వాతావరణంలో ఆకస్మిక మార్పులు",
+        "మొక్కల మధ్య సరైన దూరం లేకపోవడం"
+      ]
+    },
+    "immediate_actions": {
+      "en": [
+        "Isolate and remove diseased leaves",
+        "Stop overhead irrigation to avoid splashing spores",
+        "Sterilize pruning tools after handling"
+      ],
+      "hi": [
+        "संक्रमित पत्तियों को तोड़कर नष्ट करें",
+        "ऊपर से पानी देना बंद करें ताकि रोग न फैले",
+        "उपकरणों को साफ रखें"
+      ],
+      "te": [
+        "తెగులు సోకిన ఆకులను తుంచి నాశనం చేయండి",
+        "పైనుండి నీరు చల్లడం ఆపండి",
+        "పనిముట్లను శుభ్రపరచండి"
+      ]
+    }
+  },
+  "Tomato___Septoria_leaf_spot": {
+    "id": "Tomato___Septoria_leaf_spot",
+    "crop": {
+      "en": "Tomato",
+      "hi": "टमाटर",
+      "te": "టమోటా"
+    },
+    "disease_name": {
+      "en": "Septoria leaf spot",
+      "hi": "Septoria leaf spot",
+      "te": "Septoria leaf spot"
+    },
+    "pathogen_type": "fungal",
+    "scientific_name": "Fungal Pathogen",
+    "is_healthy": false,
+    "summary": {
+      "en": "Disease lesions identified on Tomato leaf consistent with Septoria leaf spot. Affects leaf vigor and photosynthetic efficiency.",
+      "hi": "टमाटर की पत्ती पर Septoria leaf spot के लक्षण पाए गए हैं। इससे पत्ती की प्रकाश संश्लेषण क्षमता और पौधे का स्वास्थ्य प्रभावित होता है।",
+      "te": "టమోటా ఆకుపై Septoria leaf spot తెగులు లక్షణాలు గుర్తించబడ్డాయి. ఇది ఆకుల పచ్చదనాన్ని మరియు పంట దిగుబడిని తగ్గిస్తుంది."
+    },
+    "symptoms": {
+      "en": [
+        "Visible spots or discoloration typical of Septoria leaf spot on foliage",
+        "Gradual chlorosis spreading outward from infection centers",
+        "Reduced plant vigor if left unchecked"
+      ],
+      "hi": [
+        "पत्तियों पर Septoria leaf spot के विशिष्ट धब्बे या विकृति",
+        "संक्रमित भाग के आसपास पीलापन फैलना",
+        "समय पर ध्यान न देने पर पौधे की कमजोरी"
+      ],
+      "te": [
+        "ఆకులపై Septoria leaf spot తెగులు మచ్చలు లేదా మార్పులు",
+        "మచ్చల చుట్టూ పసుపు రంగు వ్యాపించడం",
+        "నివారించకపోతే పంట బలహీనపడటం"
+      ]
+    },
+    "favorable_conditions": {
+      "en": [
+        "High humidity, wet canopy, or dense foliage",
+        "Unfavorable temperature extremes weakening plant defense",
+        "Improper spacing"
+      ],
+      "hi": [
+        "अधिक आर्द्रता, पत्तियों पर पानी का ठहराव या घना फैलाव",
+        "प्रतिकूल तापमान जिससे पौधा कमजोर होता है",
+        "उचित दूरी का अभाव"
+      ],
+      "te": [
+        "అధిక తేమ లేదా ఆకులపై ఎక్కువ సమయం నీరు నిల్వ ఉండటం",
+        "వాతావరణంలో ఆకస్మిక మార్పులు",
+        "మొక్కల మధ్య సరైన దూరం లేకపోవడం"
+      ]
+    },
+    "immediate_actions": {
+      "en": [
+        "Isolate and remove diseased leaves",
+        "Stop overhead irrigation to avoid splashing spores",
+        "Sterilize pruning tools after handling"
+      ],
+      "hi": [
+        "संक्रमित पत्तियों को तोड़कर नष्ट करें",
+        "ऊपर से पानी देना बंद करें ताकि रोग न फैले",
+        "उपकरणों को साफ रखें"
+      ],
+      "te": [
+        "తెగులు సోకిన ఆకులను తుంచి నాశనం చేయండి",
+        "పైనుండి నీరు చల్లడం ఆపండి",
+        "పనిముట్లను శుభ్రపరచండి"
+      ]
+    }
+  },
+  "Tomato___Spider_mites Two-spotted_spider_mite": {
+    "id": "Tomato___Spider_mites Two-spotted_spider_mite",
+    "crop": {
+      "en": "Tomato",
+      "hi": "टमाटर",
+      "te": "టమోటా"
+    },
+    "disease_name": {
+      "en": "Spider mites Two-spotted spider mite",
+      "hi": "Spider mites Two-spotted spider mite",
+      "te": "Spider mites Two-spotted spider mite"
+    },
+    "pathogen_type": "pest",
+    "scientific_name": "Tetranychus urticae (Spider Mite)",
+    "is_healthy": false,
+    "summary": {
+      "en": "Disease lesions identified on Tomato leaf consistent with Spider mites Two-spotted spider mite. Affects leaf vigor and photosynthetic efficiency.",
+      "hi": "टमाटर की पत्ती पर Spider mites Two-spotted spider mite के लक्षण पाए गए हैं। इससे पत्ती की प्रकाश संश्लेषण क्षमता और पौधे का स्वास्थ्य प्रभावित होता है।",
+      "te": "టమోటా ఆకుపై Spider mites Two-spotted spider mite తెగులు లక్షణాలు గుర్తించబడ్డాయి. ఇది ఆకుల పచ్చదనాన్ని మరియు పంట దిగుబడిని తగ్గిస్తుంది."
+    },
+    "symptoms": {
+      "en": [
+        "Visible spots or discoloration typical of Spider mites Two-spotted spider mite on foliage",
+        "Gradual chlorosis spreading outward from infection centers",
+        "Reduced plant vigor if left unchecked"
+      ],
+      "hi": [
+        "पत्तियों पर Spider mites Two-spotted spider mite के विशिष्ट धब्बे या विकृति",
+        "संक्रमित भाग के आसपास पीलापन फैलना",
+        "समय पर ध्यान न देने पर पौधे की कमजोरी"
+      ],
+      "te": [
+        "ఆకులపై Spider mites Two-spotted spider mite తెగులు మచ్చలు లేదా మార్పులు",
+        "మచ్చల చుట్టూ పసుపు రంగు వ్యాపించడం",
+        "నివారించకపోతే పంట బలహీనపడటం"
+      ]
+    },
+    "favorable_conditions": {
+      "en": [
+        "High humidity, wet canopy, or dense foliage",
+        "Unfavorable temperature extremes weakening plant defense",
+        "Improper spacing"
+      ],
+      "hi": [
+        "अधिक आर्द्रता, पत्तियों पर पानी का ठहराव या घना फैलाव",
+        "प्रतिकूल तापमान जिससे पौधा कमजोर होता है",
+        "उचित दूरी का अभाव"
+      ],
+      "te": [
+        "అధిక తేమ లేదా ఆకులపై ఎక్కువ సమయం నీరు నిల్వ ఉండటం",
+        "వాతావరణంలో ఆకస్మిక మార్పులు",
+        "మొక్కల మధ్య సరైన దూరం లేకపోవడం"
+      ]
+    },
+    "immediate_actions": {
+      "en": [
+        "Isolate and remove diseased leaves",
+        "Stop overhead irrigation to avoid splashing spores",
+        "Sterilize pruning tools after handling"
+      ],
+      "hi": [
+        "संक्रमित पत्तियों को तोड़कर नष्ट करें",
+        "ऊपर से पानी देना बंद करें ताकि रोग न फैले",
+        "उपकरणों को साफ रखें"
+      ],
+      "te": [
+        "తెగులు సోకిన ఆకులను తుంచి నాశనం చేయండి",
+        "పైనుండి నీరు చల్లడం ఆపండి",
+        "పనిముట్లను శుభ్రపరచండి"
+      ]
+    }
+  },
+  "Tomato___Target_Spot": {
+    "id": "Tomato___Target_Spot",
+    "crop": {
+      "en": "Tomato",
+      "hi": "टमाटर",
+      "te": "టమోటా"
+    },
+    "disease_name": {
+      "en": "Target Spot",
+      "hi": "Target Spot",
+      "te": "Target Spot"
+    },
+    "pathogen_type": "fungal",
+    "scientific_name": "Fungal Pathogen",
+    "is_healthy": false,
+    "summary": {
+      "en": "Disease lesions identified on Tomato leaf consistent with Target Spot. Affects leaf vigor and photosynthetic efficiency.",
+      "hi": "टमाटर की पत्ती पर Target Spot के लक्षण पाए गए हैं। इससे पत्ती की प्रकाश संश्लेषण क्षमता और पौधे का स्वास्थ्य प्रभावित होता है।",
+      "te": "టమోటా ఆకుపై Target Spot తెగులు లక్షణాలు గుర్తించబడ్డాయి. ఇది ఆకుల పచ్చదనాన్ని మరియు పంట దిగుబడిని తగ్గిస్తుంది."
+    },
+    "symptoms": {
+      "en": [
+        "Visible spots or discoloration typical of Target Spot on foliage",
+        "Gradual chlorosis spreading outward from infection centers",
+        "Reduced plant vigor if left unchecked"
+      ],
+      "hi": [
+        "पत्तियों पर Target Spot के विशिष्ट धब्बे या विकृति",
+        "संक्रमित भाग के आसपास पीलापन फैलना",
+        "समय पर ध्यान न देने पर पौधे की कमजोरी"
+      ],
+      "te": [
+        "ఆకులపై Target Spot తెగులు మచ్చలు లేదా మార్పులు",
+        "మచ్చల చుట్టూ పసుపు రంగు వ్యాపించడం",
+        "నివారించకపోతే పంట బలహీనపడటం"
+      ]
+    },
+    "favorable_conditions": {
+      "en": [
+        "High humidity, wet canopy, or dense foliage",
+        "Unfavorable temperature extremes weakening plant defense",
+        "Improper spacing"
+      ],
+      "hi": [
+        "अधिक आर्द्रता, पत्तियों पर पानी का ठहराव या घना फैलाव",
+        "प्रतिकूल तापमान जिससे पौधा कमजोर होता है",
+        "उचित दूरी का अभाव"
+      ],
+      "te": [
+        "అధిక తేమ లేదా ఆకులపై ఎక్కువ సమయం నీరు నిల్వ ఉండటం",
+        "వాతావరణంలో ఆకస్మిక మార్పులు",
+        "మొక్కల మధ్య సరైన దూరం లేకపోవడం"
+      ]
+    },
+    "immediate_actions": {
+      "en": [
+        "Isolate and remove diseased leaves",
+        "Stop overhead irrigation to avoid splashing spores",
+        "Sterilize pruning tools after handling"
+      ],
+      "hi": [
+        "संक्रमित पत्तियों को तोड़कर नष्ट करें",
+        "ऊपर से पानी देना बंद करें ताकि रोग न फैले",
+        "उपकरणों को साफ रखें"
+      ],
+      "te": [
+        "తెగులు సోకిన ఆకులను తుంచి నాశనం చేయండి",
+        "పైనుండి నీరు చల్లడం ఆపండి",
+        "పనిముట్లను శుభ్రపరచండి"
+      ]
+    }
+  },
+  "Tomato___Tomato_Yellow_Leaf_Curl_Virus": {
+    "id": "Tomato___Tomato_Yellow_Leaf_Curl_Virus",
+    "crop": {
+      "en": "Tomato",
+      "hi": "टमाटर",
+      "te": "టమోటా"
+    },
+    "disease_name": {
+      "en": "Tomato Yellow Leaf Curl Virus (TYLCV)",
+      "hi": "टमाटर पीली पत्ती मरोड़ विषाणु",
+      "te": "టమోటా పల్లాకు / ఆకు ముడుత తెగులు (వైరస్)"
+    },
+    "pathogen_type": "viral",
+    "scientific_name": "Tomato yellow leaf curl virus (Begomovirus)",
+    "is_healthy": false,
+    "summary": {
+      "en": "TYLCV is a devastating plant viral disease transmitted by the silverleaf whitefly (Bemisia tabaci). It causes severe stunting, upward curling of leaf margins, and almost complete fruit yield loss if contracted early.",
+      "hi": "यह सफेद मक्खी (बेमिसिया तबासी) द्वारा फैलाया जाने वाला एक घातक विषाणु रोग है। इसमें पत्तियां ऊपर की ओर मुड़कर पीली हो जाती हैं और फल लगना बंद हो जाते हैं।",
+      "te": "ఇది తెల్లదోమ ద్వారా వ్యాపించే తీవ్రమైన వైరస్ తెగులు. దీనివల్ల ఆకులు పైకి దోనెలా ముడుచుకుని పసుపు రంగులోకి మారతాయి మరియు పూత, కాత పూర్తిగా తగ్గిపోతుంది."
+    },
+    "symptoms": {
+      "en": [
+        "Severe upward curling and cup-shaped crinkling of leaf margins",
+        "Pronounced yellowing (chlorosis) along leaf margins and interveinal spaces",
+        "Extreme stunting of plant stature giving a bushy, dwarfed appearance",
+        "Flower bud abscission (dropping) leading to drastic failure in fruit set"
+      ],
+      "hi": [
+        "पत्तियों के किनारे ऊपर की ओर मुड़कर कटोरी जैसे हो जाते हैं",
+        "पत्तियों की नसों के बीच का भाग पीला पड़ जाना",
+        "पौधे का कद छोटा रह जाना और झाड़ीदार दिखना",
+        "फूल गिरना और नए फल न बनना"
+      ],
+      "te": [
+        "ఆకులు పైకి దోనెలా లేదా గిన్నెలా ముడుచుకుపోవడం",
+        "ఆకుల అంచులు మరియు ఈనెల మధ్య పసుపు రంగులోకి మారడం",
+        "మొక్క ఎదుగుదల ఆగిపోయి గుబురుగా చిన్నదిగా మారిపోవడం",
+        "పూత రాలిపోయి కాయలు కాయకపోవడం"
+      ]
+    },
+    "favorable_conditions": {
+      "en": [
+        "High populations of the vector insect: Silverleaf Whitefly (Bemisia tabaci)",
+        "Warm, dry, sunny weather encouraging rapid whitefly proliferation",
+        "Presence of overlapping host weed reservoirs (e.g. Parthenium, Datura) near fields",
+        "Lack of physical insect barrier netting in nursery seedbeds"
+      ],
+      "hi": [
+        "सफेद मक्खी (व्हाइटफ्लाई) कीट की अधिक संख्या",
+        "गर्म और शुष्क मौसम जिससे कीट तेजी से बढ़ते हैं",
+        "खेत के आसपास गाजरघास (पार्थेनियम) जैसे खरपतवार",
+        "नर्सरी में कीट अवरोधक जाली (नेट) का न होना"
+      ],
+      "te": [
+        "తెల్లదోమల సంఖ్య విపరీతంగా పెరగడం",
+        "వేడి మరియు పొడి వాతావరణం",
+        "పొలం గట్లపై వయ్యారిభామ (పార్థీనియం) వంటి కలుపు మొక్కలు ఉండటం",
+        "నర్సరీ దశలో దోమతెరలు (నెట్) వాడకపోవడం"
+      ]
+    },
+    "immediate_actions": {
+      "en": [
+        "Uproot and destroy virally infected plants immediately to prevent whiteflies from acquiring the virus and spreading it to healthy plants",
+        "Install yellow sticky traps (15-20 traps per acre) at canopy level to monitor and trap adult whiteflies",
+        "Eradicate weed hosts in and around tomato plots",
+        "Do NOT attempt to cure the plant with foliar fertilizers; viral infections cannot be reversed"
+      ],
+      "hi": [
+        "संक्रमित पौधों को तुरंत उखाड़कर नष्ट करें ताकि सफेद मक्खियां वायरस न फैलाएं",
+        "खेत में प्रति एकड़ 15-20 पीले चिपचिपे ट्रैप (येलो स्टिकी ट्रैप) लगाएं",
+        "खेत और मेड़ों से सभी खरपतवार हटाएं",
+        "यह एक वायरस है, इसलिए इसे खाद से ठीक करने का प्रयास न करें"
+      ],
+      "te": [
+        "వైరస్ సోకిన మొక్కలను వెంటనే పీకి నాశనం చేయండి, లేదంటే తెల్లదోమలు ఇతర మొక్కలకు వ్యాపింపజేస్తాయి",
+        "ఎకరాకు 15-20 పసుపు రంగు జిగురు అట్టలను అమర్చి తెల్లదోమలను అరికట్టండి",
+        "పొలం చుట్టూ ఉన్న కలుపు మొక్కలను పూర్తిగా తొలగించండి",
+        "ఇది వైరస్ రోగం కాబట్టి ఎరువులు వేస్తే నయం కాదు"
+      ]
+    }
+  },
+  "Tomato___Tomato_mosaic_virus": {
+    "id": "Tomato___Tomato_mosaic_virus",
+    "crop": {
+      "en": "Tomato",
+      "hi": "टमाटर",
+      "te": "టమోటా"
+    },
+    "disease_name": {
+      "en": "Tomato mosaic virus",
+      "hi": "Tomato mosaic virus",
+      "te": "Tomato mosaic virus"
+    },
+    "pathogen_type": "viral",
+    "scientific_name": "Plant Pathogenic Virus",
+    "is_healthy": false,
+    "summary": {
+      "en": "Disease lesions identified on Tomato leaf consistent with Tomato mosaic virus. Affects leaf vigor and photosynthetic efficiency.",
+      "hi": "टमाटर की पत्ती पर Tomato mosaic virus के लक्षण पाए गए हैं। इससे पत्ती की प्रकाश संश्लेषण क्षमता और पौधे का स्वास्थ्य प्रभावित होता है।",
+      "te": "టమోటా ఆకుపై Tomato mosaic virus తెగులు లక్షణాలు గుర్తించబడ్డాయి. ఇది ఆకుల పచ్చదనాన్ని మరియు పంట దిగుబడిని తగ్గిస్తుంది."
+    },
+    "symptoms": {
+      "en": [
+        "Visible spots or discoloration typical of Tomato mosaic virus on foliage",
+        "Gradual chlorosis spreading outward from infection centers",
+        "Reduced plant vigor if left unchecked"
+      ],
+      "hi": [
+        "पत्तियों पर Tomato mosaic virus के विशिष्ट धब्बे या विकृति",
+        "संक्रमित भाग के आसपास पीलापन फैलना",
+        "समय पर ध्यान न देने पर पौधे की कमजोरी"
+      ],
+      "te": [
+        "ఆకులపై Tomato mosaic virus తెగులు మచ్చలు లేదా మార్పులు",
+        "మచ్చల చుట్టూ పసుపు రంగు వ్యాపించడం",
+        "నివారించకపోతే పంట బలహీనపడటం"
+      ]
+    },
+    "favorable_conditions": {
+      "en": [
+        "High humidity, wet canopy, or dense foliage",
+        "Unfavorable temperature extremes weakening plant defense",
+        "Improper spacing"
+      ],
+      "hi": [
+        "अधिक आर्द्रता, पत्तियों पर पानी का ठहराव या घना फैलाव",
+        "प्रतिकूल तापमान जिससे पौधा कमजोर होता है",
+        "उचित दूरी का अभाव"
+      ],
+      "te": [
+        "అధిక తేమ లేదా ఆకులపై ఎక్కువ సమయం నీరు నిల్వ ఉండటం",
+        "వాతావరణంలో ఆకస్మిక మార్పులు",
+        "మొక్కల మధ్య సరైన దూరం లేకపోవడం"
+      ]
+    },
+    "immediate_actions": {
+      "en": [
+        "Isolate and remove diseased leaves",
+        "Stop overhead irrigation to avoid splashing spores",
+        "Sterilize pruning tools after handling"
+      ],
+      "hi": [
+        "संक्रमित पत्तियों को तोड़कर नष्ट करें",
+        "ऊपर से पानी देना बंद करें ताकि रोग न फैले",
+        "उपकरणों को साफ रखें"
+      ],
+      "te": [
+        "తెగులు సోకిన ఆకులను తుంచి నాశనం చేయండి",
+        "పైనుండి నీరు చల్లడం ఆపండి",
+        "పనిముట్లను శుభ్రపరచండి"
+      ]
+    }
+  },
+  "Tomato___healthy": {
+    "id": "Tomato___healthy",
+    "crop": {
+      "en": "Tomato",
+      "hi": "टमाटर",
+      "te": "టమోటా"
+    },
+    "disease_name": {
+      "en": "healthy",
+      "hi": "healthy",
+      "te": "healthy"
+    },
+    "pathogen_type": "none",
+    "scientific_name": "None (Healthy tissue)",
+    "is_healthy": true,
+    "summary": {
+      "en": "The Tomato leaf appears healthy with normal chlorophyll pigmentation, smooth margins, and no obvious disease symptoms.",
+      "hi": "टमाटर की यह पत्ती सामान्य क्लोरोफिल, स्वस्थ बनावट और बिना किसी बीमारी के लक्षणों के पूरी तरह स्वस्थ दिखती है।",
+      "te": "టమోటా ఆకు సాధారణ క్లోరోఫిల్, సహజమైన ఆకృతితో ఎటువంటి వ్యాధి లక్షణాలు లేకుండా ఆరోగ్యంగా ఉంది."
+    },
+    "symptoms": {
+      "en": [
+        "Vibrant green foliage with uniform coloration",
+        "Absence of lesions, spots, yellowing, or deformities",
+        "Intact leaf veins and margins"
+      ],
+      "hi": [
+        "एकसमान हरा रंग और प्राकृतिक चमक",
+        "किसी भी प्रकार के धब्बे, झुलसा या विकृति का अभाव",
+        "स्वस्थ नसें और किनारे"
+      ],
+      "te": [
+        "సహజమైన ఆకుపచ్చ రంగు",
+        "మచ్చలు, పసుపుదనం లేదా ముడతలు లేకపోవడం",
+        "ఆరోగ్యకరమైన ఈనెలు"
+      ]
+    },
+    "favorable_conditions": {
+      "en": [
+        "Good soil drainage and optimal balanced nutrition",
+        "Adequate aeration and sunlight",
+        "Routine preventive scouting"
+      ],
+      "hi": [
+        "उत्तम जल निकासी और संतुलित पोषण",
+        "पर्याप्त धूप और हवा",
+        "नियमित देखभाल"
+      ],
+      "te": [
+        "మంచి నీటి పారుదల మరియు సమతుల్య పోషకాలు",
+        "సరిపడా ఎండ మరియు గాలి",
+        "నిరంతర సంరక్షణ"
+      ]
+    },
+    "immediate_actions": {
+      "en": [
+        "No chemical treatment required",
+        "Maintain balanced irrigation schedule (avoid over-watering)",
+        "Continue routine field monitoring for early pest/disease detection"
+      ],
+      "hi": [
+        "किसी भी रासायनिक दवा की आवश्यकता नहीं है",
+        "उचित सिंचाई जारी रखें (अत्यधिक पानी से बचें)",
+        "नियमित रूप से फसल का निरीक्षण करते रहें"
+      ],
+      "te": [
+        "ఎటువంటి రసాయన మందులు అవసరం లేదు",
+        "సమయానుకూలంగా నీటి తడులు ఇవ్వండి",
+        "తెగుళ్లు రాకుండా ఎప్పటికప్పుడు పంటను పరిశీలిస్తూ ఉండండి"
+      ]
+    }
+  }
+}

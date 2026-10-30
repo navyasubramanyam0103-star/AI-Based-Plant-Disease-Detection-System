@@ -1,0 +1,2870 @@
+{
+  "Apple___Apple_scab": {
+    "disease_id": "Apple___Apple_scab",
+    "cultural_controls": {
+      "en": [
+        "Maintain weed sanitation around borders",
+        "Ensure balanced plant nutrition avoiding excess nitrogen",
+        "Practice field crop rotation"
+      ],
+      "hi": [
+        "खेत की मेड़ों को साफ रखें",
+        "यूरिया का अत्यधिक उपयोग न करें",
+        "फसल चक्र अपनाएं"
+      ],
+      "te": [
+        "పొలంలో కలుపు లేకుండా చూసుకోండి",
+        "యూరియా ఎక్కువ వేయకుండా సమతుల్య ఎరువులు వాడండి",
+        "పంట మార్పిడి చేయండి"
+      ]
+    },
+    "organic_controls": {
+      "en": [
+        "Apply bio-agent (Trichoderma or Bacillus) or 5% Neem Seed Kernel Extract (NSKE) as preventive deterrent"
+      ],
+      "hi": [
+        "ट्राइकोडर्मा या 5% नीम अर्क का छिड़काव करें"
+      ],
+      "te": [
+        "ట్రైకోడెర్మా లేదా 5% వేప గింజల కషాయం పిచికారీ చేయండి"
+      ]
+    },
+    "chemical_controls": {
+      "en": [
+        "Prophylactic protectant: Copper Oxychloride 50% WP @ 3 g/L or Mancozeb 75% WP @ 2.5 g/L",
+        "Ensure compliance with registered agricultural label recommendations and local safety laws."
+      ],
+      "hi": [
+        "निवारक छिड़काव: कॉपर ऑक्सीक्लोराइड @ 3 ग्राम/लीटर या मैंकोजेब @ 2.5 ग्राम/लीटर",
+        "स्थानीय कृषि नियमों और दवा के लेबल निर्देशों का पालन करें।"
+      ],
+      "te": [
+        "రక్షణ కోసం: కాపర్ ఆక్సిక్లోరైడ్ 50% WP @ 3 గ్రా/లీ లేదా మాంకోజెబ్ 75% WP @ 2.5 గ్రా/లీ",
+        "మందుల లేబుల్ సూచనలను మరియు నిబంధనలను ఖచ్చితంగా పాటించండి."
+      ]
+    },
+    "fertilizer_guidance": {
+      "is_fertilizer_cure": false,
+      "explanation": {
+        "en": "IMPORTANT: Fertilizer does NOT cure infections. Avoid heavy nitrogen (Urea) during disease outbreaks as it promotes succulent foliage prone to infection. Maintain potash and balanced micronutrients.",
+        "hi": "महत्वपूर्ण: खाद किसी रोग का इलाज नहीं है। बीमारी के समय अत्यधिक यूरिया न डालें। पोटाश और सूक्ष्म पोषक तत्वों का संतुलित प्रयोग करें।",
+        "te": "ముఖ్య గమనిక: ఎరువులు రోగాన్ని నయం చేయలేవు. తెగులు ఉన్నప్పుడు యూరియా ఎక్కువ వేయకండి. పొటాష్ మరియు సూక్ష్మ పోషకాలు అందించండి."
+      }
+    },
+    "safety_precautions": {
+      "en": [
+        "Wear face mask, gloves, and protective gear when applying chemicals",
+        "Do not spray against the wind or near water bodies",
+        "Keep children and livestock away"
+      ],
+      "hi": [
+        "दवा छिड़कते समय मास्क और दस्ताने पहनें",
+        "हवा के विपरीत दिशा में या जल स्रोतों के पास छिड़काव न करें",
+        "बच्चों और मवेशियों को दूर रखें"
+      ],
+      "te": [
+        "మందులు పిచికారీ చేసేటప్పుడు మాస్క్, గ్లౌజులు ధరించండి",
+        "గాలికి ఎదురుగా లేదా నీటి వనరుల దగ్గర పిచికారీ చేయవద్దు",
+        "పిల్లలు, పశువులను దూరంగా ఉంచండి"
+      ]
+    },
+    "expert_consultation": {
+      "en": "Consult your local Krishi Vigyan Kendra (KVK) or Block Agriculture Extension Officer for exact chemical schedules permitted in your region.",
+      "hi": "अपने क्षेत्र में अनुशंसित दवाओं के लिए स्थानीय कृषि विज्ञान केंद्र (KVK) या कृषि अधिकारी से संपर्क करें।",
+      "te": "ఖచ్చితమైన మందుల సిఫార్సుల కోసం సమీప కృషి విజ్ఞాన కేంద్రం (KVK) లేదా వ్యవసాయ శాఖ అధికారిని సంప్రదించండి."
+    }
+  },
+  "Apple___Black_rot": {
+    "disease_id": "Apple___Black_rot",
+    "cultural_controls": {
+      "en": [
+        "Maintain weed sanitation around borders",
+        "Ensure balanced plant nutrition avoiding excess nitrogen",
+        "Practice field crop rotation"
+      ],
+      "hi": [
+        "खेत की मेड़ों को साफ रखें",
+        "यूरिया का अत्यधिक उपयोग न करें",
+        "फसल चक्र अपनाएं"
+      ],
+      "te": [
+        "పొలంలో కలుపు లేకుండా చూసుకోండి",
+        "యూరియా ఎక్కువ వేయకుండా సమతుల్య ఎరువులు వాడండి",
+        "పంట మార్పిడి చేయండి"
+      ]
+    },
+    "organic_controls": {
+      "en": [
+        "Apply bio-agent (Trichoderma or Bacillus) or 5% Neem Seed Kernel Extract (NSKE) as preventive deterrent"
+      ],
+      "hi": [
+        "ट्राइकोडर्मा या 5% नीम अर्क का छिड़काव करें"
+      ],
+      "te": [
+        "ట్రైకోడెర్మా లేదా 5% వేప గింజల కషాయం పిచికారీ చేయండి"
+      ]
+    },
+    "chemical_controls": {
+      "en": [
+        "Prophylactic protectant: Copper Oxychloride 50% WP @ 3 g/L or Mancozeb 75% WP @ 2.5 g/L",
+        "Ensure compliance with registered agricultural label recommendations and local safety laws."
+      ],
+      "hi": [
+        "निवारक छिड़काव: कॉपर ऑक्सीक्लोराइड @ 3 ग्राम/लीटर या मैंकोजेब @ 2.5 ग्राम/लीटर",
+        "स्थानीय कृषि नियमों और दवा के लेबल निर्देशों का पालन करें।"
+      ],
+      "te": [
+        "రక్షణ కోసం: కాపర్ ఆక్సిక్లోరైడ్ 50% WP @ 3 గ్రా/లీ లేదా మాంకోజెబ్ 75% WP @ 2.5 గ్రా/లీ",
+        "మందుల లేబుల్ సూచనలను మరియు నిబంధనలను ఖచ్చితంగా పాటించండి."
+      ]
+    },
+    "fertilizer_guidance": {
+      "is_fertilizer_cure": false,
+      "explanation": {
+        "en": "IMPORTANT: Fertilizer does NOT cure infections. Avoid heavy nitrogen (Urea) during disease outbreaks as it promotes succulent foliage prone to infection. Maintain potash and balanced micronutrients.",
+        "hi": "महत्वपूर्ण: खाद किसी रोग का इलाज नहीं है। बीमारी के समय अत्यधिक यूरिया न डालें। पोटाश और सूक्ष्म पोषक तत्वों का संतुलित प्रयोग करें।",
+        "te": "ముఖ్య గమనిక: ఎరువులు రోగాన్ని నయం చేయలేవు. తెగులు ఉన్నప్పుడు యూరియా ఎక్కువ వేయకండి. పొటాష్ మరియు సూక్ష్మ పోషకాలు అందించండి."
+      }
+    },
+    "safety_precautions": {
+      "en": [
+        "Wear face mask, gloves, and protective gear when applying chemicals",
+        "Do not spray against the wind or near water bodies",
+        "Keep children and livestock away"
+      ],
+      "hi": [
+        "दवा छिड़कते समय मास्क और दस्ताने पहनें",
+        "हवा के विपरीत दिशा में या जल स्रोतों के पास छिड़काव न करें",
+        "बच्चों और मवेशियों को दूर रखें"
+      ],
+      "te": [
+        "మందులు పిచికారీ చేసేటప్పుడు మాస్క్, గ్లౌజులు ధరించండి",
+        "గాలికి ఎదురుగా లేదా నీటి వనరుల దగ్గర పిచికారీ చేయవద్దు",
+        "పిల్లలు, పశువులను దూరంగా ఉంచండి"
+      ]
+    },
+    "expert_consultation": {
+      "en": "Consult your local Krishi Vigyan Kendra (KVK) or Block Agriculture Extension Officer for exact chemical schedules permitted in your region.",
+      "hi": "अपने क्षेत्र में अनुशंसित दवाओं के लिए स्थानीय कृषि विज्ञान केंद्र (KVK) या कृषि अधिकारी से संपर्क करें।",
+      "te": "ఖచ్చితమైన మందుల సిఫార్సుల కోసం సమీప కృషి విజ్ఞాన కేంద్రం (KVK) లేదా వ్యవసాయ శాఖ అధికారిని సంప్రదించండి."
+    }
+  },
+  "Apple___Cedar_apple_rust": {
+    "disease_id": "Apple___Cedar_apple_rust",
+    "cultural_controls": {
+      "en": [
+        "Maintain weed sanitation around borders",
+        "Ensure balanced plant nutrition avoiding excess nitrogen",
+        "Practice field crop rotation"
+      ],
+      "hi": [
+        "खेत की मेड़ों को साफ रखें",
+        "यूरिया का अत्यधिक उपयोग न करें",
+        "फसल चक्र अपनाएं"
+      ],
+      "te": [
+        "పొలంలో కలుపు లేకుండా చూసుకోండి",
+        "యూరియా ఎక్కువ వేయకుండా సమతుల్య ఎరువులు వాడండి",
+        "పంట మార్పిడి చేయండి"
+      ]
+    },
+    "organic_controls": {
+      "en": [
+        "Apply bio-agent (Trichoderma or Bacillus) or 5% Neem Seed Kernel Extract (NSKE) as preventive deterrent"
+      ],
+      "hi": [
+        "ट्राइकोडर्मा या 5% नीम अर्क का छिड़काव करें"
+      ],
+      "te": [
+        "ట్రైకోడెర్మా లేదా 5% వేప గింజల కషాయం పిచికారీ చేయండి"
+      ]
+    },
+    "chemical_controls": {
+      "en": [
+        "Prophylactic protectant: Copper Oxychloride 50% WP @ 3 g/L or Mancozeb 75% WP @ 2.5 g/L",
+        "Ensure compliance with registered agricultural label recommendations and local safety laws."
+      ],
+      "hi": [
+        "निवारक छिड़काव: कॉपर ऑक्सीक्लोराइड @ 3 ग्राम/लीटर या मैंकोजेब @ 2.5 ग्राम/लीटर",
+        "स्थानीय कृषि नियमों और दवा के लेबल निर्देशों का पालन करें।"
+      ],
+      "te": [
+        "రక్షణ కోసం: కాపర్ ఆక్సిక్లోరైడ్ 50% WP @ 3 గ్రా/లీ లేదా మాంకోజెబ్ 75% WP @ 2.5 గ్రా/లీ",
+        "మందుల లేబుల్ సూచనలను మరియు నిబంధనలను ఖచ్చితంగా పాటించండి."
+      ]
+    },
+    "fertilizer_guidance": {
+      "is_fertilizer_cure": false,
+      "explanation": {
+        "en": "IMPORTANT: Fertilizer does NOT cure infections. Avoid heavy nitrogen (Urea) during disease outbreaks as it promotes succulent foliage prone to infection. Maintain potash and balanced micronutrients.",
+        "hi": "महत्वपूर्ण: खाद किसी रोग का इलाज नहीं है। बीमारी के समय अत्यधिक यूरिया न डालें। पोटाश और सूक्ष्म पोषक तत्वों का संतुलित प्रयोग करें।",
+        "te": "ముఖ్య గమనిక: ఎరువులు రోగాన్ని నయం చేయలేవు. తెగులు ఉన్నప్పుడు యూరియా ఎక్కువ వేయకండి. పొటాష్ మరియు సూక్ష్మ పోషకాలు అందించండి."
+      }
+    },
+    "safety_precautions": {
+      "en": [
+        "Wear face mask, gloves, and protective gear when applying chemicals",
+        "Do not spray against the wind or near water bodies",
+        "Keep children and livestock away"
+      ],
+      "hi": [
+        "दवा छिड़कते समय मास्क और दस्ताने पहनें",
+        "हवा के विपरीत दिशा में या जल स्रोतों के पास छिड़काव न करें",
+        "बच्चों और मवेशियों को दूर रखें"
+      ],
+      "te": [
+        "మందులు పిచికారీ చేసేటప్పుడు మాస్క్, గ్లౌజులు ధరించండి",
+        "గాలికి ఎదురుగా లేదా నీటి వనరుల దగ్గర పిచికారీ చేయవద్దు",
+        "పిల్లలు, పశువులను దూరంగా ఉంచండి"
+      ]
+    },
+    "expert_consultation": {
+      "en": "Consult your local Krishi Vigyan Kendra (KVK) or Block Agriculture Extension Officer for exact chemical schedules permitted in your region.",
+      "hi": "अपने क्षेत्र में अनुशंसित दवाओं के लिए स्थानीय कृषि विज्ञान केंद्र (KVK) या कृषि अधिकारी से संपर्क करें।",
+      "te": "ఖచ్చితమైన మందుల సిఫార్సుల కోసం సమీప కృషి విజ్ఞాన కేంద్రం (KVK) లేదా వ్యవసాయ శాఖ అధికారిని సంప్రదించండి."
+    }
+  },
+  "Apple___healthy": {
+    "disease_id": "Apple___healthy",
+    "cultural_controls": {
+      "en": [
+        "Maintain recommended weed sanitation and plant spacing",
+        "Ensure balanced NPK soil application based on soil testing",
+        "Mulch around roots to conserve soil moisture"
+      ],
+      "hi": [
+        "खेत को खरपतवार मुक्त रखें और पौधों में उचित दूरी बनाएं रखें",
+        "मिट्टी परीक्षण के अनुसार संतुलित खाद डालें",
+        "नमी बनाए रखने के लिए मल्चिंग करें"
+      ],
+      "te": [
+        "కలుపు లేకుండా పొలాన్ని శుభ్రంగా ఉంచండి",
+        "భూసార పరీక్ష ఆధారంగా ఎరువులు వేయండి",
+        "తేమ సంరక్షణకు మల్చింగ్ చేయండి"
+      ]
+    },
+    "organic_controls": {
+      "en": [
+        "Routine prophylactic neem oil spray (3000 ppm @ 2 ml/L) to deter sucking pests",
+        "Periodic soil application of well-decomposed FYM and bio-fertilizers (Azotobacter/PSB)"
+      ],
+      "hi": [
+        "कीटों से बचाव के लिए नीम तेल (2 मिली/लीटर) का निवारक छिड़काव",
+        "सड़ी गोबर की खाद और जैव-उर्वरकों का प्रयोग"
+      ],
+      "te": [
+        "పురుగులు రాకుండా వేప నూనె (2 మి.లీ/లీ) పిచికారీ చేయండి",
+        "బాగా చివికిన పశువుల ఎరువు మరియు జీవన ఎరువులు వేయండి"
+      ]
+    },
+    "chemical_controls": {
+      "en": [
+        "NO CHEMICAL SPRAY IS RECOMMENDED FOR HEALTHY LEAVES. Unnecessary spraying wastes money and damages beneficial pollinator insects."
+      ],
+      "hi": [
+        "स्वस्थ फसल पर किसी रासायनिक कीटनाशक के छिड़काव की आवश्यकता नहीं है। अनावश्यक दवा से मित्र कीट मरते हैं।"
+      ],
+      "te": [
+        "ఆరోగ్యంగా ఉన్న పంటపై ఎటువంటి పురుగుమందులు కొట్టవద్దు. అనవసర పిచికారీ వల్ల డబ్బు వృధా అవ్వడమే కాక మేలు చేసే కీటకాలు చనిపోతాయి."
+      ]
+    },
+    "fertilizer_guidance": {
+      "is_fertilizer_cure": true,
+      "explanation": {
+        "en": "Apply standard recommended split doses of NPK as per your state agriculture package of practices. Avoid over-applying urea.",
+        "hi": "कृषि विभाग की अनुशंसा के अनुसार संतुलित खाद डालें। अत्यधिक यूरिया से बचें।",
+        "te": "వ్యవసాయ శాఖ సిఫార్సుల మేరకు తగిన మోతాదులో సమతుల్య ఎరువులు వేయండి. యూరియా ఎక్కువ వేయవద్దు."
+      }
+    },
+    "safety_precautions": {
+      "en": [
+        "Store all farm inputs securely away from livestock and drinking water",
+        "Wash vegetables and fruits with clean water before consumption"
+      ],
+      "hi": [
+        "कृषि रसायनों को बच्चों और मवेशियों से दूर रखें",
+        "फलों-सब्जियों को खाने से पहले साफ पानी से धोएं"
+      ],
+      "te": [
+        "వ్యవసాయ ఉత్పత్తులను పిల్లలు, పశువులకు దూరంగా ఉంచండి",
+        "కూరగాయలను వాడే ముందు శుభ్రమైన నీటితో కడగండి"
+      ]
+    },
+    "expert_consultation": {
+      "en": "Keep in regular contact with your nearest Krishi Vigyan Kendra (KVK) or local Agricultural Extension Officer for seasonal advisories.",
+      "hi": "मौसमी सलाह के लिए अपने स्थानीय कृषि विज्ञान केंद्र (KVK) से संपर्क बनाए रखें।",
+      "te": "సమయానుకూల సలహాల కోసం మీ సమీప కృషి విజ్ఞాన కేంద్రం (KVK) అధికారులను సంప్రదిస్తూ ఉండండి."
+    }
+  },
+  "Blueberry___healthy": {
+    "disease_id": "Blueberry___healthy",
+    "cultural_controls": {
+      "en": [
+        "Maintain recommended weed sanitation and plant spacing",
+        "Ensure balanced NPK soil application based on soil testing",
+        "Mulch around roots to conserve soil moisture"
+      ],
+      "hi": [
+        "खेत को खरपतवार मुक्त रखें और पौधों में उचित दूरी बनाएं रखें",
+        "मिट्टी परीक्षण के अनुसार संतुलित खाद डालें",
+        "नमी बनाए रखने के लिए मल्चिंग करें"
+      ],
+      "te": [
+        "కలుపు లేకుండా పొలాన్ని శుభ్రంగా ఉంచండి",
+        "భూసార పరీక్ష ఆధారంగా ఎరువులు వేయండి",
+        "తేమ సంరక్షణకు మల్చింగ్ చేయండి"
+      ]
+    },
+    "organic_controls": {
+      "en": [
+        "Routine prophylactic neem oil spray (3000 ppm @ 2 ml/L) to deter sucking pests",
+        "Periodic soil application of well-decomposed FYM and bio-fertilizers (Azotobacter/PSB)"
+      ],
+      "hi": [
+        "कीटों से बचाव के लिए नीम तेल (2 मिली/लीटर) का निवारक छिड़काव",
+        "सड़ी गोबर की खाद और जैव-उर्वरकों का प्रयोग"
+      ],
+      "te": [
+        "పురుగులు రాకుండా వేప నూనె (2 మి.లీ/లీ) పిచికారీ చేయండి",
+        "బాగా చివికిన పశువుల ఎరువు మరియు జీవన ఎరువులు వేయండి"
+      ]
+    },
+    "chemical_controls": {
+      "en": [
+        "NO CHEMICAL SPRAY IS RECOMMENDED FOR HEALTHY LEAVES. Unnecessary spraying wastes money and damages beneficial pollinator insects."
+      ],
+      "hi": [
+        "स्वस्थ फसल पर किसी रासायनिक कीटनाशक के छिड़काव की आवश्यकता नहीं है। अनावश्यक दवा से मित्र कीट मरते हैं।"
+      ],
+      "te": [
+        "ఆరోగ్యంగా ఉన్న పంటపై ఎటువంటి పురుగుమందులు కొట్టవద్దు. అనవసర పిచికారీ వల్ల డబ్బు వృధా అవ్వడమే కాక మేలు చేసే కీటకాలు చనిపోతాయి."
+      ]
+    },
+    "fertilizer_guidance": {
+      "is_fertilizer_cure": true,
+      "explanation": {
+        "en": "Apply standard recommended split doses of NPK as per your state agriculture package of practices. Avoid over-applying urea.",
+        "hi": "कृषि विभाग की अनुशंसा के अनुसार संतुलित खाद डालें। अत्यधिक यूरिया से बचें।",
+        "te": "వ్యవసాయ శాఖ సిఫార్సుల మేరకు తగిన మోతాదులో సమతుల్య ఎరువులు వేయండి. యూరియా ఎక్కువ వేయవద్దు."
+      }
+    },
+    "safety_precautions": {
+      "en": [
+        "Store all farm inputs securely away from livestock and drinking water",
+        "Wash vegetables and fruits with clean water before consumption"
+      ],
+      "hi": [
+        "कृषि रसायनों को बच्चों और मवेशियों से दूर रखें",
+        "फलों-सब्जियों को खाने से पहले साफ पानी से धोएं"
+      ],
+      "te": [
+        "వ్యవసాయ ఉత్పత్తులను పిల్లలు, పశువులకు దూరంగా ఉంచండి",
+        "కూరగాయలను వాడే ముందు శుభ్రమైన నీటితో కడగండి"
+      ]
+    },
+    "expert_consultation": {
+      "en": "Keep in regular contact with your nearest Krishi Vigyan Kendra (KVK) or local Agricultural Extension Officer for seasonal advisories.",
+      "hi": "मौसमी सलाह के लिए अपने स्थानीय कृषि विज्ञान केंद्र (KVK) से संपर्क बनाए रखें।",
+      "te": "సమయానుకూల సలహాల కోసం మీ సమీప కృషి విజ్ఞాన కేంద్రం (KVK) అధికారులను సంప్రదిస్తూ ఉండండి."
+    }
+  },
+  "Cherry_(including_sour)___Powdery_mildew": {
+    "disease_id": "Cherry_(including_sour)___Powdery_mildew",
+    "cultural_controls": {
+      "en": [
+        "Maintain weed sanitation around borders",
+        "Ensure balanced plant nutrition avoiding excess nitrogen",
+        "Practice field crop rotation"
+      ],
+      "hi": [
+        "खेत की मेड़ों को साफ रखें",
+        "यूरिया का अत्यधिक उपयोग न करें",
+        "फसल चक्र अपनाएं"
+      ],
+      "te": [
+        "పొలంలో కలుపు లేకుండా చూసుకోండి",
+        "యూరియా ఎక్కువ వేయకుండా సమతుల్య ఎరువులు వాడండి",
+        "పంట మార్పిడి చేయండి"
+      ]
+    },
+    "organic_controls": {
+      "en": [
+        "Apply bio-agent (Trichoderma or Bacillus) or 5% Neem Seed Kernel Extract (NSKE) as preventive deterrent"
+      ],
+      "hi": [
+        "ट्राइकोडर्मा या 5% नीम अर्क का छिड़काव करें"
+      ],
+      "te": [
+        "ట్రైకోడెర్మా లేదా 5% వేప గింజల కషాయం పిచికారీ చేయండి"
+      ]
+    },
+    "chemical_controls": {
+      "en": [
+        "Prophylactic protectant: Copper Oxychloride 50% WP @ 3 g/L or Mancozeb 75% WP @ 2.5 g/L",
+        "Ensure compliance with registered agricultural label recommendations and local safety laws."
+      ],
+      "hi": [
+        "निवारक छिड़काव: कॉपर ऑक्सीक्लोराइड @ 3 ग्राम/लीटर या मैंकोजेब @ 2.5 ग्राम/लीटर",
+        "स्थानीय कृषि नियमों और दवा के लेबल निर्देशों का पालन करें।"
+      ],
+      "te": [
+        "రక్షణ కోసం: కాపర్ ఆక్సిక్లోరైడ్ 50% WP @ 3 గ్రా/లీ లేదా మాంకోజెబ్ 75% WP @ 2.5 గ్రా/లీ",
+        "మందుల లేబుల్ సూచనలను మరియు నిబంధనలను ఖచ్చితంగా పాటించండి."
+      ]
+    },
+    "fertilizer_guidance": {
+      "is_fertilizer_cure": false,
+      "explanation": {
+        "en": "IMPORTANT: Fertilizer does NOT cure infections. Avoid heavy nitrogen (Urea) during disease outbreaks as it promotes succulent foliage prone to infection. Maintain potash and balanced micronutrients.",
+        "hi": "महत्वपूर्ण: खाद किसी रोग का इलाज नहीं है। बीमारी के समय अत्यधिक यूरिया न डालें। पोटाश और सूक्ष्म पोषक तत्वों का संतुलित प्रयोग करें।",
+        "te": "ముఖ్య గమనిక: ఎరువులు రోగాన్ని నయం చేయలేవు. తెగులు ఉన్నప్పుడు యూరియా ఎక్కువ వేయకండి. పొటాష్ మరియు సూక్ష్మ పోషకాలు అందించండి."
+      }
+    },
+    "safety_precautions": {
+      "en": [
+        "Wear face mask, gloves, and protective gear when applying chemicals",
+        "Do not spray against the wind or near water bodies",
+        "Keep children and livestock away"
+      ],
+      "hi": [
+        "दवा छिड़कते समय मास्क और दस्ताने पहनें",
+        "हवा के विपरीत दिशा में या जल स्रोतों के पास छिड़काव न करें",
+        "बच्चों और मवेशियों को दूर रखें"
+      ],
+      "te": [
+        "మందులు పిచికారీ చేసేటప్పుడు మాస్క్, గ్లౌజులు ధరించండి",
+        "గాలికి ఎదురుగా లేదా నీటి వనరుల దగ్గర పిచికారీ చేయవద్దు",
+        "పిల్లలు, పశువులను దూరంగా ఉంచండి"
+      ]
+    },
+    "expert_consultation": {
+      "en": "Consult your local Krishi Vigyan Kendra (KVK) or Block Agriculture Extension Officer for exact chemical schedules permitted in your region.",
+      "hi": "अपने क्षेत्र में अनुशंसित दवाओं के लिए स्थानीय कृषि विज्ञान केंद्र (KVK) या कृषि अधिकारी से संपर्क करें।",
+      "te": "ఖచ్చితమైన మందుల సిఫార్సుల కోసం సమీప కృషి విజ్ఞాన కేంద్రం (KVK) లేదా వ్యవసాయ శాఖ అధికారిని సంప్రదించండి."
+    }
+  },
+  "Cherry_(including_sour)___healthy": {
+    "disease_id": "Cherry_(including_sour)___healthy",
+    "cultural_controls": {
+      "en": [
+        "Maintain recommended weed sanitation and plant spacing",
+        "Ensure balanced NPK soil application based on soil testing",
+        "Mulch around roots to conserve soil moisture"
+      ],
+      "hi": [
+        "खेत को खरपतवार मुक्त रखें और पौधों में उचित दूरी बनाएं रखें",
+        "मिट्टी परीक्षण के अनुसार संतुलित खाद डालें",
+        "नमी बनाए रखने के लिए मल्चिंग करें"
+      ],
+      "te": [
+        "కలుపు లేకుండా పొలాన్ని శుభ్రంగా ఉంచండి",
+        "భూసార పరీక్ష ఆధారంగా ఎరువులు వేయండి",
+        "తేమ సంరక్షణకు మల్చింగ్ చేయండి"
+      ]
+    },
+    "organic_controls": {
+      "en": [
+        "Routine prophylactic neem oil spray (3000 ppm @ 2 ml/L) to deter sucking pests",
+        "Periodic soil application of well-decomposed FYM and bio-fertilizers (Azotobacter/PSB)"
+      ],
+      "hi": [
+        "कीटों से बचाव के लिए नीम तेल (2 मिली/लीटर) का निवारक छिड़काव",
+        "सड़ी गोबर की खाद और जैव-उर्वरकों का प्रयोग"
+      ],
+      "te": [
+        "పురుగులు రాకుండా వేప నూనె (2 మి.లీ/లీ) పిచికారీ చేయండి",
+        "బాగా చివికిన పశువుల ఎరువు మరియు జీవన ఎరువులు వేయండి"
+      ]
+    },
+    "chemical_controls": {
+      "en": [
+        "NO CHEMICAL SPRAY IS RECOMMENDED FOR HEALTHY LEAVES. Unnecessary spraying wastes money and damages beneficial pollinator insects."
+      ],
+      "hi": [
+        "स्वस्थ फसल पर किसी रासायनिक कीटनाशक के छिड़काव की आवश्यकता नहीं है। अनावश्यक दवा से मित्र कीट मरते हैं।"
+      ],
+      "te": [
+        "ఆరోగ్యంగా ఉన్న పంటపై ఎటువంటి పురుగుమందులు కొట్టవద్దు. అనవసర పిచికారీ వల్ల డబ్బు వృధా అవ్వడమే కాక మేలు చేసే కీటకాలు చనిపోతాయి."
+      ]
+    },
+    "fertilizer_guidance": {
+      "is_fertilizer_cure": true,
+      "explanation": {
+        "en": "Apply standard recommended split doses of NPK as per your state agriculture package of practices. Avoid over-applying urea.",
+        "hi": "कृषि विभाग की अनुशंसा के अनुसार संतुलित खाद डालें। अत्यधिक यूरिया से बचें।",
+        "te": "వ్యవసాయ శాఖ సిఫార్సుల మేరకు తగిన మోతాదులో సమతుల్య ఎరువులు వేయండి. యూరియా ఎక్కువ వేయవద్దు."
+      }
+    },
+    "safety_precautions": {
+      "en": [
+        "Store all farm inputs securely away from livestock and drinking water",
+        "Wash vegetables and fruits with clean water before consumption"
+      ],
+      "hi": [
+        "कृषि रसायनों को बच्चों और मवेशियों से दूर रखें",
+        "फलों-सब्जियों को खाने से पहले साफ पानी से धोएं"
+      ],
+      "te": [
+        "వ్యవసాయ ఉత్పత్తులను పిల్లలు, పశువులకు దూరంగా ఉంచండి",
+        "కూరగాయలను వాడే ముందు శుభ్రమైన నీటితో కడగండి"
+      ]
+    },
+    "expert_consultation": {
+      "en": "Keep in regular contact with your nearest Krishi Vigyan Kendra (KVK) or local Agricultural Extension Officer for seasonal advisories.",
+      "hi": "मौसमी सलाह के लिए अपने स्थानीय कृषि विज्ञान केंद्र (KVK) से संपर्क बनाए रखें।",
+      "te": "సమయానుకూల సలహాల కోసం మీ సమీప కృషి విజ్ఞాన కేంద్రం (KVK) అధికారులను సంప్రదిస్తూ ఉండండి."
+    }
+  },
+  "Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot": {
+    "disease_id": "Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot",
+    "cultural_controls": {
+      "en": [
+        "Maintain weed sanitation around borders",
+        "Ensure balanced plant nutrition avoiding excess nitrogen",
+        "Practice field crop rotation"
+      ],
+      "hi": [
+        "खेत की मेड़ों को साफ रखें",
+        "यूरिया का अत्यधिक उपयोग न करें",
+        "फसल चक्र अपनाएं"
+      ],
+      "te": [
+        "పొలంలో కలుపు లేకుండా చూసుకోండి",
+        "యూరియా ఎక్కువ వేయకుండా సమతుల్య ఎరువులు వాడండి",
+        "పంట మార్పిడి చేయండి"
+      ]
+    },
+    "organic_controls": {
+      "en": [
+        "Apply bio-agent (Trichoderma or Bacillus) or 5% Neem Seed Kernel Extract (NSKE) as preventive deterrent"
+      ],
+      "hi": [
+        "ट्राइकोडर्मा या 5% नीम अर्क का छिड़काव करें"
+      ],
+      "te": [
+        "ట్రైకోడెర్మా లేదా 5% వేప గింజల కషాయం పిచికారీ చేయండి"
+      ]
+    },
+    "chemical_controls": {
+      "en": [
+        "Prophylactic protectant: Copper Oxychloride 50% WP @ 3 g/L or Mancozeb 75% WP @ 2.5 g/L",
+        "Ensure compliance with registered agricultural label recommendations and local safety laws."
+      ],
+      "hi": [
+        "निवारक छिड़काव: कॉपर ऑक्सीक्लोराइड @ 3 ग्राम/लीटर या मैंकोजेब @ 2.5 ग्राम/लीटर",
+        "स्थानीय कृषि नियमों और दवा के लेबल निर्देशों का पालन करें।"
+      ],
+      "te": [
+        "రక్షణ కోసం: కాపర్ ఆక్సిక్లోరైడ్ 50% WP @ 3 గ్రా/లీ లేదా మాంకోజెబ్ 75% WP @ 2.5 గ్రా/లీ",
+        "మందుల లేబుల్ సూచనలను మరియు నిబంధనలను ఖచ్చితంగా పాటించండి."
+      ]
+    },
+    "fertilizer_guidance": {
+      "is_fertilizer_cure": false,
+      "explanation": {
+        "en": "IMPORTANT: Fertilizer does NOT cure infections. Avoid heavy nitrogen (Urea) during disease outbreaks as it promotes succulent foliage prone to infection. Maintain potash and balanced micronutrients.",
+        "hi": "महत्वपूर्ण: खाद किसी रोग का इलाज नहीं है। बीमारी के समय अत्यधिक यूरिया न डालें। पोटाश और सूक्ष्म पोषक तत्वों का संतुलित प्रयोग करें।",
+        "te": "ముఖ్య గమనిక: ఎరువులు రోగాన్ని నయం చేయలేవు. తెగులు ఉన్నప్పుడు యూరియా ఎక్కువ వేయకండి. పొటాష్ మరియు సూక్ష్మ పోషకాలు అందించండి."
+      }
+    },
+    "safety_precautions": {
+      "en": [
+        "Wear face mask, gloves, and protective gear when applying chemicals",
+        "Do not spray against the wind or near water bodies",
+        "Keep children and livestock away"
+      ],
+      "hi": [
+        "दवा छिड़कते समय मास्क और दस्ताने पहनें",
+        "हवा के विपरीत दिशा में या जल स्रोतों के पास छिड़काव न करें",
+        "बच्चों और मवेशियों को दूर रखें"
+      ],
+      "te": [
+        "మందులు పిచికారీ చేసేటప్పుడు మాస్క్, గ్లౌజులు ధరించండి",
+        "గాలికి ఎదురుగా లేదా నీటి వనరుల దగ్గర పిచికారీ చేయవద్దు",
+        "పిల్లలు, పశువులను దూరంగా ఉంచండి"
+      ]
+    },
+    "expert_consultation": {
+      "en": "Consult your local Krishi Vigyan Kendra (KVK) or Block Agriculture Extension Officer for exact chemical schedules permitted in your region.",
+      "hi": "अपने क्षेत्र में अनुशंसित दवाओं के लिए स्थानीय कृषि विज्ञान केंद्र (KVK) या कृषि अधिकारी से संपर्क करें।",
+      "te": "ఖచ్చితమైన మందుల సిఫార్సుల కోసం సమీప కృషి విజ్ఞాన కేంద్రం (KVK) లేదా వ్యవసాయ శాఖ అధికారిని సంప్రదించండి."
+    }
+  },
+  "Corn_(maize)___Common_rust_": {
+    "disease_id": "Corn_(maize)___Common_rust_",
+    "cultural_controls": {
+      "en": [
+        "Plant rust-resistant certified hybrid maize varieties",
+        "Early planting to escape late-season spore influx",
+        "Destroy volunteer corn and alternate host Oxalis weeds"
+      ],
+      "hi": [
+        "रतुआ-प्रतिरोधी संकर किस्में लगाएं",
+        "समय पर बुवाई करें ताकि बीमारी से बचा जा सके",
+        "खेत के पास उगने वाले खरपतवार नष्ट करें"
+      ],
+      "te": [
+        "తుప్పు తెగులును తట్టుకునే హైబ్రిడ్ విత్తనాలను ఎంచుకోండి",
+        "సకాలంలో విత్తుకోండి",
+        "పొలం గట్లపై ఉండే కలుపు మొక్కలను తొలగించండి"
+      ]
+    },
+    "organic_controls": {
+      "en": [
+        "Spray wettable sulfur or bio-agents like Bacillus amyloliquefaciens at initial rust pustule sighting"
+      ],
+      "hi": [
+        "शुरुआत में घुलनशील गंधक (वेटेबल सल्फर) का छिड़काव करें"
+      ],
+      "te": [
+        "ప్రారంభ దశలో నీటిలో కరిగే గంధకం (సల్ఫర్) పిచికారీ చేయండి"
+      ]
+    },
+    "chemical_controls": {
+      "en": [
+        "Fungicide spray: Mancozeb 75% WP @ 2.5 g/L OR Azoxystrobin 18.2% + Difenoconazole 11.4% SC @ 1 ml/L",
+        "Spray when 6 pustules per leaf appear prior to tassel emergence."
+      ],
+      "hi": [
+        "छिड़काव: मैंकोजेब 75% WP @ 2.5 ग्राम/ली या एजोक्सीस्ट्रोबिन + डाइफेनोकोनाजोल @ 1 मिली/लीटर",
+        "नरमंजरी (टैसेल) निकलने से पहले छिड़काव अधिक लाभकारी होता है।"
+      ],
+      "te": [
+        "నివారణకు: మాంకోజెబ్ 75% WP @ 2.5 గ్రా/లీ లేదా అజాక్సిస్ట్రోబిన్ + డైఫెనోకోనజోల్ @ 1 మి.లీ/లీటరు",
+        "పూత దశకు ముందే పిచికారీ చేయడం వల్ల మంచి ఫలితం ఉంటుంది."
+      ]
+    },
+    "fertilizer_guidance": {
+      "is_fertilizer_cure": false,
+      "explanation": {
+        "en": "REALITY CHECK: Fertilizer does not eliminate rust fungi. Balanced potash enhances stalk strength and leaf toughness, reducing fungal spore penetration.",
+        "hi": "हकीकत: खाद रतुआ फफूंद को खत्म नहीं करती। पोटाश का उचित प्रयोग तने और पत्तियों को मजबूत बनाता है।",
+        "te": "నిజానిజాలు: ఎరువులు తుప్పు తెగులును నయం చేయవు. పొటాష్ ఎరువు వేయడం వల్ల ఆకులు దృఢంగా మారి తెగులును తట్టుకుంటాయి."
+      }
+    },
+    "safety_precautions": {
+      "en": [
+        "Wear face mask and goggles during spraying tall maize canopies",
+        "Do not graze livestock in sprayed maize plots for at least 2 weeks"
+      ],
+      "hi": [
+        "लंबे मक्के के पौधों में छिड़काव करते समय पूरा सुरक्षा गियर पहनें",
+        "छिड़काव के 2 सप्ताह तक पशुओं को चारा न खिलाएं"
+      ],
+      "te": [
+        "ఎత్తైన మొక్కజొన్నలో పిచికారీ చేసేటప్పుడు రక్షణ కళ్లద్దాలు, మాస్క్ ధరించండి",
+        "మందు కొట్టిన తర్వాత 2 వారాల వరకు పశువుల మేతగా వాడవద్దు"
+      ]
+    },
+    "expert_consultation": {
+      "en": "Consult your local Agricultural University extension center or KVK for hybrid resistance ratings.",
+      "hi": "संकर किस्मों की जानकारी के लिए स्थानीय कृषि विज्ञान केंद्र से संपर्क करें।",
+      "te": "హైబ్రిడ్ విత్తనాల వివరాల కోసం వ్యవసాయ శాఖ అధికారులను సంప్రదించండి."
+    }
+  },
+  "Corn_(maize)___Northern_Leaf_Blight": {
+    "disease_id": "Corn_(maize)___Northern_Leaf_Blight",
+    "cultural_controls": {
+      "en": [
+        "Maintain weed sanitation around borders",
+        "Ensure balanced plant nutrition avoiding excess nitrogen",
+        "Practice field crop rotation"
+      ],
+      "hi": [
+        "खेत की मेड़ों को साफ रखें",
+        "यूरिया का अत्यधिक उपयोग न करें",
+        "फसल चक्र अपनाएं"
+      ],
+      "te": [
+        "పొలంలో కలుపు లేకుండా చూసుకోండి",
+        "యూరియా ఎక్కువ వేయకుండా సమతుల్య ఎరువులు వాడండి",
+        "పంట మార్పిడి చేయండి"
+      ]
+    },
+    "organic_controls": {
+      "en": [
+        "Apply bio-agent (Trichoderma or Bacillus) or 5% Neem Seed Kernel Extract (NSKE) as preventive deterrent"
+      ],
+      "hi": [
+        "ट्राइकोडर्मा या 5% नीम अर्क का छिड़काव करें"
+      ],
+      "te": [
+        "ట్రైకోడెర్మా లేదా 5% వేప గింజల కషాయం పిచికారీ చేయండి"
+      ]
+    },
+    "chemical_controls": {
+      "en": [
+        "Prophylactic protectant: Copper Oxychloride 50% WP @ 3 g/L or Mancozeb 75% WP @ 2.5 g/L",
+        "Ensure compliance with registered agricultural label recommendations and local safety laws."
+      ],
+      "hi": [
+        "निवारक छिड़काव: कॉपर ऑक्सीक्लोराइड @ 3 ग्राम/लीटर या मैंकोजेब @ 2.5 ग्राम/लीटर",
+        "स्थानीय कृषि नियमों और दवा के लेबल निर्देशों का पालन करें।"
+      ],
+      "te": [
+        "రక్షణ కోసం: కాపర్ ఆక్సిక్లోరైడ్ 50% WP @ 3 గ్రా/లీ లేదా మాంకోజెబ్ 75% WP @ 2.5 గ్రా/లీ",
+        "మందుల లేబుల్ సూచనలను మరియు నిబంధనలను ఖచ్చితంగా పాటించండి."
+      ]
+    },
+    "fertilizer_guidance": {
+      "is_fertilizer_cure": false,
+      "explanation": {
+        "en": "IMPORTANT: Fertilizer does NOT cure infections. Avoid heavy nitrogen (Urea) during disease outbreaks as it promotes succulent foliage prone to infection. Maintain potash and balanced micronutrients.",
+        "hi": "महत्वपूर्ण: खाद किसी रोग का इलाज नहीं है। बीमारी के समय अत्यधिक यूरिया न डालें। पोटाश और सूक्ष्म पोषक तत्वों का संतुलित प्रयोग करें।",
+        "te": "ముఖ్య గమనిక: ఎరువులు రోగాన్ని నయం చేయలేవు. తెగులు ఉన్నప్పుడు యూరియా ఎక్కువ వేయకండి. పొటాష్ మరియు సూక్ష్మ పోషకాలు అందించండి."
+      }
+    },
+    "safety_precautions": {
+      "en": [
+        "Wear face mask, gloves, and protective gear when applying chemicals",
+        "Do not spray against the wind or near water bodies",
+        "Keep children and livestock away"
+      ],
+      "hi": [
+        "दवा छिड़कते समय मास्क और दस्ताने पहनें",
+        "हवा के विपरीत दिशा में या जल स्रोतों के पास छिड़काव न करें",
+        "बच्चों और मवेशियों को दूर रखें"
+      ],
+      "te": [
+        "మందులు పిచికారీ చేసేటప్పుడు మాస్క్, గ్లౌజులు ధరించండి",
+        "గాలికి ఎదురుగా లేదా నీటి వనరుల దగ్గర పిచికారీ చేయవద్దు",
+        "పిల్లలు, పశువులను దూరంగా ఉంచండి"
+      ]
+    },
+    "expert_consultation": {
+      "en": "Consult your local Krishi Vigyan Kendra (KVK) or Block Agriculture Extension Officer for exact chemical schedules permitted in your region.",
+      "hi": "अपने क्षेत्र में अनुशंसित दवाओं के लिए स्थानीय कृषि विज्ञान केंद्र (KVK) या कृषि अधिकारी से संपर्क करें।",
+      "te": "ఖచ్చితమైన మందుల సిఫార్సుల కోసం సమీప కృషి విజ్ఞాన కేంద్రం (KVK) లేదా వ్యవసాయ శాఖ అధికారిని సంప్రదించండి."
+    }
+  },
+  "Corn_(maize)___healthy": {
+    "disease_id": "Corn_(maize)___healthy",
+    "cultural_controls": {
+      "en": [
+        "Maintain recommended weed sanitation and plant spacing",
+        "Ensure balanced NPK soil application based on soil testing",
+        "Mulch around roots to conserve soil moisture"
+      ],
+      "hi": [
+        "खेत को खरपतवार मुक्त रखें और पौधों में उचित दूरी बनाएं रखें",
+        "मिट्टी परीक्षण के अनुसार संतुलित खाद डालें",
+        "नमी बनाए रखने के लिए मल्चिंग करें"
+      ],
+      "te": [
+        "కలుపు లేకుండా పొలాన్ని శుభ్రంగా ఉంచండి",
+        "భూసార పరీక్ష ఆధారంగా ఎరువులు వేయండి",
+        "తేమ సంరక్షణకు మల్చింగ్ చేయండి"
+      ]
+    },
+    "organic_controls": {
+      "en": [
+        "Routine prophylactic neem oil spray (3000 ppm @ 2 ml/L) to deter sucking pests",
+        "Periodic soil application of well-decomposed FYM and bio-fertilizers (Azotobacter/PSB)"
+      ],
+      "hi": [
+        "कीटों से बचाव के लिए नीम तेल (2 मिली/लीटर) का निवारक छिड़काव",
+        "सड़ी गोबर की खाद और जैव-उर्वरकों का प्रयोग"
+      ],
+      "te": [
+        "పురుగులు రాకుండా వేప నూనె (2 మి.లీ/లీ) పిచికారీ చేయండి",
+        "బాగా చివికిన పశువుల ఎరువు మరియు జీవన ఎరువులు వేయండి"
+      ]
+    },
+    "chemical_controls": {
+      "en": [
+        "NO CHEMICAL SPRAY IS RECOMMENDED FOR HEALTHY LEAVES. Unnecessary spraying wastes money and damages beneficial pollinator insects."
+      ],
+      "hi": [
+        "स्वस्थ फसल पर किसी रासायनिक कीटनाशक के छिड़काव की आवश्यकता नहीं है। अनावश्यक दवा से मित्र कीट मरते हैं।"
+      ],
+      "te": [
+        "ఆరోగ్యంగా ఉన్న పంటపై ఎటువంటి పురుగుమందులు కొట్టవద్దు. అనవసర పిచికారీ వల్ల డబ్బు వృధా అవ్వడమే కాక మేలు చేసే కీటకాలు చనిపోతాయి."
+      ]
+    },
+    "fertilizer_guidance": {
+      "is_fertilizer_cure": true,
+      "explanation": {
+        "en": "Apply standard recommended split doses of NPK as per your state agriculture package of practices. Avoid over-applying urea.",
+        "hi": "कृषि विभाग की अनुशंसा के अनुसार संतुलित खाद डालें। अत्यधिक यूरिया से बचें।",
+        "te": "వ్యవసాయ శాఖ సిఫార్సుల మేరకు తగిన మోతాదులో సమతుల్య ఎరువులు వేయండి. యూరియా ఎక్కువ వేయవద్దు."
+      }
+    },
+    "safety_precautions": {
+      "en": [
+        "Store all farm inputs securely away from livestock and drinking water",
+        "Wash vegetables and fruits with clean water before consumption"
+      ],
+      "hi": [
+        "कृषि रसायनों को बच्चों और मवेशियों से दूर रखें",
+        "फलों-सब्जियों को खाने से पहले साफ पानी से धोएं"
+      ],
+      "te": [
+        "వ్యవసాయ ఉత్పత్తులను పిల్లలు, పశువులకు దూరంగా ఉంచండి",
+        "కూరగాయలను వాడే ముందు శుభ్రమైన నీటితో కడగండి"
+      ]
+    },
+    "expert_consultation": {
+      "en": "Keep in regular contact with your nearest Krishi Vigyan Kendra (KVK) or local Agricultural Extension Officer for seasonal advisories.",
+      "hi": "मौसमी सलाह के लिए अपने स्थानीय कृषि विज्ञान केंद्र (KVK) से संपर्क बनाए रखें।",
+      "te": "సమయానుకూల సలహాల కోసం మీ సమీప కృషి విజ్ఞాన కేంద్రం (KVK) అధికారులను సంప్రదిస్తూ ఉండండి."
+    }
+  },
+  "Grape___Black_rot": {
+    "disease_id": "Grape___Black_rot",
+    "cultural_controls": {
+      "en": [
+        "Maintain weed sanitation around borders",
+        "Ensure balanced plant nutrition avoiding excess nitrogen",
+        "Practice field crop rotation"
+      ],
+      "hi": [
+        "खेत की मेड़ों को साफ रखें",
+        "यूरिया का अत्यधिक उपयोग न करें",
+        "फसल चक्र अपनाएं"
+      ],
+      "te": [
+        "పొలంలో కలుపు లేకుండా చూసుకోండి",
+        "యూరియా ఎక్కువ వేయకుండా సమతుల్య ఎరువులు వాడండి",
+        "పంట మార్పిడి చేయండి"
+      ]
+    },
+    "organic_controls": {
+      "en": [
+        "Apply bio-agent (Trichoderma or Bacillus) or 5% Neem Seed Kernel Extract (NSKE) as preventive deterrent"
+      ],
+      "hi": [
+        "ट्राइकोडर्मा या 5% नीम अर्क का छिड़काव करें"
+      ],
+      "te": [
+        "ట్రైకోడెర్మా లేదా 5% వేప గింజల కషాయం పిచికారీ చేయండి"
+      ]
+    },
+    "chemical_controls": {
+      "en": [
+        "Prophylactic protectant: Copper Oxychloride 50% WP @ 3 g/L or Mancozeb 75% WP @ 2.5 g/L",
+        "Ensure compliance with registered agricultural label recommendations and local safety laws."
+      ],
+      "hi": [
+        "निवारक छिड़काव: कॉपर ऑक्सीक्लोराइड @ 3 ग्राम/लीटर या मैंकोजेब @ 2.5 ग्राम/लीटर",
+        "स्थानीय कृषि नियमों और दवा के लेबल निर्देशों का पालन करें।"
+      ],
+      "te": [
+        "రక్షణ కోసం: కాపర్ ఆక్సిక్లోరైడ్ 50% WP @ 3 గ్రా/లీ లేదా మాంకోజెబ్ 75% WP @ 2.5 గ్రా/లీ",
+        "మందుల లేబుల్ సూచనలను మరియు నిబంధనలను ఖచ్చితంగా పాటించండి."
+      ]
+    },
+    "fertilizer_guidance": {
+      "is_fertilizer_cure": false,
+      "explanation": {
+        "en": "IMPORTANT: Fertilizer does NOT cure infections. Avoid heavy nitrogen (Urea) during disease outbreaks as it promotes succulent foliage prone to infection. Maintain potash and balanced micronutrients.",
+        "hi": "महत्वपूर्ण: खाद किसी रोग का इलाज नहीं है। बीमारी के समय अत्यधिक यूरिया न डालें। पोटाश और सूक्ष्म पोषक तत्वों का संतुलित प्रयोग करें।",
+        "te": "ముఖ్య గమనిక: ఎరువులు రోగాన్ని నయం చేయలేవు. తెగులు ఉన్నప్పుడు యూరియా ఎక్కువ వేయకండి. పొటాష్ మరియు సూక్ష్మ పోషకాలు అందించండి."
+      }
+    },
+    "safety_precautions": {
+      "en": [
+        "Wear face mask, gloves, and protective gear when applying chemicals",
+        "Do not spray against the wind or near water bodies",
+        "Keep children and livestock away"
+      ],
+      "hi": [
+        "दवा छिड़कते समय मास्क और दस्ताने पहनें",
+        "हवा के विपरीत दिशा में या जल स्रोतों के पास छिड़काव न करें",
+        "बच्चों और मवेशियों को दूर रखें"
+      ],
+      "te": [
+        "మందులు పిచికారీ చేసేటప్పుడు మాస్క్, గ్లౌజులు ధరించండి",
+        "గాలికి ఎదురుగా లేదా నీటి వనరుల దగ్గర పిచికారీ చేయవద్దు",
+        "పిల్లలు, పశువులను దూరంగా ఉంచండి"
+      ]
+    },
+    "expert_consultation": {
+      "en": "Consult your local Krishi Vigyan Kendra (KVK) or Block Agriculture Extension Officer for exact chemical schedules permitted in your region.",
+      "hi": "अपने क्षेत्र में अनुशंसित दवाओं के लिए स्थानीय कृषि विज्ञान केंद्र (KVK) या कृषि अधिकारी से संपर्क करें।",
+      "te": "ఖచ్చితమైన మందుల సిఫార్సుల కోసం సమీప కృషి విజ్ఞాన కేంద్రం (KVK) లేదా వ్యవసాయ శాఖ అధికారిని సంప్రదించండి."
+    }
+  },
+  "Grape___Esca_(Black_Measles)": {
+    "disease_id": "Grape___Esca_(Black_Measles)",
+    "cultural_controls": {
+      "en": [
+        "Maintain weed sanitation around borders",
+        "Ensure balanced plant nutrition avoiding excess nitrogen",
+        "Practice field crop rotation"
+      ],
+      "hi": [
+        "खेत की मेड़ों को साफ रखें",
+        "यूरिया का अत्यधिक उपयोग न करें",
+        "फसल चक्र अपनाएं"
+      ],
+      "te": [
+        "పొలంలో కలుపు లేకుండా చూసుకోండి",
+        "యూరియా ఎక్కువ వేయకుండా సమతుల్య ఎరువులు వాడండి",
+        "పంట మార్పిడి చేయండి"
+      ]
+    },
+    "organic_controls": {
+      "en": [
+        "Apply bio-agent (Trichoderma or Bacillus) or 5% Neem Seed Kernel Extract (NSKE) as preventive deterrent"
+      ],
+      "hi": [
+        "ट्राइकोडर्मा या 5% नीम अर्क का छिड़काव करें"
+      ],
+      "te": [
+        "ట్రైకోడెర్మా లేదా 5% వేప గింజల కషాయం పిచికారీ చేయండి"
+      ]
+    },
+    "chemical_controls": {
+      "en": [
+        "Prophylactic protectant: Copper Oxychloride 50% WP @ 3 g/L or Mancozeb 75% WP @ 2.5 g/L",
+        "Ensure compliance with registered agricultural label recommendations and local safety laws."
+      ],
+      "hi": [
+        "निवारक छिड़काव: कॉपर ऑक्सीक्लोराइड @ 3 ग्राम/लीटर या मैंकोजेब @ 2.5 ग्राम/लीटर",
+        "स्थानीय कृषि नियमों और दवा के लेबल निर्देशों का पालन करें।"
+      ],
+      "te": [
+        "రక్షణ కోసం: కాపర్ ఆక్సిక్లోరైడ్ 50% WP @ 3 గ్రా/లీ లేదా మాంకోజెబ్ 75% WP @ 2.5 గ్రా/లీ",
+        "మందుల లేబుల్ సూచనలను మరియు నిబంధనలను ఖచ్చితంగా పాటించండి."
+      ]
+    },
+    "fertilizer_guidance": {
+      "is_fertilizer_cure": false,
+      "explanation": {
+        "en": "IMPORTANT: Fertilizer does NOT cure infections. Avoid heavy nitrogen (Urea) during disease outbreaks as it promotes succulent foliage prone to infection. Maintain potash and balanced micronutrients.",
+        "hi": "महत्वपूर्ण: खाद किसी रोग का इलाज नहीं है। बीमारी के समय अत्यधिक यूरिया न डालें। पोटाश और सूक्ष्म पोषक तत्वों का संतुलित प्रयोग करें।",
+        "te": "ముఖ్య గమనిక: ఎరువులు రోగాన్ని నయం చేయలేవు. తెగులు ఉన్నప్పుడు యూరియా ఎక్కువ వేయకండి. పొటాష్ మరియు సూక్ష్మ పోషకాలు అందించండి."
+      }
+    },
+    "safety_precautions": {
+      "en": [
+        "Wear face mask, gloves, and protective gear when applying chemicals",
+        "Do not spray against the wind or near water bodies",
+        "Keep children and livestock away"
+      ],
+      "hi": [
+        "दवा छिड़कते समय मास्क और दस्ताने पहनें",
+        "हवा के विपरीत दिशा में या जल स्रोतों के पास छिड़काव न करें",
+        "बच्चों और मवेशियों को दूर रखें"
+      ],
+      "te": [
+        "మందులు పిచికారీ చేసేటప్పుడు మాస్క్, గ్లౌజులు ధరించండి",
+        "గాలికి ఎదురుగా లేదా నీటి వనరుల దగ్గర పిచికారీ చేయవద్దు",
+        "పిల్లలు, పశువులను దూరంగా ఉంచండి"
+      ]
+    },
+    "expert_consultation": {
+      "en": "Consult your local Krishi Vigyan Kendra (KVK) or Block Agriculture Extension Officer for exact chemical schedules permitted in your region.",
+      "hi": "अपने क्षेत्र में अनुशंसित दवाओं के लिए स्थानीय कृषि विज्ञान केंद्र (KVK) या कृषि अधिकारी से संपर्क करें।",
+      "te": "ఖచ్చితమైన మందుల సిఫార్సుల కోసం సమీప కృషి విజ్ఞాన కేంద్రం (KVK) లేదా వ్యవసాయ శాఖ అధికారిని సంప్రదించండి."
+    }
+  },
+  "Grape___Leaf_blight_(Isariopsis_Leaf_Spot)": {
+    "disease_id": "Grape___Leaf_blight_(Isariopsis_Leaf_Spot)",
+    "cultural_controls": {
+      "en": [
+        "Maintain weed sanitation around borders",
+        "Ensure balanced plant nutrition avoiding excess nitrogen",
+        "Practice field crop rotation"
+      ],
+      "hi": [
+        "खेत की मेड़ों को साफ रखें",
+        "यूरिया का अत्यधिक उपयोग न करें",
+        "फसल चक्र अपनाएं"
+      ],
+      "te": [
+        "పొలంలో కలుపు లేకుండా చూసుకోండి",
+        "యూరియా ఎక్కువ వేయకుండా సమతుల్య ఎరువులు వాడండి",
+        "పంట మార్పిడి చేయండి"
+      ]
+    },
+    "organic_controls": {
+      "en": [
+        "Apply bio-agent (Trichoderma or Bacillus) or 5% Neem Seed Kernel Extract (NSKE) as preventive deterrent"
+      ],
+      "hi": [
+        "ट्राइकोडर्मा या 5% नीम अर्क का छिड़काव करें"
+      ],
+      "te": [
+        "ట్రైకోడెర్మా లేదా 5% వేప గింజల కషాయం పిచికారీ చేయండి"
+      ]
+    },
+    "chemical_controls": {
+      "en": [
+        "Prophylactic protectant: Copper Oxychloride 50% WP @ 3 g/L or Mancozeb 75% WP @ 2.5 g/L",
+        "Ensure compliance with registered agricultural label recommendations and local safety laws."
+      ],
+      "hi": [
+        "निवारक छिड़काव: कॉपर ऑक्सीक्लोराइड @ 3 ग्राम/लीटर या मैंकोजेब @ 2.5 ग्राम/लीटर",
+        "स्थानीय कृषि नियमों और दवा के लेबल निर्देशों का पालन करें।"
+      ],
+      "te": [
+        "రక్షణ కోసం: కాపర్ ఆక్సిక్లోరైడ్ 50% WP @ 3 గ్రా/లీ లేదా మాంకోజెబ్ 75% WP @ 2.5 గ్రా/లీ",
+        "మందుల లేబుల్ సూచనలను మరియు నిబంధనలను ఖచ్చితంగా పాటించండి."
+      ]
+    },
+    "fertilizer_guidance": {
+      "is_fertilizer_cure": false,
+      "explanation": {
+        "en": "IMPORTANT: Fertilizer does NOT cure infections. Avoid heavy nitrogen (Urea) during disease outbreaks as it promotes succulent foliage prone to infection. Maintain potash and balanced micronutrients.",
+        "hi": "महत्वपूर्ण: खाद किसी रोग का इलाज नहीं है। बीमारी के समय अत्यधिक यूरिया न डालें। पोटाश और सूक्ष्म पोषक तत्वों का संतुलित प्रयोग करें।",
+        "te": "ముఖ్య గమనిక: ఎరువులు రోగాన్ని నయం చేయలేవు. తెగులు ఉన్నప్పుడు యూరియా ఎక్కువ వేయకండి. పొటాష్ మరియు సూక్ష్మ పోషకాలు అందించండి."
+      }
+    },
+    "safety_precautions": {
+      "en": [
+        "Wear face mask, gloves, and protective gear when applying chemicals",
+        "Do not spray against the wind or near water bodies",
+        "Keep children and livestock away"
+      ],
+      "hi": [
+        "दवा छिड़कते समय मास्क और दस्ताने पहनें",
+        "हवा के विपरीत दिशा में या जल स्रोतों के पास छिड़काव न करें",
+        "बच्चों और मवेशियों को दूर रखें"
+      ],
+      "te": [
+        "మందులు పిచికారీ చేసేటప్పుడు మాస్క్, గ్లౌజులు ధరించండి",
+        "గాలికి ఎదురుగా లేదా నీటి వనరుల దగ్గర పిచికారీ చేయవద్దు",
+        "పిల్లలు, పశువులను దూరంగా ఉంచండి"
+      ]
+    },
+    "expert_consultation": {
+      "en": "Consult your local Krishi Vigyan Kendra (KVK) or Block Agriculture Extension Officer for exact chemical schedules permitted in your region.",
+      "hi": "अपने क्षेत्र में अनुशंसित दवाओं के लिए स्थानीय कृषि विज्ञान केंद्र (KVK) या कृषि अधिकारी से संपर्क करें।",
+      "te": "ఖచ్చితమైన మందుల సిఫార్సుల కోసం సమీప కృషి విజ్ఞాన కేంద్రం (KVK) లేదా వ్యవసాయ శాఖ అధికారిని సంప్రదించండి."
+    }
+  },
+  "Grape___healthy": {
+    "disease_id": "Grape___healthy",
+    "cultural_controls": {
+      "en": [
+        "Maintain recommended weed sanitation and plant spacing",
+        "Ensure balanced NPK soil application based on soil testing",
+        "Mulch around roots to conserve soil moisture"
+      ],
+      "hi": [
+        "खेत को खरपतवार मुक्त रखें और पौधों में उचित दूरी बनाएं रखें",
+        "मिट्टी परीक्षण के अनुसार संतुलित खाद डालें",
+        "नमी बनाए रखने के लिए मल्चिंग करें"
+      ],
+      "te": [
+        "కలుపు లేకుండా పొలాన్ని శుభ్రంగా ఉంచండి",
+        "భూసార పరీక్ష ఆధారంగా ఎరువులు వేయండి",
+        "తేమ సంరక్షణకు మల్చింగ్ చేయండి"
+      ]
+    },
+    "organic_controls": {
+      "en": [
+        "Routine prophylactic neem oil spray (3000 ppm @ 2 ml/L) to deter sucking pests",
+        "Periodic soil application of well-decomposed FYM and bio-fertilizers (Azotobacter/PSB)"
+      ],
+      "hi": [
+        "कीटों से बचाव के लिए नीम तेल (2 मिली/लीटर) का निवारक छिड़काव",
+        "सड़ी गोबर की खाद और जैव-उर्वरकों का प्रयोग"
+      ],
+      "te": [
+        "పురుగులు రాకుండా వేప నూనె (2 మి.లీ/లీ) పిచికారీ చేయండి",
+        "బాగా చివికిన పశువుల ఎరువు మరియు జీవన ఎరువులు వేయండి"
+      ]
+    },
+    "chemical_controls": {
+      "en": [
+        "NO CHEMICAL SPRAY IS RECOMMENDED FOR HEALTHY LEAVES. Unnecessary spraying wastes money and damages beneficial pollinator insects."
+      ],
+      "hi": [
+        "स्वस्थ फसल पर किसी रासायनिक कीटनाशक के छिड़काव की आवश्यकता नहीं है। अनावश्यक दवा से मित्र कीट मरते हैं।"
+      ],
+      "te": [
+        "ఆరోగ్యంగా ఉన్న పంటపై ఎటువంటి పురుగుమందులు కొట్టవద్దు. అనవసర పిచికారీ వల్ల డబ్బు వృధా అవ్వడమే కాక మేలు చేసే కీటకాలు చనిపోతాయి."
+      ]
+    },
+    "fertilizer_guidance": {
+      "is_fertilizer_cure": true,
+      "explanation": {
+        "en": "Apply standard recommended split doses of NPK as per your state agriculture package of practices. Avoid over-applying urea.",
+        "hi": "कृषि विभाग की अनुशंसा के अनुसार संतुलित खाद डालें। अत्यधिक यूरिया से बचें।",
+        "te": "వ్యవసాయ శాఖ సిఫార్సుల మేరకు తగిన మోతాదులో సమతుల్య ఎరువులు వేయండి. యూరియా ఎక్కువ వేయవద్దు."
+      }
+    },
+    "safety_precautions": {
+      "en": [
+        "Store all farm inputs securely away from livestock and drinking water",
+        "Wash vegetables and fruits with clean water before consumption"
+      ],
+      "hi": [
+        "कृषि रसायनों को बच्चों और मवेशियों से दूर रखें",
+        "फलों-सब्जियों को खाने से पहले साफ पानी से धोएं"
+      ],
+      "te": [
+        "వ్యవసాయ ఉత్పత్తులను పిల్లలు, పశువులకు దూరంగా ఉంచండి",
+        "కూరగాయలను వాడే ముందు శుభ్రమైన నీటితో కడగండి"
+      ]
+    },
+    "expert_consultation": {
+      "en": "Keep in regular contact with your nearest Krishi Vigyan Kendra (KVK) or local Agricultural Extension Officer for seasonal advisories.",
+      "hi": "मौसमी सलाह के लिए अपने स्थानीय कृषि विज्ञान केंद्र (KVK) से संपर्क बनाए रखें।",
+      "te": "సమయానుకూల సలహాల కోసం మీ సమీప కృషి విజ్ఞాన కేంద్రం (KVK) అధికారులను సంప్రదిస్తూ ఉండండి."
+    }
+  },
+  "Orange___Haunglongbing_(Citrus_greening)": {
+    "disease_id": "Orange___Haunglongbing_(Citrus_greening)",
+    "cultural_controls": {
+      "en": [
+        "Maintain weed sanitation around borders",
+        "Ensure balanced plant nutrition avoiding excess nitrogen",
+        "Practice field crop rotation"
+      ],
+      "hi": [
+        "खेत की मेड़ों को साफ रखें",
+        "यूरिया का अत्यधिक उपयोग न करें",
+        "फसल चक्र अपनाएं"
+      ],
+      "te": [
+        "పొలంలో కలుపు లేకుండా చూసుకోండి",
+        "యూరియా ఎక్కువ వేయకుండా సమతుల్య ఎరువులు వాడండి",
+        "పంట మార్పిడి చేయండి"
+      ]
+    },
+    "organic_controls": {
+      "en": [
+        "Apply bio-agent (Trichoderma or Bacillus) or 5% Neem Seed Kernel Extract (NSKE) as preventive deterrent"
+      ],
+      "hi": [
+        "ट्राइकोडर्मा या 5% नीम अर्क का छिड़काव करें"
+      ],
+      "te": [
+        "ట్రైకోడెర్మా లేదా 5% వేప గింజల కషాయం పిచికారీ చేయండి"
+      ]
+    },
+    "chemical_controls": {
+      "en": [
+        "Prophylactic protectant: Copper Oxychloride 50% WP @ 3 g/L or Mancozeb 75% WP @ 2.5 g/L",
+        "Ensure compliance with registered agricultural label recommendations and local safety laws."
+      ],
+      "hi": [
+        "निवारक छिड़काव: कॉपर ऑक्सीक्लोराइड @ 3 ग्राम/लीटर या मैंकोजेब @ 2.5 ग्राम/लीटर",
+        "स्थानीय कृषि नियमों और दवा के लेबल निर्देशों का पालन करें।"
+      ],
+      "te": [
+        "రక్షణ కోసం: కాపర్ ఆక్సిక్లోరైడ్ 50% WP @ 3 గ్రా/లీ లేదా మాంకోజెబ్ 75% WP @ 2.5 గ్రా/లీ",
+        "మందుల లేబుల్ సూచనలను మరియు నిబంధనలను ఖచ్చితంగా పాటించండి."
+      ]
+    },
+    "fertilizer_guidance": {
+      "is_fertilizer_cure": false,
+      "explanation": {
+        "en": "IMPORTANT: Fertilizer does NOT cure infections. Avoid heavy nitrogen (Urea) during disease outbreaks as it promotes succulent foliage prone to infection. Maintain potash and balanced micronutrients.",
+        "hi": "महत्वपूर्ण: खाद किसी रोग का इलाज नहीं है। बीमारी के समय अत्यधिक यूरिया न डालें। पोटाश और सूक्ष्म पोषक तत्वों का संतुलित प्रयोग करें।",
+        "te": "ముఖ్య గమనిక: ఎరువులు రోగాన్ని నయం చేయలేవు. తెగులు ఉన్నప్పుడు యూరియా ఎక్కువ వేయకండి. పొటాష్ మరియు సూక్ష్మ పోషకాలు అందించండి."
+      }
+    },
+    "safety_precautions": {
+      "en": [
+        "Wear face mask, gloves, and protective gear when applying chemicals",
+        "Do not spray against the wind or near water bodies",
+        "Keep children and livestock away"
+      ],
+      "hi": [
+        "दवा छिड़कते समय मास्क और दस्ताने पहनें",
+        "हवा के विपरीत दिशा में या जल स्रोतों के पास छिड़काव न करें",
+        "बच्चों और मवेशियों को दूर रखें"
+      ],
+      "te": [
+        "మందులు పిచికారీ చేసేటప్పుడు మాస్క్, గ్లౌజులు ధరించండి",
+        "గాలికి ఎదురుగా లేదా నీటి వనరుల దగ్గర పిచికారీ చేయవద్దు",
+        "పిల్లలు, పశువులను దూరంగా ఉంచండి"
+      ]
+    },
+    "expert_consultation": {
+      "en": "Consult your local Krishi Vigyan Kendra (KVK) or Block Agriculture Extension Officer for exact chemical schedules permitted in your region.",
+      "hi": "अपने क्षेत्र में अनुशंसित दवाओं के लिए स्थानीय कृषि विज्ञान केंद्र (KVK) या कृषि अधिकारी से संपर्क करें।",
+      "te": "ఖచ్చితమైన మందుల సిఫార్సుల కోసం సమీప కృషి విజ్ఞాన కేంద్రం (KVK) లేదా వ్యవసాయ శాఖ అధికారిని సంప్రదించండి."
+    }
+  },
+  "Peach___Bacterial_spot": {
+    "disease_id": "Peach___Bacterial_spot",
+    "cultural_controls": {
+      "en": [
+        "Maintain weed sanitation around borders",
+        "Ensure balanced plant nutrition avoiding excess nitrogen",
+        "Practice field crop rotation"
+      ],
+      "hi": [
+        "खेत की मेड़ों को साफ रखें",
+        "यूरिया का अत्यधिक उपयोग न करें",
+        "फसल चक्र अपनाएं"
+      ],
+      "te": [
+        "పొలంలో కలుపు లేకుండా చూసుకోండి",
+        "యూరియా ఎక్కువ వేయకుండా సమతుల్య ఎరువులు వాడండి",
+        "పంట మార్పిడి చేయండి"
+      ]
+    },
+    "organic_controls": {
+      "en": [
+        "Apply bio-agent (Trichoderma or Bacillus) or 5% Neem Seed Kernel Extract (NSKE) as preventive deterrent"
+      ],
+      "hi": [
+        "ट्राइकोडर्मा या 5% नीम अर्क का छिड़काव करें"
+      ],
+      "te": [
+        "ట్రైకోడెర్మా లేదా 5% వేప గింజల కషాయం పిచికారీ చేయండి"
+      ]
+    },
+    "chemical_controls": {
+      "en": [
+        "Prophylactic protectant: Copper Oxychloride 50% WP @ 3 g/L or Mancozeb 75% WP @ 2.5 g/L",
+        "Ensure compliance with registered agricultural label recommendations and local safety laws."
+      ],
+      "hi": [
+        "निवारक छिड़काव: कॉपर ऑक्सीक्लोराइड @ 3 ग्राम/लीटर या मैंकोजेब @ 2.5 ग्राम/लीटर",
+        "स्थानीय कृषि नियमों और दवा के लेबल निर्देशों का पालन करें।"
+      ],
+      "te": [
+        "రక్షణ కోసం: కాపర్ ఆక్సిక్లోరైడ్ 50% WP @ 3 గ్రా/లీ లేదా మాంకోజెబ్ 75% WP @ 2.5 గ్రా/లీ",
+        "మందుల లేబుల్ సూచనలను మరియు నిబంధనలను ఖచ్చితంగా పాటించండి."
+      ]
+    },
+    "fertilizer_guidance": {
+      "is_fertilizer_cure": false,
+      "explanation": {
+        "en": "IMPORTANT: Fertilizer does NOT cure infections. Avoid heavy nitrogen (Urea) during disease outbreaks as it promotes succulent foliage prone to infection. Maintain potash and balanced micronutrients.",
+        "hi": "महत्वपूर्ण: खाद किसी रोग का इलाज नहीं है। बीमारी के समय अत्यधिक यूरिया न डालें। पोटाश और सूक्ष्म पोषक तत्वों का संतुलित प्रयोग करें।",
+        "te": "ముఖ్య గమనిక: ఎరువులు రోగాన్ని నయం చేయలేవు. తెగులు ఉన్నప్పుడు యూరియా ఎక్కువ వేయకండి. పొటాష్ మరియు సూక్ష్మ పోషకాలు అందించండి."
+      }
+    },
+    "safety_precautions": {
+      "en": [
+        "Wear face mask, gloves, and protective gear when applying chemicals",
+        "Do not spray against the wind or near water bodies",
+        "Keep children and livestock away"
+      ],
+      "hi": [
+        "दवा छिड़कते समय मास्क और दस्ताने पहनें",
+        "हवा के विपरीत दिशा में या जल स्रोतों के पास छिड़काव न करें",
+        "बच्चों और मवेशियों को दूर रखें"
+      ],
+      "te": [
+        "మందులు పిచికారీ చేసేటప్పుడు మాస్క్, గ్లౌజులు ధరించండి",
+        "గాలికి ఎదురుగా లేదా నీటి వనరుల దగ్గర పిచికారీ చేయవద్దు",
+        "పిల్లలు, పశువులను దూరంగా ఉంచండి"
+      ]
+    },
+    "expert_consultation": {
+      "en": "Consult your local Krishi Vigyan Kendra (KVK) or Block Agriculture Extension Officer for exact chemical schedules permitted in your region.",
+      "hi": "अपने क्षेत्र में अनुशंसित दवाओं के लिए स्थानीय कृषि विज्ञान केंद्र (KVK) या कृषि अधिकारी से संपर्क करें।",
+      "te": "ఖచ్చితమైన మందుల సిఫార్సుల కోసం సమీప కృషి విజ్ఞాన కేంద్రం (KVK) లేదా వ్యవసాయ శాఖ అధికారిని సంప్రదించండి."
+    }
+  },
+  "Peach___healthy": {
+    "disease_id": "Peach___healthy",
+    "cultural_controls": {
+      "en": [
+        "Maintain recommended weed sanitation and plant spacing",
+        "Ensure balanced NPK soil application based on soil testing",
+        "Mulch around roots to conserve soil moisture"
+      ],
+      "hi": [
+        "खेत को खरपतवार मुक्त रखें और पौधों में उचित दूरी बनाएं रखें",
+        "मिट्टी परीक्षण के अनुसार संतुलित खाद डालें",
+        "नमी बनाए रखने के लिए मल्चिंग करें"
+      ],
+      "te": [
+        "కలుపు లేకుండా పొలాన్ని శుభ్రంగా ఉంచండి",
+        "భూసార పరీక్ష ఆధారంగా ఎరువులు వేయండి",
+        "తేమ సంరక్షణకు మల్చింగ్ చేయండి"
+      ]
+    },
+    "organic_controls": {
+      "en": [
+        "Routine prophylactic neem oil spray (3000 ppm @ 2 ml/L) to deter sucking pests",
+        "Periodic soil application of well-decomposed FYM and bio-fertilizers (Azotobacter/PSB)"
+      ],
+      "hi": [
+        "कीटों से बचाव के लिए नीम तेल (2 मिली/लीटर) का निवारक छिड़काव",
+        "सड़ी गोबर की खाद और जैव-उर्वरकों का प्रयोग"
+      ],
+      "te": [
+        "పురుగులు రాకుండా వేప నూనె (2 మి.లీ/లీ) పిచికారీ చేయండి",
+        "బాగా చివికిన పశువుల ఎరువు మరియు జీవన ఎరువులు వేయండి"
+      ]
+    },
+    "chemical_controls": {
+      "en": [
+        "NO CHEMICAL SPRAY IS RECOMMENDED FOR HEALTHY LEAVES. Unnecessary spraying wastes money and damages beneficial pollinator insects."
+      ],
+      "hi": [
+        "स्वस्थ फसल पर किसी रासायनिक कीटनाशक के छिड़काव की आवश्यकता नहीं है। अनावश्यक दवा से मित्र कीट मरते हैं।"
+      ],
+      "te": [
+        "ఆరోగ్యంగా ఉన్న పంటపై ఎటువంటి పురుగుమందులు కొట్టవద్దు. అనవసర పిచికారీ వల్ల డబ్బు వృధా అవ్వడమే కాక మేలు చేసే కీటకాలు చనిపోతాయి."
+      ]
+    },
+    "fertilizer_guidance": {
+      "is_fertilizer_cure": true,
+      "explanation": {
+        "en": "Apply standard recommended split doses of NPK as per your state agriculture package of practices. Avoid over-applying urea.",
+        "hi": "कृषि विभाग की अनुशंसा के अनुसार संतुलित खाद डालें। अत्यधिक यूरिया से बचें।",
+        "te": "వ్యవసాయ శాఖ సిఫార్సుల మేరకు తగిన మోతాదులో సమతుల్య ఎరువులు వేయండి. యూరియా ఎక్కువ వేయవద్దు."
+      }
+    },
+    "safety_precautions": {
+      "en": [
+        "Store all farm inputs securely away from livestock and drinking water",
+        "Wash vegetables and fruits with clean water before consumption"
+      ],
+      "hi": [
+        "कृषि रसायनों को बच्चों और मवेशियों से दूर रखें",
+        "फलों-सब्जियों को खाने से पहले साफ पानी से धोएं"
+      ],
+      "te": [
+        "వ్యవసాయ ఉత్పత్తులను పిల్లలు, పశువులకు దూరంగా ఉంచండి",
+        "కూరగాయలను వాడే ముందు శుభ్రమైన నీటితో కడగండి"
+      ]
+    },
+    "expert_consultation": {
+      "en": "Keep in regular contact with your nearest Krishi Vigyan Kendra (KVK) or local Agricultural Extension Officer for seasonal advisories.",
+      "hi": "मौसमी सलाह के लिए अपने स्थानीय कृषि विज्ञान केंद्र (KVK) से संपर्क बनाए रखें।",
+      "te": "సమయానుకూల సలహాల కోసం మీ సమీప కృషి విజ్ఞాన కేంద్రం (KVK) అధికారులను సంప్రదిస్తూ ఉండండి."
+    }
+  },
+  "Pepper,_bell___Bacterial_spot": {
+    "disease_id": "Pepper,_bell___Bacterial_spot",
+    "cultural_controls": {
+      "en": [
+        "Hot-water treat seeds (50°C for 25 minutes) before sowing",
+        "Rotate with corn, beans, or brassicas for 2 years",
+        "Use plastic mulch to minimize soil splash"
+      ],
+      "hi": [
+        "बुवाई से पहले बीज का गर्म पानी (50°C पर 25 मिनट) से उपचार करें",
+        "मक्का या बीन्स के साथ 2 साल का फसल चक्र अपनाएं",
+        "मल्चिंग का प्रयोग करें"
+      ],
+      "te": [
+        "విత్తే ముందు వేడినీటితో (50°C వద్ద 25 నిమిషాలు) విత్తన శుద్ధి చేయండి",
+        "మొక్కజొన్న లేదా చిక్కుడు పంటలతో పంట మార్పిడి చేయండి",
+        "మల్చింగ్ షీట్లను వాడండి"
+      ]
+    },
+    "organic_controls": {
+      "en": [
+        "Copper hydroxide sprays mixed with Bacillus subtilis",
+        "Neem oil formulations as a preventive deterrent"
+      ],
+      "hi": [
+        "कॉपर हाइड्रोक्साइड के साथ बैसिलस सबटिलिस का छिड़काव",
+        "नीम तेल का निवारक प्रयोग"
+      ],
+      "te": [
+        "కాపర్ హైడ్రాక్సైడ్ మరియు బాసిల్లస్ సబ్‌టిలిస్ పిచికారీ",
+        "నివారణగా వేప నూనె వాడకం"
+      ]
+    },
+    "chemical_controls": {
+      "en": [
+        "Bactericide spray: Copper Oxychloride 50% WP @ 3 g/L + Streptocycline (or Plantomycin) @ 0.1 g/L (1g in 10L water)",
+        "Apply at 7-10 day intervals during rainy spells. Follow regulatory label instructions."
+      ],
+      "hi": [
+        "जीवाणुनाशक छिड़काव: कॉपर ऑक्सीक्लोराइड 50% WP @ 3 ग्राम/लीटर + स्ट्रेप्टोसाइक्लिन @ 0.1 ग्राम/लीटर",
+        "बारिश के दिनों में 7-10 दिनों के अंतराल पर दोहराएं।"
+      ],
+      "te": [
+        "బాక్టీరియా నివారణకు: కాపర్ ఆక్సిక్లోరైడ్ 50% WP @ 3 గ్రా/లీ + స్ట్రెప్టోసైక్లిన్ (లేదా ప్లాంటోమైసిన్) @ 1 గ్రాము 10 లీటర్ల నీటికి కలిపి పిచికారీ చేయండి",
+        "వర్షాల సమయంలో 7-10 రోజుల వ్యవధితో పిచికారీ చేయండి."
+      ]
+    },
+    "fertilizer_guidance": {
+      "is_fertilizer_cure": false,
+      "explanation": {
+        "en": "REALITY CHECK: Fertilizers CANNOT kill bacteria. Excessive nitrogen makes foliage succulent and vulnerable. Apply balanced micronutrients (Zinc, Boron) to assist natural plant resistance.",
+        "hi": "हकीकत: खाद बैक्टीरिया को नहीं मार सकती। अधिक यूरिया देने से पत्तियां कोमल होकर रोग की चपेट में आती हैं। जिंक और बोरॉन जैसे सूक्ष्म पोषक तत्वों का संतुलित प्रयोग करें।",
+        "te": "నిజానిజాలు: ఎరువులు బాక్టీరియాను చంపలేవు. అధిక నత్రజని వల్ల ఆకులు లేతగా మారి తెగులు మరింత పెరుగుతుంది. జింక్, బోరాన్ వంటి సూక్ష్మ పోషకాలను సమతుల్యంగా ఇవ్వండి."
+      }
+    },
+    "safety_precautions": {
+      "en": [
+        "Wear face mask when measuring antibiotic formulations",
+        "Do not overuse agricultural antibiotics to prevent bacterial resistance",
+        "Observe harvest intervals"
+      ],
+      "hi": [
+        "एंटीबायोटिक पाउडर नापते समय मास्क पहनें",
+        "दवा का अत्यधिक उपयोग न करें",
+        "तुड़ाई से पहले निर्धारित दिनों का अंतर रखें"
+      ],
+      "te": [
+        "యాంటీబయోటిక్ మందులు కలిపేటప్పుడు మాస్క్ ధరించండి",
+        "అనవసరంగా ఎక్కువసార్లు వాడకండి",
+        "కాయలు కోసే ముందు తగిన సమయం వేచి ఉండండి"
+      ]
+    },
+    "expert_consultation": {
+      "en": "Consult KVK or local agricultural officer for certified antibiotic formulations permitted in your state.",
+      "hi": "अपने राज्य में अनुमत जीवाणुनाशक दवाओं की जानकारी के लिए KVK से संपर्क करें।",
+      "te": "మీ ప్రాంతంలో అనుమతించబడిన మందుల వివరాలకు కృషి విజ్ఞాన కేంద్రం (KVK) ను సంప్రదించండి."
+    }
+  },
+  "Pepper,_bell___healthy": {
+    "disease_id": "Pepper,_bell___healthy",
+    "cultural_controls": {
+      "en": [
+        "Maintain recommended weed sanitation and plant spacing",
+        "Ensure balanced NPK soil application based on soil testing",
+        "Mulch around roots to conserve soil moisture"
+      ],
+      "hi": [
+        "खेत को खरपतवार मुक्त रखें और पौधों में उचित दूरी बनाएं रखें",
+        "मिट्टी परीक्षण के अनुसार संतुलित खाद डालें",
+        "नमी बनाए रखने के लिए मल्चिंग करें"
+      ],
+      "te": [
+        "కలుపు లేకుండా పొలాన్ని శుభ్రంగా ఉంచండి",
+        "భూసార పరీక్ష ఆధారంగా ఎరువులు వేయండి",
+        "తేమ సంరక్షణకు మల్చింగ్ చేయండి"
+      ]
+    },
+    "organic_controls": {
+      "en": [
+        "Routine prophylactic neem oil spray (3000 ppm @ 2 ml/L) to deter sucking pests",
+        "Periodic soil application of well-decomposed FYM and bio-fertilizers (Azotobacter/PSB)"
+      ],
+      "hi": [
+        "कीटों से बचाव के लिए नीम तेल (2 मिली/लीटर) का निवारक छिड़काव",
+        "सड़ी गोबर की खाद और जैव-उर्वरकों का प्रयोग"
+      ],
+      "te": [
+        "పురుగులు రాకుండా వేప నూనె (2 మి.లీ/లీ) పిచికారీ చేయండి",
+        "బాగా చివికిన పశువుల ఎరువు మరియు జీవన ఎరువులు వేయండి"
+      ]
+    },
+    "chemical_controls": {
+      "en": [
+        "NO CHEMICAL SPRAY IS RECOMMENDED FOR HEALTHY LEAVES. Unnecessary spraying wastes money and damages beneficial pollinator insects."
+      ],
+      "hi": [
+        "स्वस्थ फसल पर किसी रासायनिक कीटनाशक के छिड़काव की आवश्यकता नहीं है। अनावश्यक दवा से मित्र कीट मरते हैं।"
+      ],
+      "te": [
+        "ఆరోగ్యంగా ఉన్న పంటపై ఎటువంటి పురుగుమందులు కొట్టవద్దు. అనవసర పిచికారీ వల్ల డబ్బు వృధా అవ్వడమే కాక మేలు చేసే కీటకాలు చనిపోతాయి."
+      ]
+    },
+    "fertilizer_guidance": {
+      "is_fertilizer_cure": true,
+      "explanation": {
+        "en": "Apply standard recommended split doses of NPK as per your state agriculture package of practices. Avoid over-applying urea.",
+        "hi": "कृषि विभाग की अनुशंसा के अनुसार संतुलित खाद डालें। अत्यधिक यूरिया से बचें।",
+        "te": "వ్యవసాయ శాఖ సిఫార్సుల మేరకు తగిన మోతాదులో సమతుల్య ఎరువులు వేయండి. యూరియా ఎక్కువ వేయవద్దు."
+      }
+    },
+    "safety_precautions": {
+      "en": [
+        "Store all farm inputs securely away from livestock and drinking water",
+        "Wash vegetables and fruits with clean water before consumption"
+      ],
+      "hi": [
+        "कृषि रसायनों को बच्चों और मवेशियों से दूर रखें",
+        "फलों-सब्जियों को खाने से पहले साफ पानी से धोएं"
+      ],
+      "te": [
+        "వ్యవసాయ ఉత్పత్తులను పిల్లలు, పశువులకు దూరంగా ఉంచండి",
+        "కూరగాయలను వాడే ముందు శుభ్రమైన నీటితో కడగండి"
+      ]
+    },
+    "expert_consultation": {
+      "en": "Keep in regular contact with your nearest Krishi Vigyan Kendra (KVK) or local Agricultural Extension Officer for seasonal advisories.",
+      "hi": "मौसमी सलाह के लिए अपने स्थानीय कृषि विज्ञान केंद्र (KVK) से संपर्क बनाए रखें।",
+      "te": "సమయానుకూల సలహాల కోసం మీ సమీప కృషి విజ్ఞాన కేంద్రం (KVK) అధికారులను సంప్రదిస్తూ ఉండండి."
+    }
+  },
+  "Potato___Early_blight": {
+    "disease_id": "Potato___Early_blight",
+    "cultural_controls": {
+      "en": [
+        "Use certified disease-free seed tubers",
+        "Practice 2-3 year rotation with non-solanaceous crops like maize or wheat",
+        "Ensure balanced soil potassium fertilization"
+      ],
+      "hi": [
+        "प्रमाणित रोगमुक्त आलू बीज का उपयोग करें",
+        "मक्का या गेहूं के साथ 2-3 साल का फसल चक्र अपनाएं",
+        "मिट्टी में पोटाश की उचित मात्रा दें"
+      ],
+      "te": [
+        "ధృవీకరించబడిన ఆరోగ్యకరమైన విత్తన దుంపలను వాడండి",
+        "మొక్కజొన్న లేదా గోధుమలతో పంట మార్పిడి చేయండి",
+        "సిఫార్సు చేసిన పొటాష్ ఎరువులు వేయండి"
+      ]
+    },
+    "organic_controls": {
+      "en": [
+        "Foliar spray of Trichoderma viride @ 5g/L or Bacillus subtilis",
+        "Neem-based preventative sprays (1500 ppm @ 3 ml/L)"
+      ],
+      "hi": [
+        "ट्राइकोडर्मा विरिडी (5 ग्राम/ली) का पत्तियों पर छिड़काव",
+        "नीम अर्क का छिड़काव"
+      ],
+      "te": [
+        "ట్రైకోడెర్మా విరిడే (5 గ్రా/లీ) పిచికారీ చేయండి",
+        "వేప నూనెను నివారణగా వాడండి"
+      ]
+    },
+    "chemical_controls": {
+      "en": [
+        "Prophylactic: Mancozeb 75% WP @ 2.5 g/L water",
+        "Curative: Azoxystrobin 23% SC @ 1 ml/L or Difenoconazole 25% EC @ 0.5 ml/L",
+        "Observe 10-14 days harvest waiting period."
+      ],
+      "hi": [
+        "रोकथाम: मैंकोजेब 75% WP @ 2.5 ग्राम/लीटर",
+        "उपचार: एजोक्सीस्ट्रोबिन या डाइफेनोकोनाजोल @ 0.5-1 मिली/लीटर",
+        "कटाई से पहले 10-14 दिन का अंतर रखें।"
+      ],
+      "te": [
+        "నివారణకు: మాంకోజెబ్ 75% WP @ 2.5 గ్రా/లీటరు",
+        "వ్యాధి తగ్గుటకు: అజాక్సిస్ట్రోబిన్ లేదా డైఫెనోకోనజోల్ @ 0.5-1 మి.లీ/లీ",
+        "దుంపలు తవ్వే ముందు 10-14 రోజుల వ్యవధి పాటించండి."
+      ]
+    },
+    "fertilizer_guidance": {
+      "is_fertilizer_cure": false,
+      "explanation": {
+        "en": "REALITY CHECK: Fertilizer cannot cure fungal blights. Avoid excessive nitrogen which prolongs vegetative vulnerability. Adequate potash (MOP) strengthens plant stamina against Alternaria.",
+        "hi": "हकीकत: खाद फफूंद रोग को खत्म नहीं कर सकती। अधिक यूरिया न डालें। पोटाश का उचित प्रयोग पौधे को बीमारी से लड़ने की ताकत देता है।",
+        "te": "నిజానిజాలు: ఎరువులు శిలీంద్ర తెగుళ్లను నయం చేయలేవు. అధిక యూరియా వేయకండి. తగినంత పొటాష్ ఎరువు మొక్కను దృఢంగా ఉంచుతుంది."
+      }
+    },
+    "safety_precautions": {
+      "en": [
+        "Wear masks and gloves",
+        "Avoid spraying near cattle grazing zones",
+        "Store away from food items"
+      ],
+      "hi": [
+        "मास्क और दस्ताने पहनें",
+        "पशुओं के चारे के पास छिड़काव न करें",
+        "भोजन से दूर रखें"
+      ],
+      "te": [
+        "మాస్క్, గ్లౌజులు ధరించండి",
+        "పశువుల మేతపై మందులు పడకుండా చూడండి",
+        "ఆహార ధాన్యాలకు దూరంగా ఉంచండి"
+      ]
+    },
+    "expert_consultation": {
+      "en": "Verify with local potato research station or KVK for regional spray schedules.",
+      "hi": "स्थानीय आलू अनुसंधान केंद्र या कृषि विज्ञान केंद्र से संपर्क करें।",
+      "te": "ప్రాంతీయ కృషి విజ్ఞాన కేంద్రం (KVK) శాస్త్రవేత్తల సలహా తీసుకోండి."
+    }
+  },
+  "Potato___Late_blight": {
+    "disease_id": "Potato___Late_blight",
+    "cultural_controls": {
+      "en": [
+        "Plant certified blight-resistant cultivars (e.g. Kufri Jyoti, Kufri Girdhari)",
+        "High earthing up to protect tubers from swimming zoospores",
+        "Destroy cull potato piles"
+      ],
+      "hi": [
+        "कुफरी ज्योति या प्रतिरोधी किस्मों के प्रमाणित बीज लगाएं",
+        "कंदों को फफूंद से बचाने के लिए पौधों पर अच्छी मिट्टी चढ़ाएं (अर्थिंग अप)",
+        "सड़े आलुओं को जमीन में दबाएं"
+      ],
+      "te": [
+        "కుఫ్రి జ్యోతి వంటి తట్టుకునే రకాలను ఎంచుకోండి",
+        "దుంపలపై శిలీంద్రం చేరకుండా మొదళ్ళ వద్ద మట్టిని ఎగదోయండి",
+        "పాత కుళ్ళిన దుంపలను నాశనం చేయండి"
+      ]
+    },
+    "organic_controls": {
+      "en": [
+        "Bordeaux mixture (1%) or Copper oxychloride as preventative cover",
+        "Trichoderma soil application at planting"
+      ],
+      "hi": [
+        "बोर्डो मिश्रण (1%) का सुरक्षात्मक छिड़काव",
+        "बुवाई के समय ट्राइकोडर्मा का प्रयोग"
+      ],
+      "te": [
+        "బోర్డో మిశ్రమం (1%) రక్షణగా పిచికారీ చేయండి",
+        "విత్తే సమయంలో ట్రైకోడెర్మా వాడండి"
+      ]
+    },
+    "chemical_controls": {
+      "en": [
+        "Preventive: Mancozeb 75% WP @ 2.5 g/L or Propineb 70% WP @ 2 g/L",
+        "Systemic: Cymoxanil 8% + Mancozeb 64% WP @ 2.5 g/L OR Dimethomorph 50% WP @ 1 g/L OR Metalaxyl 8% + Mancozeb 64% WP @ 2.5 g/L",
+        "Spray undersides of leaves thoroughly."
+      ],
+      "hi": [
+        "रोकथाम: मैंकोजेब @ 2.5 ग्राम/ली या प्रोपिनेब @ 2 ग्राम/ली",
+        "उपचार: साइमोक्सानिल + मैंकोजेब @ 2.5 ग्राम/ली या मेटालैक्सिल + मैंकोजेब @ 2.5 ग्राम/ली",
+        "पत्तियों के नीचे अच्छी तरह छिड़काव करें।"
+      ],
+      "te": [
+        "నివారణకు: మాంకోజెబ్ @ 2.5 గ్రా/లీ లేదా ప్రోపినెబ్ @ 2 గ్రా/లీ",
+        "వ్యాధి నివారణకు: సైమోక్సానిల్ + మాంకోజెబ్ @ 2.5 గ్రా/లీ లేదా మెటలాక్సిల్ + మాంకోజెబ్ @ 2.5 గ్రా/లీ",
+        "ఆకు అడుగు భాగం తడిసేలా పిచికారీ చేయండి."
+      ]
+    },
+    "fertilizer_guidance": {
+      "is_fertilizer_cure": false,
+      "explanation": {
+        "en": "WARNING: Do NOT apply nitrogen fertilizer when late blight is active; high nitrogen causes watery soft tissues that disintegrate rapidly under blight. Maintain balanced potash.",
+        "hi": "चेतावनी: बीमारी के समय यूरिया खाद बिल्कुल न डालें। इससे पत्तियां तेजी से गलती हैं। पोटाश का संतुलित प्रयोग करें।",
+        "te": "హెచ్చరిక: లేట్ బ్లైట్ ఉన్నప్పుడు యూరియా ఎరువు వేయవద్దు. ఇది తెగులును మరింత ఉధృతం చేస్తుంది."
+      }
+    },
+    "safety_precautions": {
+      "en": [
+        "Always use protective face shield and gloves",
+        "Do not let wash-water enter rivers or ponds",
+        "Keep animals away from sprayed field for 48 hours"
+      ],
+      "hi": [
+        "चेहरे का शील्ड और दस्ताने पहनें",
+        "नहरों या तालाबों में दवा का पानी न जाने दें",
+        "छिड़काव के 48 घंटे तक मवेशियों को दूर रखें"
+      ],
+      "te": [
+        "రక్షణ కవచం మరియు గ్లౌజులు ధరించండి",
+        "చెరువులు, కాల్వలలో మందుల నీటిని కలపవద్దు",
+        "48 గంటల వరకు పశువులను పొలంలోకి రానివ్వకండి"
+      ]
+    },
+    "expert_consultation": {
+      "en": "Contact your District Horticulture or Agriculture Officer immediately upon detection.",
+      "hi": "लक्षण दिखते ही जिला उद्यान या कृषि अधिकारी से तुरंत संपर्क करें।",
+      "te": "తెగులు కనిపించిన వెంటనే ఉద్యానవన లేదా వ్యవసాయ శాఖ అధికారులను సంప్రదించండి."
+    }
+  },
+  "Potato___healthy": {
+    "disease_id": "Potato___healthy",
+    "cultural_controls": {
+      "en": [
+        "Maintain recommended weed sanitation and plant spacing",
+        "Ensure balanced NPK soil application based on soil testing",
+        "Mulch around roots to conserve soil moisture"
+      ],
+      "hi": [
+        "खेत को खरपतवार मुक्त रखें और पौधों में उचित दूरी बनाएं रखें",
+        "मिट्टी परीक्षण के अनुसार संतुलित खाद डालें",
+        "नमी बनाए रखने के लिए मल्चिंग करें"
+      ],
+      "te": [
+        "కలుపు లేకుండా పొలాన్ని శుభ్రంగా ఉంచండి",
+        "భూసార పరీక్ష ఆధారంగా ఎరువులు వేయండి",
+        "తేమ సంరక్షణకు మల్చింగ్ చేయండి"
+      ]
+    },
+    "organic_controls": {
+      "en": [
+        "Routine prophylactic neem oil spray (3000 ppm @ 2 ml/L) to deter sucking pests",
+        "Periodic soil application of well-decomposed FYM and bio-fertilizers (Azotobacter/PSB)"
+      ],
+      "hi": [
+        "कीटों से बचाव के लिए नीम तेल (2 मिली/लीटर) का निवारक छिड़काव",
+        "सड़ी गोबर की खाद और जैव-उर्वरकों का प्रयोग"
+      ],
+      "te": [
+        "పురుగులు రాకుండా వేప నూనె (2 మి.లీ/లీ) పిచికారీ చేయండి",
+        "బాగా చివికిన పశువుల ఎరువు మరియు జీవన ఎరువులు వేయండి"
+      ]
+    },
+    "chemical_controls": {
+      "en": [
+        "NO CHEMICAL SPRAY IS RECOMMENDED FOR HEALTHY LEAVES. Unnecessary spraying wastes money and damages beneficial pollinator insects."
+      ],
+      "hi": [
+        "स्वस्थ फसल पर किसी रासायनिक कीटनाशक के छिड़काव की आवश्यकता नहीं है। अनावश्यक दवा से मित्र कीट मरते हैं।"
+      ],
+      "te": [
+        "ఆరోగ్యంగా ఉన్న పంటపై ఎటువంటి పురుగుమందులు కొట్టవద్దు. అనవసర పిచికారీ వల్ల డబ్బు వృధా అవ్వడమే కాక మేలు చేసే కీటకాలు చనిపోతాయి."
+      ]
+    },
+    "fertilizer_guidance": {
+      "is_fertilizer_cure": true,
+      "explanation": {
+        "en": "Apply standard recommended split doses of NPK as per your state agriculture package of practices. Avoid over-applying urea.",
+        "hi": "कृषि विभाग की अनुशंसा के अनुसार संतुलित खाद डालें। अत्यधिक यूरिया से बचें।",
+        "te": "వ్యవసాయ శాఖ సిఫార్సుల మేరకు తగిన మోతాదులో సమతుల్య ఎరువులు వేయండి. యూరియా ఎక్కువ వేయవద్దు."
+      }
+    },
+    "safety_precautions": {
+      "en": [
+        "Store all farm inputs securely away from livestock and drinking water",
+        "Wash vegetables and fruits with clean water before consumption"
+      ],
+      "hi": [
+        "कृषि रसायनों को बच्चों और मवेशियों से दूर रखें",
+        "फलों-सब्जियों को खाने से पहले साफ पानी से धोएं"
+      ],
+      "te": [
+        "వ్యవసాయ ఉత్పత్తులను పిల్లలు, పశువులకు దూరంగా ఉంచండి",
+        "కూరగాయలను వాడే ముందు శుభ్రమైన నీటితో కడగండి"
+      ]
+    },
+    "expert_consultation": {
+      "en": "Keep in regular contact with your nearest Krishi Vigyan Kendra (KVK) or local Agricultural Extension Officer for seasonal advisories.",
+      "hi": "मौसमी सलाह के लिए अपने स्थानीय कृषि विज्ञान केंद्र (KVK) से संपर्क बनाए रखें।",
+      "te": "సమయానుకూల సలహాల కోసం మీ సమీప కృషి విజ్ఞాన కేంద్రం (KVK) అధికారులను సంప్రదిస్తూ ఉండండి."
+    }
+  },
+  "Raspberry___healthy": {
+    "disease_id": "Raspberry___healthy",
+    "cultural_controls": {
+      "en": [
+        "Maintain recommended weed sanitation and plant spacing",
+        "Ensure balanced NPK soil application based on soil testing",
+        "Mulch around roots to conserve soil moisture"
+      ],
+      "hi": [
+        "खेत को खरपतवार मुक्त रखें और पौधों में उचित दूरी बनाएं रखें",
+        "मिट्टी परीक्षण के अनुसार संतुलित खाद डालें",
+        "नमी बनाए रखने के लिए मल्चिंग करें"
+      ],
+      "te": [
+        "కలుపు లేకుండా పొలాన్ని శుభ్రంగా ఉంచండి",
+        "భూసార పరీక్ష ఆధారంగా ఎరువులు వేయండి",
+        "తేమ సంరక్షణకు మల్చింగ్ చేయండి"
+      ]
+    },
+    "organic_controls": {
+      "en": [
+        "Routine prophylactic neem oil spray (3000 ppm @ 2 ml/L) to deter sucking pests",
+        "Periodic soil application of well-decomposed FYM and bio-fertilizers (Azotobacter/PSB)"
+      ],
+      "hi": [
+        "कीटों से बचाव के लिए नीम तेल (2 मिली/लीटर) का निवारक छिड़काव",
+        "सड़ी गोबर की खाद और जैव-उर्वरकों का प्रयोग"
+      ],
+      "te": [
+        "పురుగులు రాకుండా వేప నూనె (2 మి.లీ/లీ) పిచికారీ చేయండి",
+        "బాగా చివికిన పశువుల ఎరువు మరియు జీవన ఎరువులు వేయండి"
+      ]
+    },
+    "chemical_controls": {
+      "en": [
+        "NO CHEMICAL SPRAY IS RECOMMENDED FOR HEALTHY LEAVES. Unnecessary spraying wastes money and damages beneficial pollinator insects."
+      ],
+      "hi": [
+        "स्वस्थ फसल पर किसी रासायनिक कीटनाशक के छिड़काव की आवश्यकता नहीं है। अनावश्यक दवा से मित्र कीट मरते हैं।"
+      ],
+      "te": [
+        "ఆరోగ్యంగా ఉన్న పంటపై ఎటువంటి పురుగుమందులు కొట్టవద్దు. అనవసర పిచికారీ వల్ల డబ్బు వృధా అవ్వడమే కాక మేలు చేసే కీటకాలు చనిపోతాయి."
+      ]
+    },
+    "fertilizer_guidance": {
+      "is_fertilizer_cure": true,
+      "explanation": {
+        "en": "Apply standard recommended split doses of NPK as per your state agriculture package of practices. Avoid over-applying urea.",
+        "hi": "कृषि विभाग की अनुशंसा के अनुसार संतुलित खाद डालें। अत्यधिक यूरिया से बचें।",
+        "te": "వ్యవసాయ శాఖ సిఫార్సుల మేరకు తగిన మోతాదులో సమతుల్య ఎరువులు వేయండి. యూరియా ఎక్కువ వేయవద్దు."
+      }
+    },
+    "safety_precautions": {
+      "en": [
+        "Store all farm inputs securely away from livestock and drinking water",
+        "Wash vegetables and fruits with clean water before consumption"
+      ],
+      "hi": [
+        "कृषि रसायनों को बच्चों और मवेशियों से दूर रखें",
+        "फलों-सब्जियों को खाने से पहले साफ पानी से धोएं"
+      ],
+      "te": [
+        "వ్యవసాయ ఉత్పత్తులను పిల్లలు, పశువులకు దూరంగా ఉంచండి",
+        "కూరగాయలను వాడే ముందు శుభ్రమైన నీటితో కడగండి"
+      ]
+    },
+    "expert_consultation": {
+      "en": "Keep in regular contact with your nearest Krishi Vigyan Kendra (KVK) or local Agricultural Extension Officer for seasonal advisories.",
+      "hi": "मौसमी सलाह के लिए अपने स्थानीय कृषि विज्ञान केंद्र (KVK) से संपर्क बनाए रखें।",
+      "te": "సమయానుకూల సలహాల కోసం మీ సమీప కృషి విజ్ఞాన కేంద్రం (KVK) అధికారులను సంప్రదిస్తూ ఉండండి."
+    }
+  },
+  "Soybean___healthy": {
+    "disease_id": "Soybean___healthy",
+    "cultural_controls": {
+      "en": [
+        "Maintain recommended weed sanitation and plant spacing",
+        "Ensure balanced NPK soil application based on soil testing",
+        "Mulch around roots to conserve soil moisture"
+      ],
+      "hi": [
+        "खेत को खरपतवार मुक्त रखें और पौधों में उचित दूरी बनाएं रखें",
+        "मिट्टी परीक्षण के अनुसार संतुलित खाद डालें",
+        "नमी बनाए रखने के लिए मल्चिंग करें"
+      ],
+      "te": [
+        "కలుపు లేకుండా పొలాన్ని శుభ్రంగా ఉంచండి",
+        "భూసార పరీక్ష ఆధారంగా ఎరువులు వేయండి",
+        "తేమ సంరక్షణకు మల్చింగ్ చేయండి"
+      ]
+    },
+    "organic_controls": {
+      "en": [
+        "Routine prophylactic neem oil spray (3000 ppm @ 2 ml/L) to deter sucking pests",
+        "Periodic soil application of well-decomposed FYM and bio-fertilizers (Azotobacter/PSB)"
+      ],
+      "hi": [
+        "कीटों से बचाव के लिए नीम तेल (2 मिली/लीटर) का निवारक छिड़काव",
+        "सड़ी गोबर की खाद और जैव-उर्वरकों का प्रयोग"
+      ],
+      "te": [
+        "పురుగులు రాకుండా వేప నూనె (2 మి.లీ/లీ) పిచికారీ చేయండి",
+        "బాగా చివికిన పశువుల ఎరువు మరియు జీవన ఎరువులు వేయండి"
+      ]
+    },
+    "chemical_controls": {
+      "en": [
+        "NO CHEMICAL SPRAY IS RECOMMENDED FOR HEALTHY LEAVES. Unnecessary spraying wastes money and damages beneficial pollinator insects."
+      ],
+      "hi": [
+        "स्वस्थ फसल पर किसी रासायनिक कीटनाशक के छिड़काव की आवश्यकता नहीं है। अनावश्यक दवा से मित्र कीट मरते हैं।"
+      ],
+      "te": [
+        "ఆరోగ్యంగా ఉన్న పంటపై ఎటువంటి పురుగుమందులు కొట్టవద్దు. అనవసర పిచికారీ వల్ల డబ్బు వృధా అవ్వడమే కాక మేలు చేసే కీటకాలు చనిపోతాయి."
+      ]
+    },
+    "fertilizer_guidance": {
+      "is_fertilizer_cure": true,
+      "explanation": {
+        "en": "Apply standard recommended split doses of NPK as per your state agriculture package of practices. Avoid over-applying urea.",
+        "hi": "कृषि विभाग की अनुशंसा के अनुसार संतुलित खाद डालें। अत्यधिक यूरिया से बचें।",
+        "te": "వ్యవసాయ శాఖ సిఫార్సుల మేరకు తగిన మోతాదులో సమతుల్య ఎరువులు వేయండి. యూరియా ఎక్కువ వేయవద్దు."
+      }
+    },
+    "safety_precautions": {
+      "en": [
+        "Store all farm inputs securely away from livestock and drinking water",
+        "Wash vegetables and fruits with clean water before consumption"
+      ],
+      "hi": [
+        "कृषि रसायनों को बच्चों और मवेशियों से दूर रखें",
+        "फलों-सब्जियों को खाने से पहले साफ पानी से धोएं"
+      ],
+      "te": [
+        "వ్యవసాయ ఉత్పత్తులను పిల్లలు, పశువులకు దూరంగా ఉంచండి",
+        "కూరగాయలను వాడే ముందు శుభ్రమైన నీటితో కడగండి"
+      ]
+    },
+    "expert_consultation": {
+      "en": "Keep in regular contact with your nearest Krishi Vigyan Kendra (KVK) or local Agricultural Extension Officer for seasonal advisories.",
+      "hi": "मौसमी सलाह के लिए अपने स्थानीय कृषि विज्ञान केंद्र (KVK) से संपर्क बनाए रखें।",
+      "te": "సమయానుకూల సలహాల కోసం మీ సమీప కృషి విజ్ఞాన కేంద్రం (KVK) అధికారులను సంప్రదిస్తూ ఉండండి."
+    }
+  },
+  "Squash___Powdery_mildew": {
+    "disease_id": "Squash___Powdery_mildew",
+    "cultural_controls": {
+      "en": [
+        "Maintain weed sanitation around borders",
+        "Ensure balanced plant nutrition avoiding excess nitrogen",
+        "Practice field crop rotation"
+      ],
+      "hi": [
+        "खेत की मेड़ों को साफ रखें",
+        "यूरिया का अत्यधिक उपयोग न करें",
+        "फसल चक्र अपनाएं"
+      ],
+      "te": [
+        "పొలంలో కలుపు లేకుండా చూసుకోండి",
+        "యూరియా ఎక్కువ వేయకుండా సమతుల్య ఎరువులు వాడండి",
+        "పంట మార్పిడి చేయండి"
+      ]
+    },
+    "organic_controls": {
+      "en": [
+        "Apply bio-agent (Trichoderma or Bacillus) or 5% Neem Seed Kernel Extract (NSKE) as preventive deterrent"
+      ],
+      "hi": [
+        "ट्राइकोडर्मा या 5% नीम अर्क का छिड़काव करें"
+      ],
+      "te": [
+        "ట్రైకోడెర్మా లేదా 5% వేప గింజల కషాయం పిచికారీ చేయండి"
+      ]
+    },
+    "chemical_controls": {
+      "en": [
+        "Prophylactic protectant: Copper Oxychloride 50% WP @ 3 g/L or Mancozeb 75% WP @ 2.5 g/L",
+        "Ensure compliance with registered agricultural label recommendations and local safety laws."
+      ],
+      "hi": [
+        "निवारक छिड़काव: कॉपर ऑक्सीक्लोराइड @ 3 ग्राम/लीटर या मैंकोजेब @ 2.5 ग्राम/लीटर",
+        "स्थानीय कृषि नियमों और दवा के लेबल निर्देशों का पालन करें।"
+      ],
+      "te": [
+        "రక్షణ కోసం: కాపర్ ఆక్సిక్లోరైడ్ 50% WP @ 3 గ్రా/లీ లేదా మాంకోజెబ్ 75% WP @ 2.5 గ్రా/లీ",
+        "మందుల లేబుల్ సూచనలను మరియు నిబంధనలను ఖచ్చితంగా పాటించండి."
+      ]
+    },
+    "fertilizer_guidance": {
+      "is_fertilizer_cure": false,
+      "explanation": {
+        "en": "IMPORTANT: Fertilizer does NOT cure infections. Avoid heavy nitrogen (Urea) during disease outbreaks as it promotes succulent foliage prone to infection. Maintain potash and balanced micronutrients.",
+        "hi": "महत्वपूर्ण: खाद किसी रोग का इलाज नहीं है। बीमारी के समय अत्यधिक यूरिया न डालें। पोटाश और सूक्ष्म पोषक तत्वों का संतुलित प्रयोग करें।",
+        "te": "ముఖ్య గమనిక: ఎరువులు రోగాన్ని నయం చేయలేవు. తెగులు ఉన్నప్పుడు యూరియా ఎక్కువ వేయకండి. పొటాష్ మరియు సూక్ష్మ పోషకాలు అందించండి."
+      }
+    },
+    "safety_precautions": {
+      "en": [
+        "Wear face mask, gloves, and protective gear when applying chemicals",
+        "Do not spray against the wind or near water bodies",
+        "Keep children and livestock away"
+      ],
+      "hi": [
+        "दवा छिड़कते समय मास्क और दस्ताने पहनें",
+        "हवा के विपरीत दिशा में या जल स्रोतों के पास छिड़काव न करें",
+        "बच्चों और मवेशियों को दूर रखें"
+      ],
+      "te": [
+        "మందులు పిచికారీ చేసేటప్పుడు మాస్క్, గ్లౌజులు ధరించండి",
+        "గాలికి ఎదురుగా లేదా నీటి వనరుల దగ్గర పిచికారీ చేయవద్దు",
+        "పిల్లలు, పశువులను దూరంగా ఉంచండి"
+      ]
+    },
+    "expert_consultation": {
+      "en": "Consult your local Krishi Vigyan Kendra (KVK) or Block Agriculture Extension Officer for exact chemical schedules permitted in your region.",
+      "hi": "अपने क्षेत्र में अनुशंसित दवाओं के लिए स्थानीय कृषि विज्ञान केंद्र (KVK) या कृषि अधिकारी से संपर्क करें।",
+      "te": "ఖచ్చితమైన మందుల సిఫార్సుల కోసం సమీప కృషి విజ్ఞాన కేంద్రం (KVK) లేదా వ్యవసాయ శాఖ అధికారిని సంప్రదించండి."
+    }
+  },
+  "Strawberry___Leaf_scorch": {
+    "disease_id": "Strawberry___Leaf_scorch",
+    "cultural_controls": {
+      "en": [
+        "Maintain weed sanitation around borders",
+        "Ensure balanced plant nutrition avoiding excess nitrogen",
+        "Practice field crop rotation"
+      ],
+      "hi": [
+        "खेत की मेड़ों को साफ रखें",
+        "यूरिया का अत्यधिक उपयोग न करें",
+        "फसल चक्र अपनाएं"
+      ],
+      "te": [
+        "పొలంలో కలుపు లేకుండా చూసుకోండి",
+        "యూరియా ఎక్కువ వేయకుండా సమతుల్య ఎరువులు వాడండి",
+        "పంట మార్పిడి చేయండి"
+      ]
+    },
+    "organic_controls": {
+      "en": [
+        "Apply bio-agent (Trichoderma or Bacillus) or 5% Neem Seed Kernel Extract (NSKE) as preventive deterrent"
+      ],
+      "hi": [
+        "ट्राइकोडर्मा या 5% नीम अर्क का छिड़काव करें"
+      ],
+      "te": [
+        "ట్రైకోడెర్మా లేదా 5% వేప గింజల కషాయం పిచికారీ చేయండి"
+      ]
+    },
+    "chemical_controls": {
+      "en": [
+        "Prophylactic protectant: Copper Oxychloride 50% WP @ 3 g/L or Mancozeb 75% WP @ 2.5 g/L",
+        "Ensure compliance with registered agricultural label recommendations and local safety laws."
+      ],
+      "hi": [
+        "निवारक छिड़काव: कॉपर ऑक्सीक्लोराइड @ 3 ग्राम/लीटर या मैंकोजेब @ 2.5 ग्राम/लीटर",
+        "स्थानीय कृषि नियमों और दवा के लेबल निर्देशों का पालन करें।"
+      ],
+      "te": [
+        "రక్షణ కోసం: కాపర్ ఆక్సిక్లోరైడ్ 50% WP @ 3 గ్రా/లీ లేదా మాంకోజెబ్ 75% WP @ 2.5 గ్రా/లీ",
+        "మందుల లేబుల్ సూచనలను మరియు నిబంధనలను ఖచ్చితంగా పాటించండి."
+      ]
+    },
+    "fertilizer_guidance": {
+      "is_fertilizer_cure": false,
+      "explanation": {
+        "en": "IMPORTANT: Fertilizer does NOT cure infections. Avoid heavy nitrogen (Urea) during disease outbreaks as it promotes succulent foliage prone to infection. Maintain potash and balanced micronutrients.",
+        "hi": "महत्वपूर्ण: खाद किसी रोग का इलाज नहीं है। बीमारी के समय अत्यधिक यूरिया न डालें। पोटाश और सूक्ष्म पोषक तत्वों का संतुलित प्रयोग करें।",
+        "te": "ముఖ్య గమనిక: ఎరువులు రోగాన్ని నయం చేయలేవు. తెగులు ఉన్నప్పుడు యూరియా ఎక్కువ వేయకండి. పొటాష్ మరియు సూక్ష్మ పోషకాలు అందించండి."
+      }
+    },
+    "safety_precautions": {
+      "en": [
+        "Wear face mask, gloves, and protective gear when applying chemicals",
+        "Do not spray against the wind or near water bodies",
+        "Keep children and livestock away"
+      ],
+      "hi": [
+        "दवा छिड़कते समय मास्क और दस्ताने पहनें",
+        "हवा के विपरीत दिशा में या जल स्रोतों के पास छिड़काव न करें",
+        "बच्चों और मवेशियों को दूर रखें"
+      ],
+      "te": [
+        "మందులు పిచికారీ చేసేటప్పుడు మాస్క్, గ్లౌజులు ధరించండి",
+        "గాలికి ఎదురుగా లేదా నీటి వనరుల దగ్గర పిచికారీ చేయవద్దు",
+        "పిల్లలు, పశువులను దూరంగా ఉంచండి"
+      ]
+    },
+    "expert_consultation": {
+      "en": "Consult your local Krishi Vigyan Kendra (KVK) or Block Agriculture Extension Officer for exact chemical schedules permitted in your region.",
+      "hi": "अपने क्षेत्र में अनुशंसित दवाओं के लिए स्थानीय कृषि विज्ञान केंद्र (KVK) या कृषि अधिकारी से संपर्क करें।",
+      "te": "ఖచ్చితమైన మందుల సిఫార్సుల కోసం సమీప కృషి విజ్ఞాన కేంద్రం (KVK) లేదా వ్యవసాయ శాఖ అధికారిని సంప్రదించండి."
+    }
+  },
+  "Strawberry___healthy": {
+    "disease_id": "Strawberry___healthy",
+    "cultural_controls": {
+      "en": [
+        "Maintain recommended weed sanitation and plant spacing",
+        "Ensure balanced NPK soil application based on soil testing",
+        "Mulch around roots to conserve soil moisture"
+      ],
+      "hi": [
+        "खेत को खरपतवार मुक्त रखें और पौधों में उचित दूरी बनाएं रखें",
+        "मिट्टी परीक्षण के अनुसार संतुलित खाद डालें",
+        "नमी बनाए रखने के लिए मल्चिंग करें"
+      ],
+      "te": [
+        "కలుపు లేకుండా పొలాన్ని శుభ్రంగా ఉంచండి",
+        "భూసార పరీక్ష ఆధారంగా ఎరువులు వేయండి",
+        "తేమ సంరక్షణకు మల్చింగ్ చేయండి"
+      ]
+    },
+    "organic_controls": {
+      "en": [
+        "Routine prophylactic neem oil spray (3000 ppm @ 2 ml/L) to deter sucking pests",
+        "Periodic soil application of well-decomposed FYM and bio-fertilizers (Azotobacter/PSB)"
+      ],
+      "hi": [
+        "कीटों से बचाव के लिए नीम तेल (2 मिली/लीटर) का निवारक छिड़काव",
+        "सड़ी गोबर की खाद और जैव-उर्वरकों का प्रयोग"
+      ],
+      "te": [
+        "పురుగులు రాకుండా వేప నూనె (2 మి.లీ/లీ) పిచికారీ చేయండి",
+        "బాగా చివికిన పశువుల ఎరువు మరియు జీవన ఎరువులు వేయండి"
+      ]
+    },
+    "chemical_controls": {
+      "en": [
+        "NO CHEMICAL SPRAY IS RECOMMENDED FOR HEALTHY LEAVES. Unnecessary spraying wastes money and damages beneficial pollinator insects."
+      ],
+      "hi": [
+        "स्वस्थ फसल पर किसी रासायनिक कीटनाशक के छिड़काव की आवश्यकता नहीं है। अनावश्यक दवा से मित्र कीट मरते हैं।"
+      ],
+      "te": [
+        "ఆరోగ్యంగా ఉన్న పంటపై ఎటువంటి పురుగుమందులు కొట్టవద్దు. అనవసర పిచికారీ వల్ల డబ్బు వృధా అవ్వడమే కాక మేలు చేసే కీటకాలు చనిపోతాయి."
+      ]
+    },
+    "fertilizer_guidance": {
+      "is_fertilizer_cure": true,
+      "explanation": {
+        "en": "Apply standard recommended split doses of NPK as per your state agriculture package of practices. Avoid over-applying urea.",
+        "hi": "कृषि विभाग की अनुशंसा के अनुसार संतुलित खाद डालें। अत्यधिक यूरिया से बचें।",
+        "te": "వ్యవసాయ శాఖ సిఫార్సుల మేరకు తగిన మోతాదులో సమతుల్య ఎరువులు వేయండి. యూరియా ఎక్కువ వేయవద్దు."
+      }
+    },
+    "safety_precautions": {
+      "en": [
+        "Store all farm inputs securely away from livestock and drinking water",
+        "Wash vegetables and fruits with clean water before consumption"
+      ],
+      "hi": [
+        "कृषि रसायनों को बच्चों और मवेशियों से दूर रखें",
+        "फलों-सब्जियों को खाने से पहले साफ पानी से धोएं"
+      ],
+      "te": [
+        "వ్యవసాయ ఉత్పత్తులను పిల్లలు, పశువులకు దూరంగా ఉంచండి",
+        "కూరగాయలను వాడే ముందు శుభ్రమైన నీటితో కడగండి"
+      ]
+    },
+    "expert_consultation": {
+      "en": "Keep in regular contact with your nearest Krishi Vigyan Kendra (KVK) or local Agricultural Extension Officer for seasonal advisories.",
+      "hi": "मौसमी सलाह के लिए अपने स्थानीय कृषि विज्ञान केंद्र (KVK) से संपर्क बनाए रखें।",
+      "te": "సమయానుకూల సలహాల కోసం మీ సమీప కృషి విజ్ఞాన కేంద్రం (KVK) అధికారులను సంప్రదిస్తూ ఉండండి."
+    }
+  },
+  "Tomato___Bacterial_spot": {
+    "disease_id": "Tomato___Bacterial_spot",
+    "cultural_controls": {
+      "en": [
+        "Maintain weed sanitation around borders",
+        "Ensure balanced plant nutrition avoiding excess nitrogen",
+        "Practice field crop rotation"
+      ],
+      "hi": [
+        "खेत की मेड़ों को साफ रखें",
+        "यूरिया का अत्यधिक उपयोग न करें",
+        "फसल चक्र अपनाएं"
+      ],
+      "te": [
+        "పొలంలో కలుపు లేకుండా చూసుకోండి",
+        "యూరియా ఎక్కువ వేయకుండా సమతుల్య ఎరువులు వాడండి",
+        "పంట మార్పిడి చేయండి"
+      ]
+    },
+    "organic_controls": {
+      "en": [
+        "Apply bio-agent (Trichoderma or Bacillus) or 5% Neem Seed Kernel Extract (NSKE) as preventive deterrent"
+      ],
+      "hi": [
+        "ट्राइकोडर्मा या 5% नीम अर्क का छिड़काव करें"
+      ],
+      "te": [
+        "ట్రైకోడెర్మా లేదా 5% వేప గింజల కషాయం పిచికారీ చేయండి"
+      ]
+    },
+    "chemical_controls": {
+      "en": [
+        "Prophylactic protectant: Copper Oxychloride 50% WP @ 3 g/L or Mancozeb 75% WP @ 2.5 g/L",
+        "Ensure compliance with registered agricultural label recommendations and local safety laws."
+      ],
+      "hi": [
+        "निवारक छिड़काव: कॉपर ऑक्सीक्लोराइड @ 3 ग्राम/लीटर या मैंकोजेब @ 2.5 ग्राम/लीटर",
+        "स्थानीय कृषि नियमों और दवा के लेबल निर्देशों का पालन करें।"
+      ],
+      "te": [
+        "రక్షణ కోసం: కాపర్ ఆక్సిక్లోరైడ్ 50% WP @ 3 గ్రా/లీ లేదా మాంకోజెబ్ 75% WP @ 2.5 గ్రా/లీ",
+        "మందుల లేబుల్ సూచనలను మరియు నిబంధనలను ఖచ్చితంగా పాటించండి."
+      ]
+    },
+    "fertilizer_guidance": {
+      "is_fertilizer_cure": false,
+      "explanation": {
+        "en": "IMPORTANT: Fertilizer does NOT cure infections. Avoid heavy nitrogen (Urea) during disease outbreaks as it promotes succulent foliage prone to infection. Maintain potash and balanced micronutrients.",
+        "hi": "महत्वपूर्ण: खाद किसी रोग का इलाज नहीं है। बीमारी के समय अत्यधिक यूरिया न डालें। पोटाश और सूक्ष्म पोषक तत्वों का संतुलित प्रयोग करें।",
+        "te": "ముఖ్య గమనిక: ఎరువులు రోగాన్ని నయం చేయలేవు. తెగులు ఉన్నప్పుడు యూరియా ఎక్కువ వేయకండి. పొటాష్ మరియు సూక్ష్మ పోషకాలు అందించండి."
+      }
+    },
+    "safety_precautions": {
+      "en": [
+        "Wear face mask, gloves, and protective gear when applying chemicals",
+        "Do not spray against the wind or near water bodies",
+        "Keep children and livestock away"
+      ],
+      "hi": [
+        "दवा छिड़कते समय मास्क और दस्ताने पहनें",
+        "हवा के विपरीत दिशा में या जल स्रोतों के पास छिड़काव न करें",
+        "बच्चों और मवेशियों को दूर रखें"
+      ],
+      "te": [
+        "మందులు పిచికారీ చేసేటప్పుడు మాస్క్, గ్లౌజులు ధరించండి",
+        "గాలికి ఎదురుగా లేదా నీటి వనరుల దగ్గర పిచికారీ చేయవద్దు",
+        "పిల్లలు, పశువులను దూరంగా ఉంచండి"
+      ]
+    },
+    "expert_consultation": {
+      "en": "Consult your local Krishi Vigyan Kendra (KVK) or Block Agriculture Extension Officer for exact chemical schedules permitted in your region.",
+      "hi": "अपने क्षेत्र में अनुशंसित दवाओं के लिए स्थानीय कृषि विज्ञान केंद्र (KVK) या कृषि अधिकारी से संपर्क करें।",
+      "te": "ఖచ్చితమైన మందుల సిఫార్సుల కోసం సమీప కృషి విజ్ఞాన కేంద్రం (KVK) లేదా వ్యవసాయ శాఖ అధికారిని సంప్రదించండి."
+    }
+  },
+  "Tomato___Early_blight": {
+    "disease_id": "Tomato___Early_blight",
+    "cultural_controls": {
+      "en": [
+        "Follow a strict 3-year crop rotation avoiding Solanaceae family (potatoes, eggplants, peppers)",
+        "Ensure recommended plant spacing (60 cm x 45 cm) for optimal canopy aeration",
+        "Stake plants securely to keep fruit and foliage off the ground",
+        "Deep plow field residues after harvest to bury fungal spores"
+      ],
+      "hi": [
+        "3 साल का फसल चक्र अपनाएं; टमाटर के बाद आलू, बैंगन या मिर्च न लगाएं",
+        "उचित दूरी (60 सेमी x 45 सेमी) पर रोपाई करें ताकि हवा का आवागमन बना रहे",
+        "पौधों को डंडों (स्टेकिंग) से सहारा देकर पत्तियों को जमीन से ऊपर रखें",
+        "फसल कटाई के बाद खेत की गहरी जुताई करके अवशेषों को दबा दें"
+      ],
+      "te": [
+        "టమోటా తర్వాత వంగ, మిరప, బంగాళాదుంప కాకుండా ఇతర పంటలతో పంట మార్పిడి చేయండి",
+        "మొక్కల మధ్య సరైన దూరం (60 సెం.మీ x 45 సెం.మీ) పాటించండి",
+        "మొక్కలు నేలను తాకకుండా కర్రలతో నిలబెట్టండి (స్టేకింగ్)",
+        "పంట కోత తర్వాత భూమిని లోతుగా దున్ని అవశేషాలను నాశనం చేయండి"
+      ]
+    },
+    "organic_controls": {
+      "en": [
+        "Spray bio-fungicide Bacillus subtilis or Trichoderma viride (5g/L) during early symptom onset",
+        "Apply cold-pressed Neem Seed Kernel Extract (NSKE 5%) or 1500 ppm Azadirachtin as preventative deterrent",
+        "Use Copper octanoate (copper soap) approved for certified organic farming"
+      ],
+      "hi": [
+        "शुरुआती लक्षणों पर ट्राइकोडर्मा विरिडी या बैसिलस सबटिलिस (5 ग्राम/लीटर) का छिड़काव करें",
+        "नीम के बीज का अर्क (NSKE 5%) या एजाडिराक्टिन 1500 पीपीएम का निवारक छिड़काव करें",
+        "प्रमाणित जैविक खेती के लिए कॉपर ऑक्टानोएट का प्रयोग करें"
+      ],
+      "te": [
+        "తెగులు ప్రారంభ దశలో ట్రైకోడెర్మా విరిడే లేదా బాసిల్లస్ సబ్‌టిలిస్ (5 గ్రాములు/లీటరు) పిచికారీ చేయండి",
+        "వేప నూనె లేదా వేప గింజల కషాయం (5%) నివారణగా పిచికారీ చేయండి",
+        "సేంద్రీయ పద్ధతిలో కాపర్ ఆధారిత సేంద్రీయ మిశ్రమాలను వాడండి"
+      ]
+    },
+    "chemical_controls": {
+      "en": [
+        "Preventative contact protectant: Mancozeb 75% WP @ 2.5 g/L water or Chlorothalonil 75% WP @ 2 g/L",
+        "Systemic curative spray if disease progresses: Azoxystrobin 18.2% + Difenoconazole 11.4% SC @ 1 ml/L or Copper Oxychloride 50% WP @ 3 g/L",
+        "IMPORTANT: Observe label pre-harvest intervals (PHI) of 3-7 days before picking fruit. Rotate chemical classes to prevent fungicide resistance."
+      ],
+      "hi": [
+        "निवारक सुरक्षा: मैंकोजेब 75% WP @ 2.5 ग्राम/लीटर या क्लोरोथैलोनिल 75% WP @ 2 ग्राम/लीटर",
+        "गंभीर स्थिति में: एजोक्सिस्ट्रोबिन + डाइफेनोकोनाजोल @ 1 मिली/लीटर या कॉपर ऑक्सीक्लोराइड 50% WP @ 3 ग्राम/लीटर",
+        "महत्वपूर्ण: फल तोड़ने से 3-7 दिन पहले रासायनिक छिड़काव बंद करें (PHI नियम)। कीटनाशक प्रतिरोध से बचने के लिए दवा बदलते रहें।"
+      ],
+      "te": [
+        "నివారణగా: మాంకోజెబ్ 75% WP @ 2.5 గ్రా/లీటరు లేదా క్లోరోథలోనిల్ 75% WP @ 2 గ్రా/లీటరు",
+        "తీవ్రత ఎక్కువగా ఉన్నప్పుడు: అజాక్సిస్ట్రోబిన్ + డైఫెనోకోనజోల్ @ 1 మి.లీ/లీటరు లేదా కాపర్ ఆక్సిక్లోరైడ్ 50% WP @ 3 గ్రా/లీటరు",
+        "ముఖ్య గమనిక: కాయలు కోసే ముందు 3-7 రోజుల వ్యవధి (PHI) పాటించండి. ఒకే మందును పదే పదే కాకుండా మార్చి పిచికారీ చేయండి."
+      ]
+    },
+    "fertilizer_guidance": {
+      "is_fertilizer_cure": false,
+      "explanation": {
+        "en": "REALITY CHECK: Fertilizers DO NOT cure Early Blight! Excessive nitrogen fertilizer (like Urea) stimulates soft succulent vegetative growth which dramatically accelerates fungal spore infection. Instead, ensure adequate potassium (Muriate of Potash/SOP) and balanced calcium to strengthen leaf cell walls.",
+        "hi": "वास्तविकता जांच: उर्वरक या खाद अगेती झुलसा का इलाज नहीं कर सकते! यूरिया (नाइट्रोजन) की अधिक मात्रा से पौधे कोमल होते हैं जिससे फफूंद तेजी से फैलती है। इसके बजाय, पत्तियों की मजबूती के लिए पोटाश और कैल्शियम की संतुलित मात्रा दें।",
+        "te": "నిజానిజాలు: ఎరువులు వేస్తే ఎర్లీ బ్లైట్ తెగులు తగ్గదు! అధిక యూరియా (నత్రజని) వాడటం వల్ల మొక్క లేతగా మారి తెగులు మరింత వేగంగా వ్యాపిస్తుంది. దీనికి బదులుగా, ఆకుల కణజాలం దృఢంగా ఉండటానికి పొటాష్ మరియు సమతుల్య పోషకాలు మాత్రమే అందించండి."
+      }
+    },
+    "safety_precautions": {
+      "en": [
+        "Wear personal protective gear (rubber gloves, N95 mask, eye goggles, and long boots) when preparing and spraying fungicides",
+        "Never spray during windy afternoons; spray early in the morning or late evening to protect honeybees and pollinators",
+        "Keep a minimum 15-meter buffer zone away from open farm ponds, tube wells, and drinking water sources",
+        "Bathe thoroughly and wash clothes separately with soap after spraying"
+      ],
+      "hi": [
+        "दवा बनाते और छिड़कते समय रबर के दस्ताने, मास्क और आंखों का चश्मा अवश्य पहनें",
+        "तेज हवा या दोपहर में छिड़काव न करें; मधुमक्खियों की सुरक्षा के लिए सुबह या शाम को छिड़काव करें",
+        "पीने के पानी के स्रोतों और तालाबों से कम से कम 15 मीटर दूर छिड़काव करें",
+        "छिड़काव के बाद साबुन से स्नान करें और कपड़े अलग धोएं"
+      ],
+      "te": [
+        "మందులు కలిపేటప్పుడు మరియు పిచికారీ చేసేటప్పుడు తప్పనిసరిగా గ్లౌజులు, మాస్క్ మరియు కళ్లద్దాలు ధరించండి",
+        "ఎండ తీవ్రంగా ఉన్నప్పుడు లేదా గాలి వేగంగా ఉన్నప్పుడు కాకుండా, ఉదయం లేదా సాయంత్రం మాత్రమే పిచికారీ చేయండి",
+        "తాగునీటి బావులు, కాల్వలకు కనీసం 15 మీటర్ల దూరంలో జాగ్రత్త వహించండి",
+        "పిచికారీ తర్వాత శుభ్రంగా స్నానం చేసి బట్టలు ఉతకండి"
+      ]
+    },
+    "expert_consultation": {
+      "en": "Consult your local Krishi Vigyan Kendra (KVK) or Block Agriculture Officer to verify pesticide availability, batch registration, and regional weather advisories before application.",
+      "hi": "कीटनाशक का प्रयोग करने से पहले अपने नजदीकी कृषि विज्ञान केंद्र (KVK) या कृषि अधिकारी से उत्पाद और मौसम सलाह की पुष्टि अवश्य करें।",
+      "te": "పురుగుమందులు వాడే ముందు మీ సమీప కృషి విజ్ఞాన కేంద్రం (KVK) లేదా రైతు భరోసా కేంద్రం (RBK) వ్యవసాయ అధికారిని సంప్రదించి సలహా తీసుకోండి."
+    }
+  },
+  "Tomato___Late_blight": {
+    "disease_id": "Tomato___Late_blight",
+    "cultural_controls": {
+      "en": [
+        "Plant certified disease-free transplants and resistant hybrids",
+        "Maintain wide row spacing to maximize solar exposure and leaf drying",
+        "Eliminate volunteer tomato and potato weed plants near field borders",
+        "Destroy cull piles from past seasons completely"
+      ],
+      "hi": [
+        "प्रमाणित रोगमुक्त पौधे और प्रतिरोधी किस्मों का उपयोग करें",
+        "पौधों के बीच पर्याप्त दूरी रखें ताकि पत्तियां जल्दी सूख सकें",
+        "खेत की मेड़ों से जंगली सोलेनेसी खरपतवार नष्ट करें",
+        "पुराने अवशेषों और सड़े हुए फलों के ढेरों को पूरी तरह नष्ट करें"
+      ],
+      "te": [
+        "వ్యాధి నిరోధక రకాలను మరియు సర్టిఫైడ్ నారును మాత్రమే ఎంచుకోండి",
+        "ఆకులు త్వరగా ఆరిపోయేలా మొక్కల మధ్య ఎక్కువ దూరం ఉంచండి",
+        "పొలం గట్లపై ఉండే పిచ్చి మొక్కలను, పాత పంట అవశేషాలను తొలగించండి",
+        "పొలంలో నీరు నిల్వ ఉండకుండా మురుగు నీటి కాల్వలు తీయండి"
+      ]
+    },
+    "organic_controls": {
+      "en": [
+        "Copper hydroxide or Bordeaux mixture (1%) can be applied as a preventive shield prior to rainy spells",
+        "Bio-inoculant Trichoderma harzianum soil drenching during transplanting",
+        "Note: Organic bio-fungicides offer very limited cure once Late Blight epidemic takes hold"
+      ],
+      "hi": [
+        "बारिश के मौसम से पहले बोर्डो मिश्रण (1%) या कॉपर हाइड्रॉक्साइड का सुरक्षात्मक छिड़काव",
+        "रोपाई के समय ट्राइकोडर्मा का जड़ शोधन",
+        "ध्यान दें: बीमारी फैलने के बाद जैविक उपाय कम प्रभावी होते हैं"
+      ],
+      "te": [
+        "వర్షాలు పడటానికి ముందే బోర్డో మిశ్రమం (1%) లేదా కాపర్ హైడ్రాక్సైడ్ పిచికారీ చేయండి",
+        "నారు నాటే సమయంలో ట్రైకోడెర్మాతో వేరు శుద్ధి చేయండి",
+        "గమనిక: వ్యాధి తీవ్రమైన తర్వాత సేంద్రీయ మందులతో నియంత్రించడం చాలా కష్టం"
+      ]
+    },
+    "chemical_controls": {
+      "en": [
+        "Prophylactic protection: Mancozeb 75% WP @ 2.5 g/L or Chlorothalonil @ 2 g/L",
+        "Systemic curative for confirmed outbreaks: Metalaxyl-M + Mancozeb (e.g. Ridomil Gold) @ 2.5 g/L OR Cymoxanil 8% + Mancozeb 64% WP @ 2 g/L OR Dimethomorph 50% WP @ 1 g/L",
+        "Rotate systemic modes of action (FRAC codes) to avert resistance. Strictly observe pre-harvest safety interval."
+      ],
+      "hi": [
+        "निवारक स्प्रे: मैंकोजेब 75% WP @ 2.5 ग्राम/लीटर",
+        "रोग फैलने पर: मेटालैक्सिल-एम + मैंकोजेब (रिडोमिल) @ 2.5 ग्राम/लीटर या साइमोक्सानिल + मैंकोजेब @ 2 ग्राम/लीटर",
+        "फसल काटने से पहले सुरक्षा अंतराल (PHI) का कड़ाई से पालन करें।"
+      ],
+      "te": [
+        "రక్షణ కోసం: మాంకోజెబ్ 75% WP @ 2.5 గ్రా/లీ లేదా క్లోరోథలోనిల్ @ 2 గ్రా/లీ",
+        "వ్యాధి కనిపించిన వెంటనే: మెటలాక్సిల్ + మాంకోజెబ్ (రిడోమిల్ గోల్డ్) @ 2.5 గ్రా/లీ లేదా సైమోక్సానిల్ + మాంకోజెబ్ @ 2 గ్రా/లీ లేదా డైమెథోమార్ఫ్ @ 1 గ్రా/లీ",
+        "మందులు మార్చి పిచికారీ చేయండి మరియు కాయలు కోసే ముందు నిబంధనలను పాటించండి."
+      ]
+    },
+    "fertilizer_guidance": {
+      "is_fertilizer_cure": false,
+      "explanation": {
+        "en": "CRITICAL: NO fertilizer cures Late Blight. Excess nitrogen promotes hyper-vulnerable fleshy tissues that rot twice as fast under Phytophthora attack. Cease nitrogen feeds during outbreak conditions; maintain optimal calcium and boron for membrane integrity.",
+        "hi": "अत्यंत महत्वपूर्ण: कोई भी खाद पछेती झुलसा को ठीक नहीं कर सकती। नाइट्रोजन (यूरिया) डालने से पौधा तेजी से गलता है। बीमारी के समय यूरिया न डालें।",
+        "te": "ముఖ్య గమనిక: లేట్ బ్లైట్‌కు ఎరువులు విరుగుడు కావు. యూరియా వేస్తే మొక్క మరింత త్వరగా కుళ్ళిపోతుంది. తెగులు ఉన్నప్పుడు నత్రజని ఎరువులు వేయకండి."
+      }
+    },
+    "safety_precautions": {
+      "en": [
+        "Late blight sprays require high pressure coverage under leaves; use full respirator mask and goggles",
+        "Metalaxyl and systemic fungicides are hazardous to fish; never wash sprayers near waterways",
+        "Store chemicals locked out of children's reach in original labeled containers"
+      ],
+      "hi": [
+        "पत्तियों के नीचे तक छिड़काव जरूरी है; पूरा मास्क और सुरक्षा चश्मा पहनें",
+        "छिड़काव यंत्रों को तालाबों या नहरों में न धोएं, यह जलीय जीवों के लिए विषैला है",
+        "रसायनों को बच्चों की पहुंच से दूर बंद अलमारी में रखें"
+      ],
+      "te": [
+        "ఆకు అడుగు భాగం తడిసేలా పిచికారీ చేయాలి; రక్షణ మాస్క్ మరియు కళ్లద్దాలు తప్పనిసరి",
+        "ఈ రసాయనాలు జలచరాలకు హానికరం, చెరువుల దగ్గర పంపులను కడగవద్దు",
+        "మందులను పిల్లలకు దూరంగా భద్రపరచండి"
+      ]
+    },
+    "expert_consultation": {
+      "en": "Late blight is a community-level agricultural emergency. Notify your local Krishi Vigyan Kendra (KVK) or Agriculture Extension Officer immediately upon suspicion.",
+      "hi": "पछेती झुलसा एक गंभीर सामुदायिक आपदा बन सकता है। लक्षण दिखते ही अपने स्थानीय कृषि विज्ञान केंद्र (KVK) से संपर्क करें।",
+      "te": "లేట్ బ్లైట్ ఊరంతా వ్యాపించే ప్రమాదం ఉంది. అనుమానం రాగానే మీ ప్రాంతీయ కృషి విజ్ఞాన కేంద్రం (KVK) లేదా రైతు భరోసా కేంద్రం (RBK) అధికారులను సంప్రదించండి."
+    }
+  },
+  "Tomato___Leaf_Mold": {
+    "disease_id": "Tomato___Leaf_Mold",
+    "cultural_controls": {
+      "en": [
+        "Maintain weed sanitation around borders",
+        "Ensure balanced plant nutrition avoiding excess nitrogen",
+        "Practice field crop rotation"
+      ],
+      "hi": [
+        "खेत की मेड़ों को साफ रखें",
+        "यूरिया का अत्यधिक उपयोग न करें",
+        "फसल चक्र अपनाएं"
+      ],
+      "te": [
+        "పొలంలో కలుపు లేకుండా చూసుకోండి",
+        "యూరియా ఎక్కువ వేయకుండా సమతుల్య ఎరువులు వాడండి",
+        "పంట మార్పిడి చేయండి"
+      ]
+    },
+    "organic_controls": {
+      "en": [
+        "Apply bio-agent (Trichoderma or Bacillus) or 5% Neem Seed Kernel Extract (NSKE) as preventive deterrent"
+      ],
+      "hi": [
+        "ट्राइकोडर्मा या 5% नीम अर्क का छिड़काव करें"
+      ],
+      "te": [
+        "ట్రైకోడెర్మా లేదా 5% వేప గింజల కషాయం పిచికారీ చేయండి"
+      ]
+    },
+    "chemical_controls": {
+      "en": [
+        "Prophylactic protectant: Copper Oxychloride 50% WP @ 3 g/L or Mancozeb 75% WP @ 2.5 g/L",
+        "Ensure compliance with registered agricultural label recommendations and local safety laws."
+      ],
+      "hi": [
+        "निवारक छिड़काव: कॉपर ऑक्सीक्लोराइड @ 3 ग्राम/लीटर या मैंकोजेब @ 2.5 ग्राम/लीटर",
+        "स्थानीय कृषि नियमों और दवा के लेबल निर्देशों का पालन करें।"
+      ],
+      "te": [
+        "రక్షణ కోసం: కాపర్ ఆక్సిక్లోరైడ్ 50% WP @ 3 గ్రా/లీ లేదా మాంకోజెబ్ 75% WP @ 2.5 గ్రా/లీ",
+        "మందుల లేబుల్ సూచనలను మరియు నిబంధనలను ఖచ్చితంగా పాటించండి."
+      ]
+    },
+    "fertilizer_guidance": {
+      "is_fertilizer_cure": false,
+      "explanation": {
+        "en": "IMPORTANT: Fertilizer does NOT cure infections. Avoid heavy nitrogen (Urea) during disease outbreaks as it promotes succulent foliage prone to infection. Maintain potash and balanced micronutrients.",
+        "hi": "महत्वपूर्ण: खाद किसी रोग का इलाज नहीं है। बीमारी के समय अत्यधिक यूरिया न डालें। पोटाश और सूक्ष्म पोषक तत्वों का संतुलित प्रयोग करें।",
+        "te": "ముఖ్య గమనిక: ఎరువులు రోగాన్ని నయం చేయలేవు. తెగులు ఉన్నప్పుడు యూరియా ఎక్కువ వేయకండి. పొటాష్ మరియు సూక్ష్మ పోషకాలు అందించండి."
+      }
+    },
+    "safety_precautions": {
+      "en": [
+        "Wear face mask, gloves, and protective gear when applying chemicals",
+        "Do not spray against the wind or near water bodies",
+        "Keep children and livestock away"
+      ],
+      "hi": [
+        "दवा छिड़कते समय मास्क और दस्ताने पहनें",
+        "हवा के विपरीत दिशा में या जल स्रोतों के पास छिड़काव न करें",
+        "बच्चों और मवेशियों को दूर रखें"
+      ],
+      "te": [
+        "మందులు పిచికారీ చేసేటప్పుడు మాస్క్, గ్లౌజులు ధరించండి",
+        "గాలికి ఎదురుగా లేదా నీటి వనరుల దగ్గర పిచికారీ చేయవద్దు",
+        "పిల్లలు, పశువులను దూరంగా ఉంచండి"
+      ]
+    },
+    "expert_consultation": {
+      "en": "Consult your local Krishi Vigyan Kendra (KVK) or Block Agriculture Extension Officer for exact chemical schedules permitted in your region.",
+      "hi": "अपने क्षेत्र में अनुशंसित दवाओं के लिए स्थानीय कृषि विज्ञान केंद्र (KVK) या कृषि अधिकारी से संपर्क करें।",
+      "te": "ఖచ్చితమైన మందుల సిఫార్సుల కోసం సమీప కృషి విజ్ఞాన కేంద్రం (KVK) లేదా వ్యవసాయ శాఖ అధికారిని సంప్రదించండి."
+    }
+  },
+  "Tomato___Septoria_leaf_spot": {
+    "disease_id": "Tomato___Septoria_leaf_spot",
+    "cultural_controls": {
+      "en": [
+        "Maintain weed sanitation around borders",
+        "Ensure balanced plant nutrition avoiding excess nitrogen",
+        "Practice field crop rotation"
+      ],
+      "hi": [
+        "खेत की मेड़ों को साफ रखें",
+        "यूरिया का अत्यधिक उपयोग न करें",
+        "फसल चक्र अपनाएं"
+      ],
+      "te": [
+        "పొలంలో కలుపు లేకుండా చూసుకోండి",
+        "యూరియా ఎక్కువ వేయకుండా సమతుల్య ఎరువులు వాడండి",
+        "పంట మార్పిడి చేయండి"
+      ]
+    },
+    "organic_controls": {
+      "en": [
+        "Apply bio-agent (Trichoderma or Bacillus) or 5% Neem Seed Kernel Extract (NSKE) as preventive deterrent"
+      ],
+      "hi": [
+        "ट्राइकोडर्मा या 5% नीम अर्क का छिड़काव करें"
+      ],
+      "te": [
+        "ట్రైకోడెర్మా లేదా 5% వేప గింజల కషాయం పిచికారీ చేయండి"
+      ]
+    },
+    "chemical_controls": {
+      "en": [
+        "Prophylactic protectant: Copper Oxychloride 50% WP @ 3 g/L or Mancozeb 75% WP @ 2.5 g/L",
+        "Ensure compliance with registered agricultural label recommendations and local safety laws."
+      ],
+      "hi": [
+        "निवारक छिड़काव: कॉपर ऑक्सीक्लोराइड @ 3 ग्राम/लीटर या मैंकोजेब @ 2.5 ग्राम/लीटर",
+        "स्थानीय कृषि नियमों और दवा के लेबल निर्देशों का पालन करें।"
+      ],
+      "te": [
+        "రక్షణ కోసం: కాపర్ ఆక్సిక్లోరైడ్ 50% WP @ 3 గ్రా/లీ లేదా మాంకోజెబ్ 75% WP @ 2.5 గ్రా/లీ",
+        "మందుల లేబుల్ సూచనలను మరియు నిబంధనలను ఖచ్చితంగా పాటించండి."
+      ]
+    },
+    "fertilizer_guidance": {
+      "is_fertilizer_cure": false,
+      "explanation": {
+        "en": "IMPORTANT: Fertilizer does NOT cure infections. Avoid heavy nitrogen (Urea) during disease outbreaks as it promotes succulent foliage prone to infection. Maintain potash and balanced micronutrients.",
+        "hi": "महत्वपूर्ण: खाद किसी रोग का इलाज नहीं है। बीमारी के समय अत्यधिक यूरिया न डालें। पोटाश और सूक्ष्म पोषक तत्वों का संतुलित प्रयोग करें।",
+        "te": "ముఖ్య గమనిక: ఎరువులు రోగాన్ని నయం చేయలేవు. తెగులు ఉన్నప్పుడు యూరియా ఎక్కువ వేయకండి. పొటాష్ మరియు సూక్ష్మ పోషకాలు అందించండి."
+      }
+    },
+    "safety_precautions": {
+      "en": [
+        "Wear face mask, gloves, and protective gear when applying chemicals",
+        "Do not spray against the wind or near water bodies",
+        "Keep children and livestock away"
+      ],
+      "hi": [
+        "दवा छिड़कते समय मास्क और दस्ताने पहनें",
+        "हवा के विपरीत दिशा में या जल स्रोतों के पास छिड़काव न करें",
+        "बच्चों और मवेशियों को दूर रखें"
+      ],
+      "te": [
+        "మందులు పిచికారీ చేసేటప్పుడు మాస్క్, గ్లౌజులు ధరించండి",
+        "గాలికి ఎదురుగా లేదా నీటి వనరుల దగ్గర పిచికారీ చేయవద్దు",
+        "పిల్లలు, పశువులను దూరంగా ఉంచండి"
+      ]
+    },
+    "expert_consultation": {
+      "en": "Consult your local Krishi Vigyan Kendra (KVK) or Block Agriculture Extension Officer for exact chemical schedules permitted in your region.",
+      "hi": "अपने क्षेत्र में अनुशंसित दवाओं के लिए स्थानीय कृषि विज्ञान केंद्र (KVK) या कृषि अधिकारी से संपर्क करें।",
+      "te": "ఖచ్చితమైన మందుల సిఫార్సుల కోసం సమీప కృషి విజ్ఞాన కేంద్రం (KVK) లేదా వ్యవసాయ శాఖ అధికారిని సంప్రదించండి."
+    }
+  },
+  "Tomato___Spider_mites Two-spotted_spider_mite": {
+    "disease_id": "Tomato___Spider_mites Two-spotted_spider_mite",
+    "cultural_controls": {
+      "en": [
+        "Maintain weed sanitation around borders",
+        "Ensure balanced plant nutrition avoiding excess nitrogen",
+        "Practice field crop rotation"
+      ],
+      "hi": [
+        "खेत की मेड़ों को साफ रखें",
+        "यूरिया का अत्यधिक उपयोग न करें",
+        "फसल चक्र अपनाएं"
+      ],
+      "te": [
+        "పొలంలో కలుపు లేకుండా చూసుకోండి",
+        "యూరియా ఎక్కువ వేయకుండా సమతుల్య ఎరువులు వాడండి",
+        "పంట మార్పిడి చేయండి"
+      ]
+    },
+    "organic_controls": {
+      "en": [
+        "Apply bio-agent (Trichoderma or Bacillus) or 5% Neem Seed Kernel Extract (NSKE) as preventive deterrent"
+      ],
+      "hi": [
+        "ट्राइकोडर्मा या 5% नीम अर्क का छिड़काव करें"
+      ],
+      "te": [
+        "ట్రైకోడెర్మా లేదా 5% వేప గింజల కషాయం పిచికారీ చేయండి"
+      ]
+    },
+    "chemical_controls": {
+      "en": [
+        "Prophylactic protectant: Copper Oxychloride 50% WP @ 3 g/L or Mancozeb 75% WP @ 2.5 g/L",
+        "Ensure compliance with registered agricultural label recommendations and local safety laws."
+      ],
+      "hi": [
+        "निवारक छिड़काव: कॉपर ऑक्सीक्लोराइड @ 3 ग्राम/लीटर या मैंकोजेब @ 2.5 ग्राम/लीटर",
+        "स्थानीय कृषि नियमों और दवा के लेबल निर्देशों का पालन करें।"
+      ],
+      "te": [
+        "రక్షణ కోసం: కాపర్ ఆక్సిక్లోరైడ్ 50% WP @ 3 గ్రా/లీ లేదా మాంకోజెబ్ 75% WP @ 2.5 గ్రా/లీ",
+        "మందుల లేబుల్ సూచనలను మరియు నిబంధనలను ఖచ్చితంగా పాటించండి."
+      ]
+    },
+    "fertilizer_guidance": {
+      "is_fertilizer_cure": false,
+      "explanation": {
+        "en": "IMPORTANT: Fertilizer does NOT cure infections. Avoid heavy nitrogen (Urea) during disease outbreaks as it promotes succulent foliage prone to infection. Maintain potash and balanced micronutrients.",
+        "hi": "महत्वपूर्ण: खाद किसी रोग का इलाज नहीं है। बीमारी के समय अत्यधिक यूरिया न डालें। पोटाश और सूक्ष्म पोषक तत्वों का संतुलित प्रयोग करें।",
+        "te": "ముఖ్య గమనిక: ఎరువులు రోగాన్ని నయం చేయలేవు. తెగులు ఉన్నప్పుడు యూరియా ఎక్కువ వేయకండి. పొటాష్ మరియు సూక్ష్మ పోషకాలు అందించండి."
+      }
+    },
+    "safety_precautions": {
+      "en": [
+        "Wear face mask, gloves, and protective gear when applying chemicals",
+        "Do not spray against the wind or near water bodies",
+        "Keep children and livestock away"
+      ],
+      "hi": [
+        "दवा छिड़कते समय मास्क और दस्ताने पहनें",
+        "हवा के विपरीत दिशा में या जल स्रोतों के पास छिड़काव न करें",
+        "बच्चों और मवेशियों को दूर रखें"
+      ],
+      "te": [
+        "మందులు పిచికారీ చేసేటప్పుడు మాస్క్, గ్లౌజులు ధరించండి",
+        "గాలికి ఎదురుగా లేదా నీటి వనరుల దగ్గర పిచికారీ చేయవద్దు",
+        "పిల్లలు, పశువులను దూరంగా ఉంచండి"
+      ]
+    },
+    "expert_consultation": {
+      "en": "Consult your local Krishi Vigyan Kendra (KVK) or Block Agriculture Extension Officer for exact chemical schedules permitted in your region.",
+      "hi": "अपने क्षेत्र में अनुशंसित दवाओं के लिए स्थानीय कृषि विज्ञान केंद्र (KVK) या कृषि अधिकारी से संपर्क करें।",
+      "te": "ఖచ్చితమైన మందుల సిఫార్సుల కోసం సమీప కృషి విజ్ఞాన కేంద్రం (KVK) లేదా వ్యవసాయ శాఖ అధికారిని సంప్రదించండి."
+    }
+  },
+  "Tomato___Target_Spot": {
+    "disease_id": "Tomato___Target_Spot",
+    "cultural_controls": {
+      "en": [
+        "Maintain weed sanitation around borders",
+        "Ensure balanced plant nutrition avoiding excess nitrogen",
+        "Practice field crop rotation"
+      ],
+      "hi": [
+        "खेत की मेड़ों को साफ रखें",
+        "यूरिया का अत्यधिक उपयोग न करें",
+        "फसल चक्र अपनाएं"
+      ],
+      "te": [
+        "పొలంలో కలుపు లేకుండా చూసుకోండి",
+        "యూరియా ఎక్కువ వేయకుండా సమతుల్య ఎరువులు వాడండి",
+        "పంట మార్పిడి చేయండి"
+      ]
+    },
+    "organic_controls": {
+      "en": [
+        "Apply bio-agent (Trichoderma or Bacillus) or 5% Neem Seed Kernel Extract (NSKE) as preventive deterrent"
+      ],
+      "hi": [
+        "ट्राइकोडर्मा या 5% नीम अर्क का छिड़काव करें"
+      ],
+      "te": [
+        "ట్రైకోడెర్మా లేదా 5% వేప గింజల కషాయం పిచికారీ చేయండి"
+      ]
+    },
+    "chemical_controls": {
+      "en": [
+        "Prophylactic protectant: Copper Oxychloride 50% WP @ 3 g/L or Mancozeb 75% WP @ 2.5 g/L",
+        "Ensure compliance with registered agricultural label recommendations and local safety laws."
+      ],
+      "hi": [
+        "निवारक छिड़काव: कॉपर ऑक्सीक्लोराइड @ 3 ग्राम/लीटर या मैंकोजेब @ 2.5 ग्राम/लीटर",
+        "स्थानीय कृषि नियमों और दवा के लेबल निर्देशों का पालन करें।"
+      ],
+      "te": [
+        "రక్షణ కోసం: కాపర్ ఆక్సిక్లోరైడ్ 50% WP @ 3 గ్రా/లీ లేదా మాంకోజెబ్ 75% WP @ 2.5 గ్రా/లీ",
+        "మందుల లేబుల్ సూచనలను మరియు నిబంధనలను ఖచ్చితంగా పాటించండి."
+      ]
+    },
+    "fertilizer_guidance": {
+      "is_fertilizer_cure": false,
+      "explanation": {
+        "en": "IMPORTANT: Fertilizer does NOT cure infections. Avoid heavy nitrogen (Urea) during disease outbreaks as it promotes succulent foliage prone to infection. Maintain potash and balanced micronutrients.",
+        "hi": "महत्वपूर्ण: खाद किसी रोग का इलाज नहीं है। बीमारी के समय अत्यधिक यूरिया न डालें। पोटाश और सूक्ष्म पोषक तत्वों का संतुलित प्रयोग करें।",
+        "te": "ముఖ్య గమనిక: ఎరువులు రోగాన్ని నయం చేయలేవు. తెగులు ఉన్నప్పుడు యూరియా ఎక్కువ వేయకండి. పొటాష్ మరియు సూక్ష్మ పోషకాలు అందించండి."
+      }
+    },
+    "safety_precautions": {
+      "en": [
+        "Wear face mask, gloves, and protective gear when applying chemicals",
+        "Do not spray against the wind or near water bodies",
+        "Keep children and livestock away"
+      ],
+      "hi": [
+        "दवा छिड़कते समय मास्क और दस्ताने पहनें",
+        "हवा के विपरीत दिशा में या जल स्रोतों के पास छिड़काव न करें",
+        "बच्चों और मवेशियों को दूर रखें"
+      ],
+      "te": [
+        "మందులు పిచికారీ చేసేటప్పుడు మాస్క్, గ్లౌజులు ధరించండి",
+        "గాలికి ఎదురుగా లేదా నీటి వనరుల దగ్గర పిచికారీ చేయవద్దు",
+        "పిల్లలు, పశువులను దూరంగా ఉంచండి"
+      ]
+    },
+    "expert_consultation": {
+      "en": "Consult your local Krishi Vigyan Kendra (KVK) or Block Agriculture Extension Officer for exact chemical schedules permitted in your region.",
+      "hi": "अपने क्षेत्र में अनुशंसित दवाओं के लिए स्थानीय कृषि विज्ञान केंद्र (KVK) या कृषि अधिकारी से संपर्क करें।",
+      "te": "ఖచ్చితమైన మందుల సిఫార్సుల కోసం సమీప కృషి విజ్ఞాన కేంద్రం (KVK) లేదా వ్యవసాయ శాఖ అధికారిని సంప్రదించండి."
+    }
+  },
+  "Tomato___Tomato_Yellow_Leaf_Curl_Virus": {
+    "disease_id": "Tomato___Tomato_Yellow_Leaf_Curl_Virus",
+    "cultural_controls": {
+      "en": [
+        "Raise tomato nursery seedlings under 40-50 mesh insect-proof nylon nets for 25-30 days",
+        "Plant TYLCV-tolerant/resistant hybrid varieties",
+        "Plant border barrier crops (3-4 rows of maize, sorghum, or pearl millet) around the tomato field",
+        "Use reflective silver plastic mulch to disorient incoming whiteflies"
+      ],
+      "hi": [
+        "नर्सरी को 40-50 मेश वाली कीटरोधी जाली के नीचे उगाएं",
+        "वायरस-प्रतिरोधी संकर किस्मों का चयन करें",
+        "खेत के चारों ओर 3-4 कतारें मक्का या ज्वार की सुरक्षात्मक फसल (बॉर्डर क्रॉप) लगाएं",
+        "सिल्वर रिफ्लेक्टिव प्लास्टिक मल्चिंग का उपयोग करें जिससे कीट भ्रमित होते हैं"
+      ],
+      "te": [
+        "నర్సరీని 40-50 మెష్ దోమతెరల కింద 25-30 రోజులు పెంచండి",
+        "వైరస్ తట్టుకునే హైబ్రిడ్ రకాలను మాత్రమే ఎంచుకోండి",
+        "పొలం చుట్టూ రక్షణగా 3-4 వరుసలు జొన్న లేదా మొక్కజొన్నను సరిహద్దు పంటగా వేయండి",
+        "తెల్లదోమలను ఆకర్షించకుండా సిల్వర్ మల్చింగ్ షీట్లను వాడండి"
+      ]
+    },
+    "organic_controls": {
+      "en": [
+        "Spray 5% Neem Seed Kernel Extract (NSKE) or Neem Oil (10,000 ppm) @ 2 ml/L against whitefly nymphs",
+        "Foliar application of entomopathogenic fungus Beauveria bassiana or Verticillium lecanii @ 5g/L under humid conditions",
+        "Apply yellow sticky ribbon traps along borders"
+      ],
+      "hi": [
+        "सफेद मक्खी पर 5% नीम अर्क (NSKE) या नीम का तेल (10,000 पीपीएम) 2 मिली/लीटर छिड़कें",
+        "जैविक फफूंद ब्युवेरिया बासियाना या वर्टिसिलियम लेकानी (5 ग्राम/लीटर) का छिड़काव करें",
+        "किनारों पर पीले चिपचिपे रिबन लगाएं"
+      ],
+      "te": [
+        "తెల్లదోమ నివారణకు వేప గింజల కషాయం (5%) లేదా వేప నూనె (10,000 ppm) @ 2 మి.లీ/లీటరు పిచికారీ చేయండి",
+        "బ్యూవేరియా బాసియానా లేదా వర్టిసిలియం లెకాని (5 గ్రా/లీ) పిచికారీ చేయండి",
+        "పొలం అంచుల వెంట పసుపు రంగు జిగురు రిబ్బన్లు అమర్చండి"
+      ]
+    },
+    "chemical_controls": {
+      "en": [
+        "NOTE: There is NO chemical viricide that kills plant viruses. Control targets the whitefly insect vector only.",
+        "Targeting whiteflies: Diafenthiuron 50% WP @ 1.25 g/L OR Spiromesifen 22.9% SC @ 1 ml/L OR Acetamiprid 20% SP @ 0.3 g/L",
+        "Alternate with Pyriproxyfen 10% EC @ 1.5 ml/L (insect growth regulator against eggs and nymphs)",
+        "Do not spray systemic neonicotinoids repeatedly to avoid chemical resistance"
+      ],
+      "hi": [
+        "विशेष नोट: वायरस को मारने वाली कोई दवा नहीं आती। केवल सफेद मक्खी कीट को नियंत्रित करना होता है।",
+        "सफेद मक्खी नियंत्रण: डायाफेन्थियुरॉन 50% WP @ 1.25 ग्राम/ली या स्पाइरोमेसिफेन 22.9% SC @ 1 मिली/ली",
+        "अंडों और बच्चों के लिए: पाइरीप्रॉक्सिफेन 10% EC @ 1.5 मिली/लीटर",
+        "कीटनाशक प्रतिरोध से बचने के लिए दवा बदलते रहें"
+      ],
+      "te": [
+        "ముఖ్య గమనిక: వైరస్‌ను చంపే పురుగుమందులు ఏవీ ఉండవు. కేవలం తెల్లదోమలను మాత్రమే అరికట్టాలి.",
+        "తెల్లదోమల నివారణకు: డయాఫెంథియురాన్ 50% WP @ 1.25 గ్రా/లీ లేదా స్పైరోమెసిఫెన్ 22.9% SC @ 1 మి.లీ/లీ లేదా ఎసిటామిప్రిడ్ @ 0.3 గ్రా/లీ",
+        "గుడ్లు మరియు పిల్ల దోమల కోసం: పైరిప్రాక్సిఫెన్ 10% EC @ 1.5 మి.లీ/లీ పిచికారీ చేయండి",
+        "ఒకే గ్రూపు మందులను మళ్లీ మళ్లీ వాడకండి"
+      ]
+    },
+    "fertilizer_guidance": {
+      "is_fertilizer_cure": false,
+      "explanation": {
+        "en": "WARNING: Fertilizers ABSOLUTELY CANNOT cure plant viruses. Plant leaf curl virus is inside the plant vascular genetic system. Applying extra nitrogen or micronutrient tonics will NOT reverse curling and will only attract more sap-sucking whiteflies.",
+        "hi": "चेतावनी: कोई भी खाद या टॉनिक वायरस को ठीक नहीं कर सकता। अतिरिक्त यूरिया या टॉनिक डालने से पत्तियां कोमल होंगी जिससे और अधिक सफेद मक्खियां आकर्षित होंगी।",
+        "te": "హెచ్చరిక: ఎరువులు లేదా టానిక్లు వైరస్ రోగాన్ని ఎంతమాత్రం తగ్గించలేవు. అదనపు యూరియా వేస్తే మొక్క లేతగా మారి మరింత ఎక్కువ తెల్లదోమలు దాడి చేస్తాయి."
+      }
+    },
+    "safety_precautions": {
+      "en": [
+        "Whitefly insecticides are toxic to honeybees; avoid spraying during active morning foraging hours",
+        "Do not spray against the wind; wear protective respirator and wash hands thoroughly",
+        "Dispose of empty insecticide containers safely according to government environmental guidelines"
+      ],
+      "hi": [
+        "कीटनाशक मधुमक्खियों के लिए विषैले हैं; सुबह मधुमक्खियों के विचरण के समय छिड़काव न करें",
+        "हवा के विपरीत दिशा में छिड़काव न करें; सुरक्षा मास्क अवश्य पहनें",
+        "खाली बोतलों को जमीन में सुरक्षित तरीके से दबाएं"
+      ],
+      "te": [
+        "ఈ పురుగుమందులు తేనెటీగలకు హానికరం, కాబట్టి ఉదయం వేళల్లో పిచికారీ చేయవద్దు",
+        "గాలికి ఎదురుగా పిచికారీ చేయకండి, రక్షణ మాస్క్ ధరించండి",
+        "ఖాళీ డబ్బాలను సురక్షితంగా పారవేయండి"
+      ]
+    },
+    "expert_consultation": {
+      "en": "If whitefly resistance is high in your mandal/taluk, consult the local Agriculture Research Station or KVK for regional pest threshold advisories.",
+      "hi": "यदि आपके क्षेत्र में सफेद मक्खी कीटनाशकों से नहीं मर रही है, तो स्थानीय कृषि विज्ञान केंद्र (KVK) से संपर्क करें।",
+      "te": "మీ ప్రాంతంలో తెల్లదోమల బెడద ఎక్కువగా ఉంటే తక్షణమే కృషి విజ్ఞాన కేంద్రం (KVK) నిపుణులను సంప్రదించండి."
+    }
+  },
+  "Tomato___Tomato_mosaic_virus": {
+    "disease_id": "Tomato___Tomato_mosaic_virus",
+    "cultural_controls": {
+      "en": [
+        "Maintain weed sanitation around borders",
+        "Ensure balanced plant nutrition avoiding excess nitrogen",
+        "Practice field crop rotation"
+      ],
+      "hi": [
+        "खेत की मेड़ों को साफ रखें",
+        "यूरिया का अत्यधिक उपयोग न करें",
+        "फसल चक्र अपनाएं"
+      ],
+      "te": [
+        "పొలంలో కలుపు లేకుండా చూసుకోండి",
+        "యూరియా ఎక్కువ వేయకుండా సమతుల్య ఎరువులు వాడండి",
+        "పంట మార్పిడి చేయండి"
+      ]
+    },
+    "organic_controls": {
+      "en": [
+        "Apply bio-agent (Trichoderma or Bacillus) or 5% Neem Seed Kernel Extract (NSKE) as preventive deterrent"
+      ],
+      "hi": [
+        "ट्राइकोडर्मा या 5% नीम अर्क का छिड़काव करें"
+      ],
+      "te": [
+        "ట్రైకోడెర్మా లేదా 5% వేప గింజల కషాయం పిచికారీ చేయండి"
+      ]
+    },
+    "chemical_controls": {
+      "en": [
+        "Prophylactic protectant: Copper Oxychloride 50% WP @ 3 g/L or Mancozeb 75% WP @ 2.5 g/L",
+        "Ensure compliance with registered agricultural label recommendations and local safety laws."
+      ],
+      "hi": [
+        "निवारक छिड़काव: कॉपर ऑक्सीक्लोराइड @ 3 ग्राम/लीटर या मैंकोजेब @ 2.5 ग्राम/लीटर",
+        "स्थानीय कृषि नियमों और दवा के लेबल निर्देशों का पालन करें।"
+      ],
+      "te": [
+        "రక్షణ కోసం: కాపర్ ఆక్సిక్లోరైడ్ 50% WP @ 3 గ్రా/లీ లేదా మాంకోజెబ్ 75% WP @ 2.5 గ్రా/లీ",
+        "మందుల లేబుల్ సూచనలను మరియు నిబంధనలను ఖచ్చితంగా పాటించండి."
+      ]
+    },
+    "fertilizer_guidance": {
+      "is_fertilizer_cure": false,
+      "explanation": {
+        "en": "IMPORTANT: Fertilizer does NOT cure infections. Avoid heavy nitrogen (Urea) during disease outbreaks as it promotes succulent foliage prone to infection. Maintain potash and balanced micronutrients.",
+        "hi": "महत्वपूर्ण: खाद किसी रोग का इलाज नहीं है। बीमारी के समय अत्यधिक यूरिया न डालें। पोटाश और सूक्ष्म पोषक तत्वों का संतुलित प्रयोग करें।",
+        "te": "ముఖ్య గమనిక: ఎరువులు రోగాన్ని నయం చేయలేవు. తెగులు ఉన్నప్పుడు యూరియా ఎక్కువ వేయకండి. పొటాష్ మరియు సూక్ష్మ పోషకాలు అందించండి."
+      }
+    },
+    "safety_precautions": {
+      "en": [
+        "Wear face mask, gloves, and protective gear when applying chemicals",
+        "Do not spray against the wind or near water bodies",
+        "Keep children and livestock away"
+      ],
+      "hi": [
+        "दवा छिड़कते समय मास्क और दस्ताने पहनें",
+        "हवा के विपरीत दिशा में या जल स्रोतों के पास छिड़काव न करें",
+        "बच्चों और मवेशियों को दूर रखें"
+      ],
+      "te": [
+        "మందులు పిచికారీ చేసేటప్పుడు మాస్క్, గ్లౌజులు ధరించండి",
+        "గాలికి ఎదురుగా లేదా నీటి వనరుల దగ్గర పిచికారీ చేయవద్దు",
+        "పిల్లలు, పశువులను దూరంగా ఉంచండి"
+      ]
+    },
+    "expert_consultation": {
+      "en": "Consult your local Krishi Vigyan Kendra (KVK) or Block Agriculture Extension Officer for exact chemical schedules permitted in your region.",
+      "hi": "अपने क्षेत्र में अनुशंसित दवाओं के लिए स्थानीय कृषि विज्ञान केंद्र (KVK) या कृषि अधिकारी से संपर्क करें।",
+      "te": "ఖచ్చితమైన మందుల సిఫార్సుల కోసం సమీప కృషి విజ్ఞాన కేంద్రం (KVK) లేదా వ్యవసాయ శాఖ అధికారిని సంప్రదించండి."
+    }
+  },
+  "Tomato___healthy": {
+    "disease_id": "Tomato___healthy",
+    "cultural_controls": {
+      "en": [
+        "Maintain recommended weed sanitation and plant spacing",
+        "Ensure balanced NPK soil application based on soil testing",
+        "Mulch around roots to conserve soil moisture"
+      ],
+      "hi": [
+        "खेत को खरपतवार मुक्त रखें और पौधों में उचित दूरी बनाएं रखें",
+        "मिट्टी परीक्षण के अनुसार संतुलित खाद डालें",
+        "नमी बनाए रखने के लिए मल्चिंग करें"
+      ],
+      "te": [
+        "కలుపు లేకుండా పొలాన్ని శుభ్రంగా ఉంచండి",
+        "భూసార పరీక్ష ఆధారంగా ఎరువులు వేయండి",
+        "తేమ సంరక్షణకు మల్చింగ్ చేయండి"
+      ]
+    },
+    "organic_controls": {
+      "en": [
+        "Routine prophylactic neem oil spray (3000 ppm @ 2 ml/L) to deter sucking pests",
+        "Periodic soil application of well-decomposed FYM and bio-fertilizers (Azotobacter/PSB)"
+      ],
+      "hi": [
+        "कीटों से बचाव के लिए नीम तेल (2 मिली/लीटर) का निवारक छिड़काव",
+        "सड़ी गोबर की खाद और जैव-उर्वरकों का प्रयोग"
+      ],
+      "te": [
+        "పురుగులు రాకుండా వేప నూనె (2 మి.లీ/లీ) పిచికారీ చేయండి",
+        "బాగా చివికిన పశువుల ఎరువు మరియు జీవన ఎరువులు వేయండి"
+      ]
+    },
+    "chemical_controls": {
+      "en": [
+        "NO CHEMICAL SPRAY IS RECOMMENDED FOR HEALTHY LEAVES. Unnecessary spraying wastes money and damages beneficial pollinator insects."
+      ],
+      "hi": [
+        "स्वस्थ फसल पर किसी रासायनिक कीटनाशक के छिड़काव की आवश्यकता नहीं है। अनावश्यक दवा से मित्र कीट मरते हैं।"
+      ],
+      "te": [
+        "ఆరోగ్యంగా ఉన్న పంటపై ఎటువంటి పురుగుమందులు కొట్టవద్దు. అనవసర పిచికారీ వల్ల డబ్బు వృధా అవ్వడమే కాక మేలు చేసే కీటకాలు చనిపోతాయి."
+      ]
+    },
+    "fertilizer_guidance": {
+      "is_fertilizer_cure": true,
+      "explanation": {
+        "en": "Apply standard recommended split doses of NPK as per your state agriculture package of practices. Avoid over-applying urea.",
+        "hi": "कृषि विभाग की अनुशंसा के अनुसार संतुलित खाद डालें। अत्यधिक यूरिया से बचें।",
+        "te": "వ్యవసాయ శాఖ సిఫార్సుల మేరకు తగిన మోతాదులో సమతుల్య ఎరువులు వేయండి. యూరియా ఎక్కువ వేయవద్దు."
+      }
+    },
+    "safety_precautions": {
+      "en": [
+        "Store all farm inputs securely away from livestock and drinking water",
+        "Wash vegetables and fruits with clean water before consumption"
+      ],
+      "hi": [
+        "कृषि रसायनों को बच्चों और मवेशियों से दूर रखें",
+        "फलों-सब्जियों को खाने से पहले साफ पानी से धोएं"
+      ],
+      "te": [
+        "వ్యవసాయ ఉత్పత్తులను పిల్లలు, పశువులకు దూరంగా ఉంచండి",
+        "కూరగాయలను వాడే ముందు శుభ్రమైన నీటితో కడగండి"
+      ]
+    },
+    "expert_consultation": {
+      "en": "Keep in regular contact with your nearest Krishi Vigyan Kendra (KVK) or local Agricultural Extension Officer for seasonal advisories.",
+      "hi": "मौसमी सलाह के लिए अपने स्थानीय कृषि विज्ञान केंद्र (KVK) से संपर्क बनाए रखें।",
+      "te": "సమయానుకూల సలహాల కోసం మీ సమీప కృషి విజ్ఞాన కేంద్రం (KVK) అధికారులను సంప్రదిస్తూ ఉండండి."
+    }
+  }
+}
